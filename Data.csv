@@ -1,0 +1,817 @@
+Match Gap,Month,Date,Date_Converted,MathType,Season,HomeAway,Team_Name,Team,TeamRanking,Home,Home_Ranking,Away,Away_Ranking,FinalScore,ScoreGoal,GetGoal,Results,PreScoreGoal,PrePreScoreGoal,PreGetGoal,PrePreGetGoal,Ramos_Position,RamosTime,RamosGoal,RamosAss
+-,9,2005. 9. 10,"Sep 10, 2005",1,05/06,0,Celta de Vigo,20,2,Real Madrid,Real Madrid  (5.),Celta de Vigo,Celta de Vigo  (2.),2:3,2,3,2,,,,,,,,
+3,9,2005. 9. 13,"Sep 13, 2005",0,05/06,1,Olympique Lyon,54,0,Olympique Lyon,,Real Madrid,,3:0,0,3,2,,,,,CB,,,
+5,9,2005. 9. 18,"Sep 18, 2005",1,05/06,1,RCD Espanyol Barcelona,60,12,RCD Espanyol Barcelona,Espanyol  (12.),Real Madrid,Real Madrid  (8.),1:0,0,1,2,0,2,3,3,CB,90,0,0
+4,9,2005. 9. 22,"Sep 22, 2005",1,05/06,0,Athletic Bilbao,8,7,Real Madrid,Real Madrid  (15.),Athletic Bilbao,Athletic  (7.),3:1,3,1,0,0,0,1,3,not in squad,68,0,0
+3,9,2005. 9. 25,"Sep 25, 2005",1,05/06,1,Deportivo Alavés,25,20,Deportivo Alavés,Alavés  (20.),Real Madrid,Real Madrid  (6.),0:3,3,0,0,3,0,1,1,CB,0,0,0
+3,9,2005. 9. 28,"Sep 28, 2005",0,05/06,0,Olympiacos Piraeus,53,0,Real Madrid,,Olympiacos Piraeus,,2:1,2,1,0,3,3,0,1,CB,90,0,0
+4,10,2005. 10. 2,"Oct 2, 2005",1,05/06,0,RCD Mallorca,61,19,Real Madrid,Real Madrid  (3.),RCD Mallorca,RCD Mallorca  (19.),4:0,4,0,0,2,3,1,0,CB,90,0,0
+13,10,2005. 10. 15,"Oct 15, 2005",1,05/06,1,Atlético Madrid,9,10,Atlético Madrid,Atlético Madrid  (10.),Real Madrid,Real Madrid  (3.),0:3,3,0,0,4,2,0,1,CB,68,0,0
+4,10,2005. 10. 19,"Oct 19, 2005",0,05/06,0,Rosenborg BK,69,0,Real Madrid,,Rosenborg BK,,4:1,4,1,0,3,4,0,0,not in squad,90,0,0
+4,10,2005. 10. 23,"Oct 23, 2005",1,05/06,0,Valencia CF,87,5,Real Madrid,Real Madrid  (1.),Valencia CF,Valencia  (5.),1:2,1,2,2,4,3,1,0,CB,0,0,0
+3,10,2005. 10. 26,"Oct 26, 2005",1,05/06,1,Deportivo de La Coruña,26,9,Deportivo de La Coruña,Dep. La Coruña  (9.),Real Madrid,Real Madrid  (1.),3:1,1,3,2,1,4,2,1,CB,90,0,0
+3,10,2005. 10. 29,"Oct 29, 2005",1,05/06,1,Real Betis Balompié,62,14,Real Betis Balompié,Real Betis  (14.),Real Madrid,Real Madrid  (3.),0:2,2,0,0,1,1,3,2,DM,90,0,0
+3,11,2005. 11. 1,"Nov 1, 2005",0,05/06,1,Rosenborg BK,69,0,Rosenborg BK,,Real Madrid,,0:2,2,0,0,2,1,0,3,DM,90,0,0
+5,11,2005. 11. 6,"Nov 6, 2005",1,05/06,0,Real Zaragoza,67,14,Real Madrid,Real Madrid  (1.),Real Zaragoza,Real Zaragoza  (14.),1:0,1,0,0,2,2,0,0,DM,90,0,0
+13,11,2005. 11. 19,"Nov 19, 2005",1,05/06,0,FC Barcelona,30,2,Real Madrid,Real Madrid  (3.),FC Barcelona,FC Barcelona  (2.),0:3,0,3,2,1,2,0,0,CB,90,0,0
+4,11,2005. 11. 23,"Nov 23, 2005",0,05/06,0,Olympique Lyon,54,0,Real Madrid,,Olympique Lyon,,1:1,1,1,1,0,1,3,0,DM,90,0,0
+4,11,2005. 11. 27,"Nov 27, 2005",1,05/06,1,Real Sociedad,64,10,Real Sociedad,Real Sociedad  (10.),Real Madrid,Real Madrid  (4.),2:2,2,2,1,1,0,1,3,DM,90,0,0
+6,12,2005. 12. 3,"Dec 3, 2005",1,05/06,0,Getafe CF,37,8,Real Madrid,Real Madrid  (6.),Getafe CF,Getafe  (8.),1:0,1,0,0,2,1,2,1,not in squad,74,0,0
+3,12,2005. 12. 6,"Dec 6, 2005",0,05/06,1,Olympiacos Piraeus,53,0,Olympiacos Piraeus,,Real Madrid,,2:1,1,2,2,1,2,0,2,CB,0,0,0
+5,12,2005. 12. 11,"Dec 11, 2005",1,05/06,1,Málaga CF,48,12,Málaga CF,Málaga CF  (12.),Real Madrid,Real Madrid  (4.),0:2,2,0,0,1,1,2,0,,90,1,0
+7,12,2005. 12. 18,"Dec 18, 2005",1,05/06,0,CA Osasuna,14,2,Real Madrid,Real Madrid  (3.),CA Osasuna,CA Osasuna  (2.),1:1,1,1,1,2,1,0,2,DM,90,1,0
+3,12,2005. 12. 21,"Dec 21, 2005",1,05/06,0,Racing Santander,58,14,Real Madrid,Real Madrid  (3.),Racing Santander,Racing  (14.),1:2,1,2,2,1,2,1,0,DM,90,0,0
+13,1,2006. 1. 3,"Jan 3, 2006",2,05/06,1,Athletic Bilbao,8,21,Athletic Bilbao,,Real Madrid,,0:1,1,0,0,1,1,2,1,,90,0,0
+5,1,2006. 1. 8,"Jan 8, 2006",1,05/06,1,Villarreal CF,89,4,Villarreal CF,Villarreal  (4.),Real Madrid,Real Madrid  (5.),0:0,0,0,1,1,1,0,2,DM,90,0,0
+3,1,2006. 1. 11,"Jan 11, 2006",2,05/06,0,Athletic Bilbao,8,21,Real Madrid,,Athletic Bilbao,,4:0,4,0,0,0,1,0,0,,90,0,0
+4,1,2006. 1. 15,"Jan 15, 2006",1,05/06,0,Sevilla FC,73,7,Real Madrid,Real Madrid  (6.),Sevilla FC,Sevilla FC  (7.),4:2,4,2,0,4,0,0,0,CB,90,1,0
+3,1,2006. 1. 18,"Jan 18, 2006",2,05/06,1,Real Betis Balompié,62,21,Real Betis Balompié,,Real Madrid,,0:1,1,0,0,4,4,2,0,,90,0,0
+3,1,2006. 1. 21,"Jan 21, 2006",1,05/06,0,Cádiz CF,15,15,Real Madrid,Real Madrid  (4.),Cádiz CF,Cádiz CF  (15.),3:1,3,1,0,1,4,0,2,,90,0,0
+4,1,2006. 1. 25,"Jan 25, 2006",2,05/06,0,Real Betis Balompié,62,21,Real Madrid,,Real Betis Balompié,,1:0,1,0,0,3,1,1,0,,90,0,0
+4,1,2006. 1. 29,"Jan 29, 2006",1,05/06,1,Celta de Vigo,20,7,Celta de Vigo,Celta de Vigo  (7.),Real Madrid,Real Madrid  (4.),1:2,2,1,0,1,3,0,1,,90,0,0
+6,2,2006. 2. 4,"Feb 4, 2006",1,05/06,0,RCD Espanyol Barcelona,60,13,Real Madrid,Real Madrid  (3.),RCD Espanyol Barcelona,Espanyol  (13.),4:0,4,0,0,2,1,1,0,not in squad,90,0,0
+4,2,2006. 2. 8,"Feb 8, 2006",2,05/06,1,Real Zaragoza,67,21,Real Zaragoza,,Real Madrid,,6:1,1,6,2,4,2,0,1,CB,0,0,0
+3,2,2006. 2. 11,"Feb 11, 2006",1,05/06,1,Athletic Bilbao,8,18,Athletic Bilbao,Athletic  (18.),Real Madrid,Real Madrid  (3.),0:2,2,0,0,1,4,6,0,CB,90,0,0
+3,2,2006. 2. 14,"Feb 14, 2006",2,05/06,0,Real Zaragoza,67,21,Real Madrid,,Real Zaragoza,,4:0,4,0,0,2,1,0,6,,90,0,0
+4,2,2006. 2. 18,"Feb 18, 2006",1,05/06,0,Deportivo Alavés,25,15,Real Madrid,Real Madrid  (3.),Deportivo Alavés,Alavés  (15.),3:0,3,0,0,4,2,0,0,,90,0,0
+3,2,2006. 2. 21,"Feb 21, 2006",0,05/06,0,Arsenal FC,6,0,Real Madrid,,Arsenal FC,,0:1,0,1,2,3,4,0,0,CB,90,0,0
+5,2,2006. 2. 26,"Feb 26, 2006",1,05/06,1,RCD Mallorca,61,18,RCD Mallorca,RCD Mallorca  (18.),Real Madrid,Real Madrid  (3.),2:1,1,2,2,0,3,1,0,,90,0,0
+7,3,2006. 3. 5,"Mar 5, 2006",1,05/06,0,Atlético Madrid,9,9,Real Madrid,Real Madrid  (3.),Atlético Madrid,Atlético Madrid  (9.),2:1,2,1,0,1,0,2,1,not in squad,90,1,0
+3,3,2006. 3. 8,"Mar 8, 2006",0,05/06,1,Arsenal FC,6,0,Arsenal FC,,Real Madrid,,0:0,0,0,1,2,1,1,2,CB,0,0,0
+4,3,2006. 3. 12,"Mar 12, 2006",1,05/06,1,Valencia CF,87,3,Valencia CF,Valencia  (3.),Real Madrid,Real Madrid  (2.),0:0,0,0,1,0,2,0,1,DM,90,0,0
+7,3,2006. 3. 19,"Mar 19, 2006",1,05/06,0,Real Betis Balompié,62,18,Real Madrid,Real Madrid  (2.),Real Betis Balompié,Real Betis  (18.),0:0,0,0,1,0,0,0,0,,90,0,0
+3,3,2006. 3. 22,"Mar 22, 2006",1,05/06,1,Real Zaragoza,67,10,Real Zaragoza,Real Zaragoza  (10.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,0,0,0,0,CB,90,0,0
+4,3,2006. 3. 26,"Mar 26, 2006",1,05/06,0,Deportivo de La Coruña,26,6,Real Madrid,Real Madrid  (3.),Deportivo de La Coruña,Dep. La Coruña  (6.),4:0,4,0,0,1,0,1,0,CB,90,0,0
+7,4,2006. 4. 2,"Apr 2, 2006",1,05/06,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,4,1,0,1,CB,90,1,0
+7,4,2006. 4. 9,"Apr 9, 2006",1,05/06,0,Real Sociedad,64,18,Real Madrid,Real Madrid  (2.),Real Sociedad,Real Sociedad  (18.),1:1,1,1,1,1,4,1,0,CB,90,0,0
+7,4,2006. 4. 16,Apr 16 2006,1,05/06,1,Getafe CF,37,9,Getafe CF,Getafe  (9.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,1,1,1,1,CB,90,0,0
+7,4,2006. 4. 23,"Apr 23, 2006",1,05/06,0,Málaga CF,48,20,Real Madrid,Real Madrid  (3.),Málaga CF,Málaga CF  (20.),2:1,2,1,0,1,1,1,1,CB,90,0,0
+7,4,2006. 4. 30,"Apr 30, 2006",1,05/06,1,CA Osasuna,14,4,CA Osasuna,CA Osasuna  (4.),Real Madrid,Real Madrid  (3.),0:1,1,0,0,2,1,1,1,CB,90,1,0
+4,5,2006. 5. 4,"May 4, 2006",1,05/06,1,Racing Santander,58,15,Racing Santander,Racing  (15.),Real Madrid,Real Madrid  (3.),2:3,3,2,0,1,2,0,1,CB,90,0,0
+3,5,2006. 5. 7,"May 7, 2006",1,05/06,0,Villarreal CF,89,8,Real Madrid,Real Madrid  (2.),Villarreal CF,Villarreal  (8.),3:3,3,3,1,3,1,2,0,CB,90,0,0
+9,5,2006. 5. 16,"May 16, 2006",1,05/06,1,Sevilla FC,73,4,Sevilla FC,Sevilla FC  (4.),Real Madrid,Real Madrid  (2.),4:3,3,4,2,3,3,3,2,CB,85,0,0
+103,8,2006. 8. 27,"Aug 27, 2006",1,06/07,0,Villarreal CF,89,5,Real Madrid,Real Madrid  (1.),Villarreal CF,Villarreal  (5.),0:0,0,0,1,3,3,4,3,not in squad,90,0,0
+14,9,2006. 9. 10,"Sep 10, 2006",1,06/07,1,Levante UD,46,20,Levante UD,Levante  (20.),Real Madrid,Real Madrid  (12.),1:4,4,1,0,0,3,0,4,,0,0,0
+3,9,2006. 9. 13,"Sep 13, 2006",0,06/07,1,Olympique Lyon,54,0,Olympique Lyon,Olympique Lyon,Real Madrid,Real Madrid,2:0,0,2,2,4,0,1,0,CB,90,0,0
+4,9,2006. 9. 17,"Sep 17, 2006",1,06/07,0,Real Sociedad,64,15,Real Madrid,Real Madrid  (5.),Real Sociedad,Real Sociedad  (15.),2:0,2,0,0,0,4,2,1,CB,90,0,0
+6,9,2006. 9. 23,"Sep 23, 2006",1,06/07,1,Real Betis Balompié,62,10,Real Betis Balompié,Real Betis  (10.),Real Madrid,Real Madrid  (4.),0:1,1,0,0,2,0,0,2,,90,0,0
+3,9,2006. 9. 26,"Sep 26, 2006",0,06/07,0,Dynamo Kyiv,27,0,Real Madrid,Real Madrid,Dynamo Kyiv,Dynamo Kyiv,5:1,5,1,0,1,2,0,0,RB,90,0,0
+5,10,2006. 10. 1,"Oct 1, 2006",1,06/07,0,Atlético Madrid,9,4,Real Madrid,Real Madrid  (1.),Atlético Madrid,Atlético Madrid  (4.),1:1,1,1,1,5,1,1,0,RB,90,0,0
+13,10,2006. 10. 14,"Oct 14, 2006",1,06/07,1,Getafe CF,37,8,Getafe CF,Getafe  (8.),Real Madrid,Real Madrid  (4.),1:0,0,1,2,1,5,1,1,not in squad,63,0,0
+3,10,2006. 10. 17,"Oct 17, 2006",0,06/07,1,Steaua Bukarest,79,0,Steaua Bukarest,Steaua Bukarest,Real Madrid,Real Madrid,1:4,4,1,0,0,1,1,1,RB,0,0,0
+5,10,2006. 10. 22,"Oct 22, 2006",1,06/07,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (5.),FC Barcelona,FC Barcelona  (1.),2:0,2,0,0,4,0,1,1,RB,90,1,0
+3,10,2006. 10. 25,"Oct 25, 2006",2,06/07,1,Écija Balompié,28,21,Écija Balompié,Écija Balompié,Real Madrid,Real Madrid,1:1,1,1,1,2,4,0,1,not in squad,90,0,1
+3,10,2006. 10. 28,"Oct 28, 2006",1,06/07,1,Gimnàstic de Tarragona,38,19,Gimnàstic de Tarragona,Gimnàstic  (19.),Real Madrid,Real Madrid  (4.),1:3,3,1,0,1,2,1,0,RB,0,0,0
+4,11,2006. 11. 1,"Nov 1, 2006",0,06/07,0,Steaua Bukarest,79,0,Real Madrid,Real Madrid,Steaua Bukarest,Steaua Bukarest,1:0,1,0,0,3,1,1,1,RB,90,0,1
+4,11,2006. 11. 5,"Nov 5, 2006",1,06/07,0,Celta de Vigo,20,11,Real Madrid,Real Madrid  (3.),Celta de Vigo,Celta de Vigo  (11.),1:2,1,2,2,1,3,0,1,CB,90,0,0
+4,11,2006. 11. 9,"Nov 9, 2006",2,06/07,0,Écija Balompié,28,21,Real Madrid,Real Madrid,Écija Balompié,Écija Balompié,5:1,5,1,0,1,1,2,0,,90,0,0
+3,11,2006. 11. 12,"Nov 12, 2006",1,06/07,1,CA Osasuna,14,16,CA Osasuna,CA Osasuna  (16.),Real Madrid,Real Madrid  (4.),1:4,4,1,0,5,1,1,2,,80,0,0
+6,11,2006. 11. 18,"Nov 18, 2006",1,06/07,0,Racing Santander,58,14,Real Madrid,Real Madrid  (3.),Racing Santander,Racing  (14.),3:1,3,1,0,4,5,1,1,,90,0,0
+3,11,2006. 11. 21,"Nov 21, 2006",0,06/07,0,Olympique Lyon,54,0,Real Madrid,Real Madrid,Olympique Lyon,Olympique Lyon,2:2,2,2,1,3,4,1,1,RB,90,1,0
+5,11,2006. 11. 26,"Nov 26, 2006",1,06/07,1,Valencia CF,87,8,Valencia CF,Valencia  (8.),Real Madrid,Real Madrid  (3.),0:1,1,0,0,2,3,2,1,CB,90,0,0
+7,12,2006. 12. 3,"Dec 3, 2006",1,06/07,0,Athletic Bilbao,8,18,Real Madrid,Real Madrid  (3.),Athletic Bilbao,Athletic  (18.),2:1,2,1,0,1,2,0,2,CB,90,0,0
+3,12,2006. 12. 6,"Dec 6, 2006",0,06/07,1,Dynamo Kyiv,27,0,Dynamo Kyiv,Dynamo Kyiv,Real Madrid,Real Madrid,2:2,2,2,1,2,1,1,0,not in squad,90,0,1
+4,12,2006. 12. 10,"Dec 10, 2006",1,06/07,1,Sevilla FC,73,3,Sevilla FC,Sevilla FC  (3.),Real Madrid,Real Madrid  (2.),2:1,1,2,2,2,2,2,1,CB,0,0,0
+7,12,2006. 12. 17,"Dec 17, 2006",1,06/07,1,RCD Espanyol Barcelona,60,10,RCD Espanyol Barcelona,Espanyol  (10.),Real Madrid,Real Madrid  (3.),0:1,1,0,0,1,2,2,2,CB,90,0,0
+3,12,2006. 12. 20,"Dec 20, 2006",1,06/07,0,Recreativo Huelva,68,8,Real Madrid,Real Madrid  (3.),Recreativo Huelva,Recr. Huelva  (8.),0:3,0,3,2,1,1,0,2,CB,90,0,0
+18,1,2007. 1. 7,"Jan 7, 2007",1,06/07,1,Deportivo de La Coruña,26,15,Deportivo de La Coruña,Dep. La Coruña  (15.),Real Madrid,Real Madrid  (3.),2:0,0,2,2,0,1,3,0,LB,90,0,0
+4,1,2007. 1. 11,"Jan 11, 2007",2,06/07,1,Real Betis Balompié,62,21,Real Betis Balompié,Real Betis,Real Madrid,Real Madrid,0:0,0,0,1,0,0,2,3,,90,0,0
+3,1,2007. 1. 14,"Jan 14, 2007",1,06/07,0,Real Zaragoza,67,5,Real Madrid,Real Madrid  (3.),Real Zaragoza,Real Zaragoza  (5.),1:0,1,0,0,0,0,0,2,not in squad,90,0,0
+4,1,2007. 1. 18,"Jan 18, 2007",2,06/07,0,Real Betis Balompié,62,21,Real Madrid,Real Madrid,Real Betis Balompié,Real Betis,1:1,1,1,1,1,0,0,0,,0,0,0
+3,1,2007. 1. 21,"Jan 21, 2007",1,06/07,1,RCD Mallorca,61,15,RCD Mallorca,RCD Mallorca  (15.),Real Madrid,Real Madrid  (3.),0:1,1,0,0,1,1,1,0,RB,90,0,0
+7,1,2007. 1. 28,"Jan 28, 2007",1,06/07,1,Villarreal CF,89,11,Villarreal CF,Villarreal  (11.),Real Madrid,Real Madrid  (3.),1:0,0,1,2,1,1,0,1,RB,60,0,0
+7,2,2007. 2. 4,"Feb 4, 2007",1,06/07,0,Levante UD,46,18,Real Madrid,Real Madrid  (3.),Levante UD,Levante  (18.),0:1,0,1,2,0,1,1,0,CB,90,0,0
+6,2,2007. 2. 10,"Feb 10, 2007",1,06/07,1,Real Sociedad,64,19,Real Sociedad,Real Sociedad  (19.),Real Madrid,Real Madrid  (4.),1:2,2,1,0,0,0,1,1,,90,0,0
+7,2,2007. 2. 17,"Feb 17, 2007",1,06/07,0,Real Betis Balompié,62,15,Real Madrid,Real Madrid  (3.),Real Betis Balompié,Real Betis  (15.),0:0,0,0,1,2,0,1,1,RB,90,0,0
+3,2,2007. 2. 20,"Feb 20, 2007",0,06/07,0,Bayern Munich,11,0,Real Madrid,Real Madrid,Bayern Munich,Bayern Munich,3:2,3,2,0,0,2,0,1,not in squad,74,0,0
+5,2,2007. 2. 25,"Feb 25, 2007",1,06/07,1,Atlético Madrid,9,5,Atlético Madrid,Atlético Madrid  (5.),Real Madrid,Real Madrid  (3.),1:1,1,1,1,3,0,2,0,not in squad,0,0,0
+7,3,2007. 3. 4,"Mar 4, 2007",1,06/07,0,Getafe CF,37,8,Real Madrid,Real Madrid  (3.),Getafe CF,Getafe  (8.),1:1,1,1,1,1,3,1,2,CB,0,0,0
+3,3,2007. 3. 7,"Mar 7, 2007",0,06/07,1,Bayern Munich,11,0,Bayern Munich,Bayern Munich,Real Madrid,Real Madrid,2:1,1,2,2,1,1,1,1,CB,90,0,0
+3,3,2007. 3. 10,"Mar 10, 2007",1,06/07,1,FC Barcelona,30,2,FC Barcelona,FC Barcelona  (2.),Real Madrid,Real Madrid  (4.),3:3,3,3,1,1,1,2,1,CB,90,0,0
+8,3,2007. 3. 18,"Mar 18, 2007",1,06/07,0,Gimnàstic de Tarragona,38,19,Real Madrid,Real Madrid  (4.),Gimnàstic de Tarragona,Gimnàstic  (19.),2:0,2,0,0,3,1,3,2,not in squad,90,1,0
+14,4,2007. 4. 1,"Apr 1, 2007",1,06/07,1,Celta de Vigo,20,17,Celta de Vigo,Celta de Vigo  (17.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,2,3,0,3,CB,0,0,0
+7,4,2007. 4. 8,"Apr 8, 2007",1,06/07,0,CA Osasuna,14,13,Real Madrid,Real Madrid  (3.),CA Osasuna,CA Osasuna  (13.),2:0,2,0,0,2,2,1,0,RB,90,0,0
+6,4,2007. 4. 14,"Apr 14, 2007",1,06/07,1,Racing Santander,58,8,Racing Santander,Racing  (8.),Real Madrid,Real Madrid  (3.),2:1,1,2,2,2,2,0,1,RB,90,0,0
+7,4,2007. 4. 21,"Apr 21, 2007",1,06/07,0,Valencia CF,87,4,Real Madrid,Real Madrid  (3.),Valencia CF,Valencia  (4.),2:1,2,1,0,1,2,2,0,CB,90,0,0
+8,4,2007. 4. 29,"Apr 29, 2007",1,06/07,1,Athletic Bilbao,8,16,Athletic Bilbao,Athletic  (16.),Real Madrid,Real Madrid  (3.),1:4,4,1,0,2,1,1,2,CB,90,1,0
+7,5,2007. 5. 6,"May 6, 2007",1,06/07,0,Sevilla FC,73,2,Real Madrid,Real Madrid  (3.),Sevilla FC,Sevilla FC  (2.),3:2,3,2,0,4,2,1,1,CB,90,1,0
+6,5,2007. 5. 12,"May 12, 2007",1,06/07,0,RCD Espanyol Barcelona,60,11,Real Madrid,Real Madrid  (2.),RCD Espanyol Barcelona,Espanyol  (11.),4:3,4,3,0,3,4,2,1,CB,90,0,0
+8,5,2007. 5. 20,"May 20, 2007",1,06/07,1,Recreativo Huelva,68,7,Recreativo Huelva,Recr. Huelva  (7.),Real Madrid,Real Madrid  (1.),2:3,3,2,0,4,3,3,2,,90,0,0
+6,5,2007. 5. 26,"May 26, 2007",1,06/07,0,Deportivo de La Coruña,26,13,Real Madrid,Real Madrid  (1.),Deportivo de La Coruña,Dep. La Coruña  (13.),3:1,3,1,0,3,4,2,3,,90,0,0
+14,6,2007. 6. 9,"Jun 9, 2007",1,06/07,1,Real Zaragoza,67,5,Real Zaragoza,Real Zaragoza  (5.),Real Madrid,Real Madrid  (1.),2:2,2,2,1,3,3,1,2,RB,90,1,0
+8,6,2007. 6. 17,"Jun 17, 2007",1,06/07,0,RCD Mallorca,61,12,Real Madrid,Real Madrid  (1.),RCD Mallorca,RCD Mallorca  (12.),3:1,3,1,0,2,3,2,1,CB,90,0,1
+69,8,2007. 8. 25,"Aug 25, 2007",1,07/08,0,Atlético Madrid,9,5,Real Madrid,Real Madrid  (1.),Atlético Madrid,Atlético Madrid  (5.),2:1,2,1,0,3,2,1,2,RB,90,0,0
+8,9,2007. 9. 2,"Sep 2, 2007",1,07/08,1,Villarreal CF,89,3,Villarreal CF,Villarreal  (3.),Real Madrid,Real Madrid  (6.),0:5,5,0,0,2,3,1,1,RB,90,0,1
+13,9,2007. 9. 15,"Sep 15, 2007",1,07/08,0,UD Almería,82,7,Real Madrid,Real Madrid  (1.),UD Almería,UD Almería  (7.),3:1,3,1,0,5,2,0,1,RB,90,0,1
+3,9,2007. 9. 18,"Sep 18, 2007",0,07/08,0,SV Werder Bremen,80,0,Real Madrid,Real Madrid,SV Werder Bremen,Werder Bremen,2:1,2,1,0,3,5,1,0,RB,90,0,0
+5,9,2007. 9. 23,"Sep 23, 2007",1,07/08,1,Real Valladolid CF,66,9,Real Valladolid CF,Real Valladolid  (9.),Real Madrid,Real Madrid  (1.),1:1,1,1,1,2,3,1,1,CB,90,0,0
+4,9,2007. 9. 27,"Sep 27, 2007",1,07/08,0,Real Betis Balompié,62,18,Real Madrid,Real Madrid  (1.),Real Betis Balompié,Real Betis  (18.),2:0,2,0,0,1,2,1,1,RB,90,0,0
+3,9,2007. 9. 30,"Sep 30, 2007",1,07/08,1,Getafe CF,37,19,Getafe CF,Getafe  (19.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,2,1,0,1,CB,90,0,0
+3,10,2007. 10. 3,"Oct 3, 2007",0,07/08,1,SS Lazio,77,0,SS Lazio,Lazio,Real Madrid,Real Madrid,2:2,2,2,1,1,2,0,0,RB,90,1,0
+4,10,2007. 10. 7,"Oct 7, 2007",1,07/08,0,Recreativo Huelva,68,10,Real Madrid,Real Madrid  (1.),Recreativo Huelva,Recr. Huelva  (10.),2:0,2,0,0,2,1,2,0,RB,90,0,0
+13,10,2007. 10. 20,"Oct 20, 2007",1,07/08,1,RCD Espanyol Barcelona,60,5,RCD Espanyol Barcelona,Espanyol  (5.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,2,2,0,2,RB,90,0,0
+4,10,2007. 10. 24,"Oct 24, 2007",0,07/08,0,Olympiacos Piraeus,53,0,Real Madrid,Real Madrid,Olympiacos Piraeus,Olympiacos,4:2,4,2,0,1,2,2,0,CB,90,1,0
+4,10,2007. 10. 28,"Oct 28, 2007",1,07/08,0,Deportivo de La Coruña,26,16,Real Madrid,Real Madrid  (1.),Deportivo de La Coruña,Dep. La Coruña  (16.),3:1,3,1,0,4,1,2,2,CB,90,0,0
+3,10,2007. 10. 31,"Oct 31, 2007",1,07/08,1,Valencia CF,87,4,Valencia CF,Valencia  (4.),Real Madrid,Real Madrid  (1.),1:5,5,1,0,3,4,1,2,RB,90,0,0
+3,11,2007. 11. 3,"Nov 3, 2007",1,07/08,1,Sevilla FC,73,10,Sevilla FC,Sevilla FC  (10.),Real Madrid,Real Madrid  (1.),2:0,0,2,2,5,3,1,1,RB,73,1,0
+3,11,2007. 11. 6,"Nov 6, 2007",0,07/08,1,Olympiacos Piraeus,53,0,Olympiacos Piraeus,Olympiacos,Real Madrid,Real Madrid,0:0,0,0,1,0,5,2,1,RB,51,0,0
+5,11,2007. 11. 11,"Nov 11, 2007",1,07/08,0,RCD Mallorca,61,10,Real Madrid,Real Madrid  (1.),RCD Mallorca,RCD Mallorca  (10.),4:3,4,3,0,0,0,0,2,not in squad,90,0,0
+13,11,2007. 11. 24,"Nov 24, 2007",1,07/08,1,Real Murcia CF,63,14,Real Murcia CF,Real Murcia  (14.),Real Madrid,Real Madrid  (1.),1:1,1,1,1,4,0,3,0,RB,0,0,0
+4,11,2007. 11. 28,"Nov 28, 2007",0,07/08,1,SV Werder Bremen,80,0,SV Werder Bremen,Werder Bremen,Real Madrid,Real Madrid,3:2,2,3,2,1,4,1,3,RB,90,0,0
+3,12,2007. 12. 1,"Dec 1, 2007",1,07/08,0,Racing Santander,58,7,Real Madrid,Real Madrid  (1.),Racing Santander,Racing  (7.),3:1,3,1,0,2,1,3,1,RB,90,0,0
+7,12,2007. 12. 8,"Dec 8, 2007",1,07/08,1,Athletic Bilbao,8,11,Athletic Bilbao,Athletic  (11.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,3,2,1,3,RB,90,0,0
+3,12,2007. 12. 11,"Dec 11, 2007",0,07/08,0,SS Lazio,77,0,Real Madrid,Real Madrid,SS Lazio,Lazio,3:1,3,1,0,1,3,0,1,RB,90,0,0
+5,12,2007. 12. 16,"Dec 16, 2007",1,07/08,0,CA Osasuna,14,14,Real Madrid,Real Madrid  (1.),CA Osasuna,CA Osasuna  (14.),2:0,2,0,0,3,1,1,0,RB,90,0,0
+3,12,2007. 12. 19,"Dec 19, 2007",2,07/08,1,Alicante CF (liq.),4,21,Alicante CF (liq.),Alicante CF,Real Madrid,Real Madrid,1:1,1,1,1,2,3,0,1,not in squad,90,0,0
+4,12,2007. 12. 23,"Dec 23, 2007",1,07/08,1,FC Barcelona,30,2,FC Barcelona,FC Barcelona  (2.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,1,2,1,0,RB,0,0,0
+10,1,2008. 1. 2,"Jan 2, 2008",2,07/08,0,Alicante CF (liq.),4,21,Real Madrid,Real Madrid,Alicante CF (liq.),Alicante CF,2:1,2,1,0,1,1,0,1,CB,88,0,0
+4,1,2008. 1. 6,"Jan 6, 2008",1,07/08,0,Real Zaragoza,67,9,Real Madrid,Real Madrid  (1.),Real Zaragoza,Real Zaragoza  (9.),2:0,2,0,0,2,1,1,0,RB,90,0,0
+4,1,2008. 1. 10,"Jan 10, 2008",2,07/08,1,RCD Mallorca,61,21,RCD Mallorca,RCD Mallorca,Real Madrid,Real Madrid,2:1,1,2,2,2,2,0,1,,90,0,0
+3,1,2008. 1. 13,"Jan 13, 2008",1,07/08,1,Levante UD,46,20,Levante UD,Levante  (20.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,1,2,2,0,not in squad,90,0,0
+3,1,2008. 1. 16,"Jan 16, 2008",2,07/08,0,RCD Mallorca,61,21,Real Madrid,Real Madrid,RCD Mallorca,RCD Mallorca,0:1,0,1,2,2,1,0,2,,0,0,0
+4,1,2008. 1. 20,"Jan 20, 2008",1,07/08,1,Atlético Madrid,9,3,Atlético Madrid,Atlético Madrid  (3.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,0,2,1,0,RB,90,0,0
+7,1,2008. 1. 27,"Jan 27, 2008",1,07/08,0,Villarreal CF,89,3,Real Madrid,Real Madrid  (1.),Villarreal CF,Villarreal  (3.),3:2,3,2,0,2,0,0,1,CB,90,0,0
+6,2,2008. 2. 2,"Feb 2, 2008",1,07/08,1,UD Almería,82,8,UD Almería,UD Almería  (8.),Real Madrid,Real Madrid  (1.),2:0,0,2,2,3,2,2,0,CB,90,0,0
+8,2,2008. 2. 10,"Feb 10, 2008",1,07/08,0,Real Valladolid CF,66,12,Real Madrid,Real Madrid  (1.),Real Valladolid CF,Real Valladolid  (12.),7:0,7,0,0,0,3,2,2,CB,90,0,0
+6,2,2008. 2. 16,"Feb 16, 2008",1,07/08,1,Real Betis Balompié,62,16,Real Betis Balompié,Real Betis  (16.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,7,0,0,2,CB,57,0,0
+3,2,2008. 2. 19,"Feb 19, 2008",0,07/08,1,AS Roma,7,0,AS Roma,AS Roma,Real Madrid,Real Madrid,2:1,1,2,2,1,7,2,0,RB,90,0,0
+5,2,2008. 2. 24,"Feb 24, 2008",1,07/08,0,Getafe CF,37,13,Real Madrid,Real Madrid  (1.),Getafe CF,Getafe  (13.),0:1,0,1,2,1,1,2,2,CB,90,0,0
+6,3,2008. 3. 1,"Mar 1, 2008",1,07/08,1,Recreativo Huelva,68,17,Recreativo Huelva,Recr. Huelva  (17.),Real Madrid,Real Madrid  (1.),2:3,3,2,0,0,1,1,2,CB,90,0,0
+4,3,2008. 3. 5,"Mar 5, 2008",0,07/08,0,AS Roma,7,0,Real Madrid,Real Madrid,AS Roma,AS Roma,1:2,1,2,2,3,0,2,1,not in squad,56,0,0
+3,3,2008. 3. 8,"Mar 8, 2008",1,07/08,0,RCD Espanyol Barcelona,60,5,Real Madrid,Real Madrid  (1.),RCD Espanyol Barcelona,Espanyol  (5.),2:1,2,1,0,1,3,2,2,not in squad,0,0,0
+7,3,2008. 3. 15,"Mar 15, 2008",1,07/08,1,Deportivo de La Coruña,26,16,Deportivo de La Coruña,Dep. La Coruña  (16.),Real Madrid,Real Madrid  (1.),1:0,0,1,2,2,1,1,2,not in squad,0,0,0
+8,3,2008. 3. 23,"Mar 23, 2008",1,07/08,0,Valencia CF,87,11,Real Madrid,Real Madrid  (1.),Valencia CF,Valencia  (11.),2:3,2,3,2,0,2,1,1,RB,0,0,0
+7,3,2008. 3. 30,"Mar 30, 2008",1,07/08,0,Sevilla FC,73,6,Real Madrid,Real Madrid  (1.),Sevilla FC,Sevilla FC  (6.),3:1,3,1,0,2,0,3,1,RB,90,0,0
+6,4,2008. 4. 5,"Apr 5, 2008",1,07/08,1,RCD Mallorca,61,9,RCD Mallorca,RCD Mallorca  (9.),Real Madrid,Real Madrid  (1.),1:1,1,1,1,3,2,1,3,RB,90,0,0
+8,4,2008. 4. 13,"Apr 13, 2008",1,07/08,0,Real Murcia CF,63,19,Real Madrid,Real Madrid  (1.),Real Murcia CF,Real Murcia  (19.),1:0,1,0,0,1,3,1,1,not in squad,66,0,0
+7,4,2008. 4. 20,"Apr 20, 2008",1,07/08,1,Racing Santander,58,5,Racing Santander,Racing  (5.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,1,1,0,1,RB,0,0,0
+7,4,2008. 4. 27,"Apr 27, 2008",1,07/08,0,Athletic Bilbao,8,8,Real Madrid,Real Madrid  (1.),Athletic Bilbao,Athletic  (8.),3:0,3,0,0,2,1,0,0,RB,90,0,0
+7,5,2008. 5. 4,"May 4, 2008",1,07/08,1,CA Osasuna,14,16,CA Osasuna,CA Osasuna  (16.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,3,2,0,0,RB,90,0,0
+3,5,2008. 5. 7,"May 7, 2008",1,07/08,0,FC Barcelona,30,3,Real Madrid,Real Madrid  (1.),FC Barcelona,FC Barcelona  (3.),4:1,4,1,0,2,3,1,0,RB,90,0,1
+4,5,2008. 5. 11,"May 11, 2008",1,07/08,1,Real Zaragoza,67,16,Real Zaragoza,Real Zaragoza  (16.),Real Madrid,Real Madrid  (1.),2:2,2,2,1,4,2,1,1,RB,90,0,0
+7,5,2008. 5. 18,"May 18, 2008",1,07/08,0,Levante UD,46,20,Real Madrid,Real Madrid  (1.),Levante UD,Levante  (20.),5:2,5,2,0,2,4,2,1,RB,90,0,0
+105,8,2008. 8. 31,"Aug 31, 2008",1,08/09,1,Deportivo de La Coruña,26,7,Deportivo de La Coruña,Dep. La Coruña  (7.),Real Madrid,Real Madrid  (2.),2:1,1,2,2,5,2,2,2,RB,90,2,1
+14,9,2008. 9. 14,"Sep 14, 2008",1,08/09,0,CD Numancia,18,7,Real Madrid,Real Madrid  (13.),CD Numancia,CD Numancia  (7.),4:3,4,3,0,1,5,2,2,not in squad,90,0,0
+3,9,2008. 9. 17,"Sep 17, 2008",0,08/09,0,BATE Borisov,10,0,Real Madrid,Real Madrid,BATE Borisov,BATE Borisov,2:0,2,0,0,4,1,3,2,RB,0,0,0
+4,9,2008. 9. 21,"Sep 21, 2008",1,08/09,1,Racing Santander,58,14,Racing Santander,Racing  (14.),Real Madrid,Real Madrid  (8.),0:2,2,0,0,2,4,0,3,,90,1,0
+3,9,2008. 9. 24,"Sep 24, 2008",1,08/09,0,Sporting Gijón,76,20,Real Madrid,Real Madrid  (6.),Sporting Gijón,Sporting Gijón  (20.),7:1,7,1,0,2,2,0,0,not in squad,90,0,0
+3,9,2008. 9. 27,"Sep 27, 2008",1,08/09,1,Real Betis Balompié,62,17,Real Betis Balompié,Real Betis  (17.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,7,2,1,0,RB,0,0,0
+3,9,2008. 9. 30,"Sep 30, 2008",0,08/09,1,Zenit St. Petersburg,91,0,Zenit St. Petersburg,Zenit S-Pb,Real Madrid,Real Madrid,1:2,2,1,0,2,7,1,1,RB,90,0,0
+5,10,2008. 10. 5,"Oct 5, 2008",1,08/09,0,RCD Espanyol Barcelona,60,10,Real Madrid,Real Madrid  (3.),RCD Espanyol Barcelona,Espanyol  (10.),2:2,2,2,1,2,2,1,1,RB,90,0,0
+13,10,2008. 10. 18,"Oct 18, 2008",1,08/09,1,Atlético Madrid,9,7,Atlético Madrid,Atlético Madrid  (7.),Real Madrid,Real Madrid  (5.),1:2,2,1,0,2,2,2,1,RB,90,0,1
+3,10,2008. 10. 21,"Oct 21, 2008",0,08/09,1,Juventus FC,44,0,Juventus FC,Juventus,Real Madrid,Real Madrid,2:1,1,2,2,2,2,1,2,RB,90,0,0
+5,10,2008. 10. 26,"Oct 26, 2008",1,08/09,0,Athletic Bilbao,8,17,Real Madrid,Real Madrid  (5.),Athletic Bilbao,Athletic  (17.),3:2,3,2,0,1,2,2,1,on the bench,90,0,0
+4,10,2008. 10. 30,"Oct 30, 2008",2,08/09,1,Real Unión Club,65,21,Real Unión Club,Real Unión,Real Madrid,Real Madrid,3:2,2,3,2,3,1,2,2,not in squad,0,0,0
+3,11,2008. 11. 2,"Nov 2, 2008",1,08/09,1,UD Almería,82,9,UD Almería,UD Almería  (9.),Real Madrid,Real Madrid  (3.),1:1,1,1,1,2,3,3,2,RB,0,0,0
+3,11,2008. 11. 5,"Nov 5, 2008",0,08/09,0,Juventus FC,44,0,Real Madrid,Real Madrid,Juventus FC,Juventus,0:2,0,2,2,1,2,1,3,RB,90,0,0
+3,11,2008. 11. 8,"Nov 8, 2008",1,08/09,0,Málaga CF,48,8,Real Madrid,Real Madrid  (3.),Málaga CF,Málaga CF  (8.),4:3,4,3,0,0,1,2,1,RB,90,0,0
+3,11,2008. 11. 11,"Nov 11, 2008",2,08/09,0,Real Unión Club,65,21,Real Madrid,Real Madrid,Real Unión Club,Real Unión,4:3,4,3,0,4,0,3,2,not in squad,44,0,0
+4,11,2008. 11. 15,"Nov 15, 2008",1,08/09,1,Real Valladolid CF,66,16,Real Valladolid CF,Real Valladolid  (16.),Real Madrid,Real Madrid  (4.),1:0,0,1,2,4,4,3,3,,0,0,0
+7,11,2008. 11. 22,"Nov 22, 2008",1,08/09,0,Recreativo Huelva,68,19,Real Madrid,Real Madrid  (4.),Recreativo Huelva,Recr. Huelva  (19.),1:0,1,0,0,0,4,1,3,,90,0,0
+3,11,2008. 11. 25,"Nov 25, 2008",0,08/09,1,BATE Borisov,10,0,BATE Borisov,BATE Borisov,Real Madrid,Real Madrid,0:1,1,0,0,1,0,0,1,CB,90,0,0
+4,11,2008. 11. 29,"Nov 29, 2008",1,08/09,1,Getafe CF,37,14,Getafe CF,Getafe  (14.),Real Madrid,Real Madrid  (2.),3:1,1,3,2,1,1,0,0,CB,90,0,0
+8,12,2008. 12. 7,"Dec 7, 2008",1,08/09,0,Sevilla FC,73,5,Real Madrid,Real Madrid  (4.),Sevilla FC,Sevilla FC  (5.),3:4,3,4,2,1,1,3,0,CB,90,0,0
+3,12,2008. 12. 10,"Dec 10, 2008",0,08/09,0,Zenit St. Petersburg,91,0,Real Madrid,Real Madrid,Zenit St. Petersburg,Zenit S-Pb,3:0,3,0,0,3,1,4,3,CB,90,0,0
+3,12,2008. 12. 13,"Dec 13, 2008",1,08/09,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (5.),2:0,0,2,2,3,3,0,4,LB,90,0,0
+7,12,2008. 12. 20,"Dec 20, 2008",1,08/09,0,Valencia CF,87,2,Real Madrid,Real Madrid  (6.),Valencia CF,Valencia  (2.),1:0,1,0,0,0,3,2,0,not in squad,90,0,0
+15,1,2009. 1. 4,"Jan 4, 2009",1,08/09,0,Villarreal CF,89,6,Real Madrid,Real Madrid  (5.),Villarreal CF,Villarreal  (6.),1:0,1,0,0,1,0,0,2,RB,0,0,0
+7,1,2009. 1. 11,"Jan 11, 2009",1,08/09,1,RCD Mallorca,61,19,RCD Mallorca,RCD Mallorca  (19.),Real Madrid,Real Madrid  (3.),0:3,3,0,0,1,1,0,0,RB,90,0,0
+7,1,2009. 1. 18,"Jan 18, 2009",1,08/09,0,CA Osasuna,14,20,Real Madrid,Real Madrid  (2.),CA Osasuna,CA Osasuna  (20.),3:1,3,1,0,3,1,0,0,RB,90,1,0
+7,1,2009. 1. 25,"Jan 25, 2009",1,08/09,0,Deportivo de La Coruña,26,8,Real Madrid,Real Madrid  (2.),Deportivo de La Coruña,Dep. La Coruña  (8.),1:0,1,0,0,3,3,1,0,RB,90,1,0
+6,1,2009. 1. 31,"Jan 31, 2009",1,08/09,1,CD Numancia,18,17,CD Numancia,CD Numancia  (17.),Real Madrid,Real Madrid  (2.),0:2,2,0,0,1,3,0,1,RB,90,0,0
+7,2,2009. 2. 7,"Feb 7, 2009",1,08/09,0,Racing Santander,58,10,Real Madrid,Real Madrid  (2.),Racing Santander,Racing  (10.),1:0,1,0,0,2,1,0,0,RB,90,0,0
+8,2,2009. 2. 15,"Feb 15, 2009",1,08/09,1,Sporting Gijón,76,12,Sporting Gijón,Sporting Gijón  (12.),Real Madrid,Real Madrid  (2.),0:4,4,0,0,1,2,0,0,RB,90,0,0
+6,2,2009. 2. 21,"Feb 21, 2009",1,08/09,0,Real Betis Balompié,62,15,Real Madrid,Real Madrid  (2.),Real Betis Balompié,Real Betis  (15.),6:1,6,1,0,4,1,0,0,RB,79,0,1
+4,2,2009. 2. 25,"Feb 25, 2009",0,08/09,0,Liverpool FC,47,0,Real Madrid,Real Madrid,Liverpool FC,Liverpool,0:1,0,1,2,6,4,1,0,RB,90,1,0
+3,2,2009. 2. 28,"Feb 28, 2009",1,08/09,1,RCD Espanyol Barcelona,60,19,RCD Espanyol Barcelona,Espanyol  (19.),Real Madrid,Real Madrid  (2.),0:2,2,0,0,0,6,1,1,RB,90,0,0
+7,3,2009. 3. 7,"Mar 7, 2009",1,08/09,0,Atlético Madrid,9,5,Real Madrid,Real Madrid  (2.),Atlético Madrid,Atlético Madrid  (5.),1:1,1,1,1,2,0,0,1,CB,90,0,0
+3,3,2009. 3. 10,"Mar 10, 2009",0,08/09,1,Liverpool FC,47,0,Liverpool FC,Liverpool,Real Madrid,Real Madrid,4:0,0,4,2,1,2,1,0,RB,90,0,0
+4,3,2009. 3. 14,"Mar 14, 2009",1,08/09,1,Athletic Bilbao,8,10,Athletic Bilbao,Athletic  (10.),Real Madrid,Real Madrid  (2.),2:5,5,2,0,0,1,4,1,RB,90,0,0
+8,3,2009. 3. 22,"Mar 22, 2009",1,08/09,0,UD Almería,82,13,Real Madrid,Real Madrid  (2.),UD Almería,UD Almería  (13.),3:0,3,0,0,5,0,2,4,RB,90,0,0
+13,4,2009. 4. 4,"Apr 4, 2009",1,08/09,1,Málaga CF,48,8,Málaga CF,Málaga CF  (8.),Real Madrid,Real Madrid  (2.),0:1,1,0,0,3,5,0,2,RB,90,0,0
+8,4,2009. 4. 12,"Apr 12, 2009",1,08/09,0,Real Valladolid CF,66,9,Real Madrid,Real Madrid  (2.),Real Valladolid CF,Real Valladolid  (9.),2:0,2,0,0,1,3,0,0,not in squad,90,0,0
+6,4,2009. 4. 18,"Apr 18, 2009",1,08/09,1,Recreativo Huelva,68,18,Recreativo Huelva,Recr. Huelva  (18.),Real Madrid,Real Madrid  (2.),0:1,1,0,0,2,1,0,0,RB,0,0,0
+3,4,2009. 4. 21,"Apr 21, 2009",1,08/09,0,Getafe CF,37,15,Real Madrid,Real Madrid  (2.),Getafe CF,Getafe  (15.),3:2,3,2,0,1,2,0,0,RB,90,0,0
+5,4,2009. 4. 26,"Apr 26, 2009",1,08/09,1,Sevilla FC,73,3,Sevilla FC,Sevilla FC  (3.),Real Madrid,Real Madrid  (2.),2:4,4,2,0,3,1,2,0,,90,0,0
+6,5,2009. 5. 2,"May 2, 2009",1,08/09,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (2.),FC Barcelona,FC Barcelona  (1.),2:6,2,6,2,4,3,2,2,RB,90,0,0
+7,5,2009. 5. 9,"May 9, 2009",1,08/09,1,Valencia CF,87,4,Valencia CF,Valencia  (4.),Real Madrid,Real Madrid  (2.),3:0,0,3,2,2,4,6,2,RB,71,1,1
+7,5,2009. 5. 16,"May 16, 2009",1,08/09,1,Villarreal CF,89,6,Villarreal CF,Villarreal  (6.),Real Madrid,Real Madrid  (2.),3:2,2,3,2,0,2,3,6,RB,90,0,0
+8,5,2009. 5. 24,"May 24, 2009",1,08/09,0,RCD Mallorca,61,9,Real Madrid,Real Madrid  (2.),RCD Mallorca,RCD Mallorca  (9.),1:3,1,3,2,2,0,3,3,CB,90,0,0
+7,5,2009. 5. 31,"May 31, 2009",1,08/09,1,CA Osasuna,14,17,CA Osasuna,CA Osasuna  (17.),Real Madrid,Real Madrid  (2.),2:1,1,2,2,1,2,3,3,not in squad,90,0,0
+90,8,2009. 8. 29,"Aug 29, 2009",1,09/10,0,Deportivo de La Coruña,26,10,Real Madrid,Real Madrid  (2.),Deportivo de La Coruña,Dep. La Coruña  (10.),3:2,3,2,0,1,1,2,3,Achilles tendon problems,0,0,0
+14,9,2009. 9. 12,"Sep 12, 2009",1,09/10,1,RCD Espanyol Barcelona,60,15,RCD Espanyol Barcelona,Espanyol  (15.),Real Madrid,Real Madrid  (6.),0:3,3,0,0,3,1,2,2,not in squad,0,0,0
+3,9,2009. 9. 15,"Sep 15, 2009",0,09/10,1,FC Zürich,35,0,FC Zürich,FC Zürich,Real Madrid,Real Madrid,2:5,5,2,0,3,3,0,2,not in squad,0,0,0
+5,9,2009. 9. 20,"Sep 20, 2009",1,09/10,0,Xerez CD,90,19,Real Madrid,Real Madrid  (2.),Xerez CD,Xerez CD  (19.),5:0,5,0,0,5,3,2,0,RB,0,0,0
+3,9,2009. 9. 23,"Sep 23, 2009",1,09/10,1,Villarreal CF,89,17,Villarreal CF,Villarreal  (17.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,5,5,0,2,CB,90,0,0
+3,9,2009. 9. 26,"Sep 26, 2009",1,09/10,0,CD Tenerife,19,10,Real Madrid,Real Madrid  (2.),CD Tenerife,CD Tenerife  (10.),3:0,3,0,0,2,5,0,0,RB,90,0,0
+4,9,2009. 9. 30,"Sep 30, 2009",0,09/10,0,Olympique Marseille,55,0,Real Madrid,Real Madrid,Olympique Marseille,Marseille,3:0,3,0,0,3,2,0,0,RB,45,0,0
+4,10,2009. 10. 4,"Oct 4, 2009",1,09/10,1,Sevilla FC,73,3,Sevilla FC,Sevilla FC  (3.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,3,3,0,0,RB,72,0,0
+13,10,2009. 10. 17,"Oct 17, 2009",1,09/10,0,Real Valladolid CF,66,16,Real Madrid,Real Madrid  (2.),Real Valladolid CF,Real Valladolid  (16.),4:2,4,2,0,1,3,2,0,,90,0,0
+4,10,2009. 10. 21,"Oct 21, 2009",0,09/10,0,AC Milan,0,0,Real Madrid,Real Madrid,AC Milan,AC Milan,2:3,2,3,2,4,1,2,2,RB,90,0,0
+3,10,2009. 10. 24,"Oct 24, 2009",1,09/10,1,Sporting Gijón,76,7,Sporting Gijón,Sporting Gijón  (7.),Real Madrid,Real Madrid  (2.),0:0,0,0,1,2,4,3,2,RB,90,0,0
+3,10,2009. 10. 27,"Oct 27, 2009",2,09/10,1,AD Alcorcón,1,21,AD Alcorcón,Alcorcón,Real Madrid,Real Madrid,4:0,0,4,2,0,2,0,3,not in squad,90,0,0
+4,10,2009. 10. 31,"Oct 31, 2009",1,09/10,0,Getafe CF,37,8,Real Madrid,Real Madrid  (2.),Getafe CF,Getafe  (8.),2:0,2,0,0,0,0,4,0,,0,0,0
+3,11,2009. 11. 3,"Nov 3, 2009",0,09/10,1,AC Milan,0,0,AC Milan,AC Milan,Real Madrid,Real Madrid,1:1,1,1,1,2,0,0,4,CB,90,0,0
+4,11,2009. 11. 7,"Nov 7, 2009",1,09/10,1,Atlético Madrid,9,18,Atlético Madrid,Atlético Madrid  (18.),Real Madrid,Real Madrid  (2.),2:3,3,2,0,1,2,1,0,RB,90,0,0
+3,11,2009. 11. 10,"Nov 10, 2009",2,09/10,0,AD Alcorcón,1,21,Real Madrid,Real Madrid,AD Alcorcón,Alcorcón,1:0,1,0,0,3,1,2,1,not in squad,66,0,0
+11,11,2009. 11. 21,"Nov 21, 2009",1,09/10,0,Racing Santander,58,17,Real Madrid,Real Madrid  (2.),Racing Santander,Racing  (17.),1:0,1,0,0,1,3,0,2,Red card suspension,0,0,0
+4,11,2009. 11. 25,"Nov 25, 2009",0,09/10,0,FC Zürich,35,0,Real Madrid,Real Madrid,FC Zürich,FC Zürich,1:0,1,0,0,1,1,0,0,CB,0,0,0
+4,11,2009. 11. 29,"Nov 29, 2009",1,09/10,1,FC Barcelona,30,2,FC Barcelona,FC Barcelona  (2.),Real Madrid,Real Madrid  (1.),1:0,0,1,2,1,1,0,0,RB,90,0,0
+6,12,2009. 12. 5,"Dec 5, 2009",1,09/10,0,UD Almería,82,13,Real Madrid,Real Madrid  (2.),UD Almería,UD Almería  (13.),4:2,4,2,0,0,1,1,0,RB,90,0,0
+3,12,2009. 12. 8,"Dec 8, 2009",0,09/10,1,Olympique Marseille,55,0,Olympique Marseille,Marseille,Real Madrid,Real Madrid,1:3,3,1,0,4,0,2,1,CB,90,1,0
+4,12,2009. 12. 12,"Dec 12, 2009",1,09/10,1,Valencia CF,87,3,Valencia CF,Valencia  (3.),Real Madrid,Real Madrid  (2.),2:3,3,2,0,3,4,1,2,RB,90,0,0
+7,12,2009. 12. 19,"Dec 19, 2009",1,09/10,0,Real Zaragoza,67,18,Real Madrid,Real Madrid  (2.),Real Zaragoza,Real Zaragoza  (18.),6:0,6,0,0,3,3,2,1,RB,90,0,0
+15,1,2010. 1. 3,"Jan 3, 2010",1,09/10,1,CA Osasuna,14,12,CA Osasuna,CA Osasuna  (12.),Real Madrid,Real Madrid  (2.),0:0,0,0,1,6,3,0,2,,90,0,1
+7,1,2010. 1. 10,"Jan 10, 2010",1,09/10,0,RCD Mallorca,61,4,Real Madrid,Real Madrid  (2.),RCD Mallorca,RCD Mallorca  (4.),2:0,2,0,0,0,6,0,0,Yellow card suspension,90,0,0
+6,1,2010. 1. 16,"Jan 16, 2010",1,09/10,1,Athletic Bilbao,8,8,Athletic Bilbao,Athletic  (8.),Real Madrid,Real Madrid  (2.),1:0,0,1,2,2,0,0,0,,0,0,0
+8,1,2010. 1. 24,"Jan 24, 2010",1,09/10,0,Málaga CF,48,16,Real Madrid,Real Madrid  (2.),Málaga CF,Málaga CF  (16.),2:0,2,0,0,0,2,1,0,RB,90,0,0
+6,1,2010. 1. 30,"Jan 30, 2010",1,09/10,1,Deportivo de La Coruña,26,5,Deportivo de La Coruña,Dep. La Coruña  (5.),Real Madrid,Real Madrid  (2.),1:3,3,1,0,2,0,0,1,,90,0,0
+7,2,2010. 2. 6,"Feb 6, 2010",1,09/10,0,RCD Espanyol Barcelona,60,14,Real Madrid,Real Madrid  (2.),RCD Espanyol Barcelona,Espanyol  (14.),3:0,3,0,0,3,2,1,0,,90,0,0
+7,2,2010. 2. 13,"Feb 13, 2010",1,09/10,1,Xerez CD,90,20,Xerez CD,Xerez CD  (20.),Real Madrid,Real Madrid  (2.),0:3,3,0,0,3,3,0,1,,90,1,0
+3,2,2010. 2. 16,"Feb 16, 2010",0,09/10,1,Olympique Lyon,54,0,Olympique Lyon,Olympique Lyon,Real Madrid,Real Madrid,1:0,0,1,2,3,3,0,0,CB,90,0,0
+5,2,2010. 2. 21,"Feb 21, 2010",1,09/10,0,Villarreal CF,89,9,Real Madrid,Real Madrid  (2.),Villarreal CF,Villarreal  (9.),6:2,6,2,0,0,3,1,0,,90,0,0
+6,2,2010. 2. 27,"Feb 27, 2010",1,09/10,1,CD Tenerife,19,19,CD Tenerife,CD Tenerife  (19.),Real Madrid,Real Madrid  (2.),1:5,5,1,0,6,0,2,1,,90,0,0
+7,3,2010. 3. 6,"Mar 6, 2010",1,09/10,0,Sevilla FC,73,4,Real Madrid,Real Madrid  (2.),Sevilla FC,Sevilla FC  (4.),3:2,3,2,0,5,6,1,2,RB,90,0,0
+4,3,2010. 3. 10,"Mar 10, 2010",0,09/10,0,Olympique Lyon,54,0,Real Madrid,Real Madrid,Olympique Lyon,Olympique Lyon,1:1,1,1,1,3,5,2,1,RB,90,1,0
+4,3,2010. 3. 14,"Mar 14, 2010",1,09/10,1,Real Valladolid CF,66,18,Real Valladolid CF,Real Valladolid  (18.),Real Madrid,Real Madrid  (1.),1:4,4,1,0,1,3,1,2,CB,90,0,0
+6,3,2010. 3. 20,"Mar 20, 2010",1,09/10,0,Sporting Gijón,76,12,Real Madrid,Real Madrid  (1.),Sporting Gijón,Sporting Gijón  (12.),3:1,3,1,0,4,1,1,1,,90,0,0
+5,3,2010. 3. 25,"Mar 25, 2010",1,09/10,1,Getafe CF,37,8,Getafe CF,Getafe  (8.),Real Madrid,Real Madrid  (1.),2:4,4,2,0,3,4,1,1,,90,0,0
+3,3,2010. 3. 28,"Mar 28, 2010",1,09/10,0,Atlético Madrid,9,8,Real Madrid,Real Madrid  (1.),Atlético Madrid,Atlético Madrid  (8.),3:2,3,2,0,4,3,2,1,CB,90,0,0
+7,4,2010. 4. 4,"Apr 4, 2010",1,09/10,1,Racing Santander,58,16,Racing Santander,Racing  (16.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,3,4,2,2,not in squad,90,0,0
+6,4,2010. 4. 10,"Apr 10, 2010",1,09/10,0,FC Barcelona,30,2,Real Madrid,Real Madrid  (1.),FC Barcelona,FC Barcelona  (2.),0:2,0,2,2,2,3,0,2,RB,0,0,0
+5,4,2010. 4. 15,"Apr 15, 2010",1,09/10,1,UD Almería,82,13,UD Almería,UD Almería  (13.),Real Madrid,Real Madrid  (2.),1:2,2,1,0,0,2,2,0,,90,0,0
+3,4,2010. 4. 18,"Apr 18, 2010",1,09/10,0,Valencia CF,87,3,Real Madrid,Real Madrid  (2.),Valencia CF,Valencia  (3.),2:0,2,0,0,2,0,1,2,CB,90,0,0
+6,4,2010. 4. 24,"Apr 24, 2010",1,09/10,1,Real Zaragoza,67,16,Real Zaragoza,Real Zaragoza  (16.),Real Madrid,Real Madrid  (2.),1:2,2,1,0,2,2,0,1,CB,90,0,0
+8,5,2010. 5. 2,"May 2, 2010",1,09/10,0,CA Osasuna,14,12,Real Madrid,Real Madrid  (2.),CA Osasuna,CA Osasuna  (12.),3:2,3,2,0,2,2,1,0,,90,0,0
+3,5,2010. 5. 5,"May 5, 2010",1,09/10,1,RCD Mallorca,61,4,RCD Mallorca,RCD Mallorca  (4.),Real Madrid,Real Madrid  (2.),1:4,4,1,0,3,2,2,1,,90,0,0
+3,5,2010. 5. 8,"May 8, 2010",1,09/10,0,Athletic Bilbao,8,8,Real Madrid,Real Madrid  (2.),Athletic Bilbao,Athletic  (8.),5:1,5,1,0,4,3,1,2,CB,90,0,2
+8,5,2010. 5. 16,"May 16, 2010",1,09/10,1,Málaga CF,48,16,Málaga CF,Málaga CF  (16.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,5,4,1,1,RB,90,1,0
+105,8,2010. 8. 29,"Aug 29, 2010",1,10/11,1,RCD Mallorca,61,17,RCD Mallorca,RCD Mallorca  (17.),Real Madrid,Real Madrid  (2.),0:0,0,0,1,1,5,1,1,CB,90,0,0
+13,9,2010. 9. 11,"Sep 11, 2010",1,10/11,0,CA Osasuna,14,10,Real Madrid,Real Madrid  (11.),CA Osasuna,CA Osasuna  (10.),1:0,1,0,0,0,1,0,1,RB,90,0,0
+4,9,2010. 9. 15,"Sep 15, 2010",0,10/11,0,Ajax Amsterdam,3,0,Real Madrid,Real Madrid,Ajax Amsterdam,Ajax,2:0,2,0,0,1,0,0,0,not in squad,90,0,0
+3,9,2010. 9. 18,"Sep 18, 2010",1,10/11,1,Real Sociedad,64,4,Real Sociedad,Real Sociedad  (4.),Real Madrid,Real Madrid  (5.),1:2,2,1,0,2,1,0,0,RB,0,0,0
+3,9,2010. 9. 21,"Sep 21, 2010",1,10/11,0,RCD Espanyol Barcelona,60,7,Real Madrid,Real Madrid  (3.),RCD Espanyol Barcelona,Espanyol  (7.),3:0,3,0,0,2,2,1,0,RB,90,0,0
+4,9,2010. 9. 25,"Sep 25, 2010",1,10/11,1,Levante UD,46,18,Levante UD,Levante  (18.),Real Madrid,Real Madrid  (1.),0:0,0,0,1,3,2,0,1,CB,90,0,0
+3,9,2010. 9. 28,"Sep 28, 2010",0,10/11,1,AJ Auxerre,2,0,AJ Auxerre,AJ Auxerre,Real Madrid,Real Madrid,0:1,1,0,0,0,3,0,0,CB,90,0,0
+5,10,2010. 10. 3,"Oct 3, 2010",1,10/11,0,Deportivo de La Coruña,26,19,Real Madrid,Real Madrid  (4.),Deportivo de La Coruña,Dep. La Coruña  (19.),6:1,6,1,0,1,0,0,0,RB,90,0,0
+13,10,2010. 10. 16,"Oct 16, 2010",1,10/11,1,Málaga CF,48,10,Málaga CF,Málaga CF  (10.),Real Madrid,Real Madrid  (3.),1:4,4,1,0,6,1,1,0,Twisted knee,90,0,0
+3,10,2010. 10. 19,"Oct 19, 2010",0,10/11,0,AC Milan,0,0,Real Madrid,Real Madrid,AC Milan,AC Milan,2:0,2,0,0,4,6,1,1,Twisted knee,0,0,0
+4,10,2010. 10. 23,"Oct 23, 2010",1,10/11,0,Racing Santander,58,16,Real Madrid,Real Madrid  (1.),Racing Santander,Racing  (16.),6:1,6,1,0,2,4,0,1,Twisted knee,0,0,0
+3,10,2010. 10. 26,"Oct 26, 2010",2,10/11,1,Real Murcia CF,63,21,Real Murcia CF,Real Murcia,Real Madrid,Real Madrid,0:0,0,0,1,6,2,1,0,RB,0,0,0
+4,10,2010. 10. 30,"Oct 30, 2010",1,10/11,1,Hércules CF,42,13,Hércules CF,Hércules CF  (13.),Real Madrid,Real Madrid  (1.),1:3,3,1,0,0,6,0,1,RB,90,0,0
+4,11,2010. 11. 3,"Nov 3, 2010",0,10/11,1,AC Milan,0,0,AC Milan,AC Milan,Real Madrid,Real Madrid,2:2,2,2,1,3,0,1,0,RB,90,0,0
+4,11,2010. 11. 7,"Nov 7, 2010",1,10/11,0,Atlético Madrid,9,6,Real Madrid,Real Madrid  (1.),Atlético Madrid,Atlético Madrid  (6.),2:0,2,0,0,2,3,2,1,RB,90,0,0
+3,11,2010. 11. 10,"Nov 10, 2010",2,10/11,0,Real Murcia CF,63,21,Real Madrid,Real Madrid,Real Murcia CF,Real Murcia,5:1,5,1,0,2,2,0,2,CB,90,0,0
+4,11,2010. 11. 14,"Nov 14, 2010",1,10/11,1,Sporting Gijón,76,13,Sporting Gijón,Sporting Gijón  (13.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,5,2,1,0,RB,90,0,0
+6,11,2010. 11. 20,"Nov 20, 2010",1,10/11,0,Athletic Bilbao,8,8,Real Madrid,Real Madrid  (1.),Athletic Bilbao,Athletic  (8.),5:1,5,1,0,1,5,0,1,RB,90,0,0
+3,11,2010. 11. 23,"Nov 23, 2010",0,10/11,1,Ajax Amsterdam,3,0,Ajax Amsterdam,Ajax,Real Madrid,Real Madrid,0:4,4,0,0,5,1,1,0,CB,90,1,0
+6,11,2010. 11. 29,"Nov 29, 2010",1,10/11,1,FC Barcelona,30,2,FC Barcelona,FC Barcelona  (2.),Real Madrid,Real Madrid  (1.),5:0,0,5,2,4,5,0,1,RB,90,0,0
+5,12,2010. 12. 4,"Dec 4, 2010",1,10/11,0,Valencia CF,87,5,Real Madrid,Real Madrid  (2.),Valencia CF,Valencia  (5.),2:0,2,0,0,0,4,5,0,Red card suspension,90,0,0
+4,12,2010. 12. 8,"Dec 8, 2010",0,10/11,0,AJ Auxerre,2,0,Real Madrid,Real Madrid,AJ Auxerre,AJ Auxerre,4:0,4,0,0,2,0,0,5,Indirect card suspension,0,0,0
+4,12,2010. 12. 12,"Dec 12, 2010",1,10/11,1,Real Zaragoza,67,20,Real Zaragoza,Real Zaragoza  (20.),Real Madrid,Real Madrid  (2.),1:3,3,1,0,4,2,0,0,not in squad,0,0,0
+7,12,2010. 12. 19,"Dec 19, 2010",1,10/11,0,Sevilla FC,73,11,Real Madrid,Real Madrid  (2.),Sevilla FC,Sevilla FC  (11.),1:0,1,0,0,3,4,1,0,RB,0,0,0
+3,12,2010. 12. 22,"Dec 22, 2010",2,10/11,0,Levante UD,46,21,Real Madrid,Real Madrid,Levante UD,Levante,8:0,8,0,0,1,3,0,1,not in squad,90,0,0
+12,1,2011. 1. 3,"Jan 3, 2011",1,10/11,1,Getafe CF,37,7,Getafe CF,Getafe  (7.),Real Madrid,Real Madrid  (2.),2:3,3,2,0,8,1,0,0,CB,0,0,0
+3,1,2011. 1. 6,"Jan 6, 2011",2,10/11,1,Levante UD,46,21,Levante UD,Levante,Real Madrid,Real Madrid,2:0,0,2,2,3,8,2,0,on the bench,90,0,0
+3,1,2011. 1. 9,"Jan 9, 2011",1,10/11,0,Villarreal CF,89,3,Real Madrid,Real Madrid  (2.),Villarreal CF,Villarreal  (3.),4:2,4,2,0,0,3,2,2,RB,0,0,0
+4,1,2011. 1. 13,"Jan 13, 2011",2,10/11,0,Atlético Madrid,9,21,Real Madrid,Real Madrid,Atlético Madrid,Atlético Madrid,3:1,3,1,0,4,0,2,2,CB,90,0,0
+3,1,2011. 1. 16,"Jan 16, 2011",1,10/11,1,UD Almería,82,19,UD Almería,UD Almería  (19.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,3,4,1,2,CB,90,1,0
+4,1,2011. 1. 20,"Jan 20, 2011",2,10/11,1,Atlético Madrid,9,21,Atlético Madrid,Atlético Madrid,Real Madrid,Real Madrid,0:1,1,0,0,1,3,1,1,RB,90,0,0
+3,1,2011. 1. 23,"Jan 23, 2011",1,10/11,0,RCD Mallorca,61,9,Real Madrid,Real Madrid  (2.),RCD Mallorca,RCD Mallorca  (9.),1:0,1,0,0,1,1,0,1,CB,90,0,1
+3,1,2011. 1. 26,"Jan 26, 2011",2,10/11,1,Sevilla FC,73,21,Sevilla FC,Sevilla FC,Real Madrid,Real Madrid,0:1,1,0,0,1,1,0,0,RB,90,0,0
+4,1,2011. 1. 30,"Jan 30, 2011",1,10/11,1,CA Osasuna,14,17,CA Osasuna,CA Osasuna  (17.),Real Madrid,Real Madrid  (2.),1:0,0,1,2,1,1,0,0,RB,90,0,0
+3,2,2011. 2. 2,"Feb 2, 2011",2,10/11,0,Sevilla FC,73,21,Real Madrid,Real Madrid,Sevilla FC,Sevilla FC,2:0,2,0,0,0,1,1,0,RB,90,0,0
+4,2,2011. 2. 6,"Feb 6, 2011",1,10/11,0,Real Sociedad,64,9,Real Madrid,Real Madrid  (2.),Real Sociedad,Real Sociedad  (9.),4:1,4,1,0,2,0,0,1,Yellow card suspension,90,0,0
+7,2,2011. 2. 13,"Feb 13, 2011",1,10/11,1,RCD Espanyol Barcelona,60,6,RCD Espanyol Barcelona,Espanyol  (6.),Real Madrid,Real Madrid  (2.),0:1,1,0,0,4,2,1,0,,0,0,0
+6,2,2011. 2. 19,"Feb 19, 2011",1,10/11,0,Levante UD,46,15,Real Madrid,Real Madrid  (2.),Levante UD,Levante  (15.),2:0,2,0,0,1,4,0,1,RB,3,0,0
+3,2,2011. 2. 22,"Feb 22, 2011",0,10/11,1,Olympique Lyon,54,0,Olympique Lyon,Olympique Lyon,Real Madrid,Real Madrid,1:1,1,1,1,2,1,0,0,RB,90,0,0
+4,2,2011. 2. 26,"Feb 26, 2011",1,10/11,1,Deportivo de La Coruña,26,13,Deportivo de La Coruña,Dep. La Coruña  (13.),Real Madrid,Real Madrid  (2.),0:0,0,0,1,1,2,1,0,RB,90,0,0
+5,3,2011. 3. 3,"Mar 3, 2011",1,10/11,0,Málaga CF,48,19,Real Madrid,Real Madrid  (2.),Málaga CF,Málaga CF  (19.),7:0,7,0,0,0,1,0,1,RB,90,0,0
+3,3,2011. 3. 6,"Mar 6, 2011",1,10/11,1,Racing Santander,58,12,Racing Santander,Racing  (12.),Real Madrid,Real Madrid  (2.),1:3,3,1,0,7,0,0,0,RB,90,0,0
+6,3,2011. 3. 12,"Mar 12, 2011",1,10/11,0,Hércules CF,42,18,Real Madrid,Real Madrid  (2.),Hércules CF,Hércules CF  (18.),2:0,2,0,0,3,7,1,0,CB,90,0,0
+4,3,2011. 3. 16,"Mar 16, 2011",0,10/11,0,Olympique Lyon,54,0,Real Madrid,Real Madrid,Olympique Lyon,Olympique Lyon,3:0,3,0,0,2,3,0,1,RB,90,0,0
+3,3,2011. 3. 19,"Mar 19, 2011",1,10/11,1,Atlético Madrid,9,7,Atlético Madrid,Atlético Madrid  (7.),Real Madrid,Real Madrid  (2.),1:2,2,1,0,3,2,0,0,RB,90,0,0
+14,4,2011. 4. 2,"Apr 2, 2011",1,10/11,0,Sporting Gijón,76,15,Real Madrid,Real Madrid  (2.),Sporting Gijón,Sporting Gijón  (15.),0:1,0,1,2,2,3,1,0,CB,90,0,0
+3,4,2011. 4. 5,"Apr 5, 2011",0,10/11,0,Tottenham Hotspur,81,0,Real Madrid,Real Madrid,Tottenham Hotspur,Spurs,4:0,4,0,0,0,2,1,1,RB,90,0,0
+4,4,2011. 4. 9,"Apr 9, 2011",1,10/11,1,Athletic Bilbao,8,5,Athletic Bilbao,Athletic  (5.),Real Madrid,Real Madrid  (2.),0:3,3,0,0,4,0,0,1,RB,90,0,0
+4,4,2011. 4. 13,"Apr 13, 2011",0,10/11,1,Tottenham Hotspur,81,0,Tottenham Hotspur,Spurs,Real Madrid,Real Madrid,0:1,1,0,0,3,4,0,0,RB,90,0,0
+3,4,2011. 4. 16,"Apr 16, 2011",1,10/11,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (2.),FC Barcelona,FC Barcelona  (1.),1:1,1,1,1,1,3,0,0,RB,57,0,0
+4,4,2011. 4. 20,"Apr 20, 2011",2,10/11,1,FC Barcelona,30,21,FC Barcelona,FC Barcelona,Real Madrid,Real Madrid,0:1 AET,1,0,0,1,1,1,0,CB,90,0,0
+3,4,2011. 4. 23,"Apr 23, 2011",1,10/11,1,Valencia CF,87,3,Valencia CF,Valencia  (3.),Real Madrid,Real Madrid  (2.),3:6,6,3,0,1,1,0,1,not in squad,120,0,0
+4,4,2011. 4. 27,"Apr 27, 2011",0,10/11,0,FC Barcelona,30,0,Real Madrid,Real Madrid,FC Barcelona,FC Barcelona,0:2,0,2,2,6,1,3,0,CB,0,0,0
+3,4,2011. 4. 30,"Apr 30, 2011",1,10/11,0,Real Zaragoza,67,16,Real Madrid,Real Madrid  (2.),Real Zaragoza,Real Zaragoza  (16.),2:3,2,3,2,0,6,2,3,RB,90,0,0
+3,5,2011. 5. 3,"May 3, 2011",0,10/11,1,FC Barcelona,30,0,FC Barcelona,FC Barcelona,Real Madrid,Real Madrid,1:1,1,1,1,2,0,3,2,Yellow card suspension,90,1,0
+4,5,2011. 5. 7,"May 7, 2011",1,10/11,1,Sevilla FC,73,6,Sevilla FC,Sevilla FC  (6.),Real Madrid,Real Madrid  (2.),2:6,6,2,0,1,2,1,3,CB,0,0,0
+3,5,2011. 5. 10,"May 10, 2011",1,10/11,0,Getafe CF,37,16,Real Madrid,Real Madrid  (2.),Getafe CF,Getafe  (16.),4:0,4,0,0,6,1,2,1,Yellow card suspension,90,1,0
+5,5,2011. 5. 15,"May 15, 2011",1,10/11,1,Villarreal CF,89,4,Villarreal CF,Villarreal  (4.),Real Madrid,Real Madrid  (2.),1:3,3,1,0,4,6,0,2,RB,0,0,0
+6,5,2011. 5. 21,"May 21, 2011",1,10/11,0,UD Almería,82,20,Real Madrid,Real Madrid  (2.),UD Almería,UD Almería  (20.),8:1,8,1,0,3,4,1,0,CB,90,0,0
+99,8,2011. 8. 28,"Aug 28, 2011",1,11/12,1,Real Zaragoza,67,12,Real Zaragoza,Real Zaragoza  (12.),Real Madrid,Real Madrid  (3.),0:6,6,0,0,8,3,1,1,RB,90,0,2
+13,9,2011. 9. 10,"Sep 10, 2011",1,11/12,0,Getafe CF,37,7,Real Madrid,Real Madrid  (1.),Getafe CF,Getafe  (7.),4:2,4,2,0,6,8,0,1,RB,90,0,1
+4,9,2011. 9. 14,"Sep 14, 2011",0,11/12,1,GNK Dinamo Zagreb,40,0,GNK Dinamo Zagreb,Dinamo Zagreb,Real Madrid,Real Madrid,0:1,1,0,0,4,6,2,0,RB,90,0,0
+4,9,2011. 9. 18,"Sep 18, 2011",1,11/12,1,Levante UD,46,14,Levante UD,Levante  (14.),Real Madrid,Real Madrid  (1.),1:0,0,1,2,1,4,0,2,RB,90,0,0
+3,9,2011. 9. 21,"Sep 21, 2011",1,11/12,1,Racing Santander,58,19,Racing Santander,Racing  (19.),Real Madrid,Real Madrid  (4.),0:0,0,0,1,0,1,1,0,on the bench,90,0,0
+3,9,2011. 9. 24,"Sep 24, 2011",1,11/12,0,Rayo Vallecano,59,14,Real Madrid,Real Madrid  (5.),Rayo Vallecano,Rayo Vallecano  (14.),6:2,6,2,0,0,0,0,1,RB,0,0,0
+3,9,2011. 9. 27,"Sep 27, 2011",0,11/12,0,Ajax Amsterdam,3,0,Real Madrid,Real Madrid,Ajax Amsterdam,Ajax,3:0,3,0,0,6,0,2,0,RB,90,0,1
+5,10,2011. 10. 2,"Oct 2, 2011",1,11/12,1,RCD Espanyol Barcelona,60,9,RCD Espanyol Barcelona,Espanyol  (9.),Real Madrid,Real Madrid  (2.),0:4,4,0,0,3,6,0,2,CB,90,0,0
+13,10,2011. 10. 15,"Oct 15, 2011",1,11/12,0,Real Betis Balompié,62,7,Real Madrid,Real Madrid  (2.),Real Betis Balompié,Real Betis  (7.),4:1,4,1,0,4,3,0,0,CB,90,0,0
+3,10,2011. 10. 18,"Oct 18, 2011",0,11/12,0,Olympique Lyon,54,0,Real Madrid,Real Madrid,Olympique Lyon,Olympique Lyon,4:0,4,0,0,4,4,1,0,CB,90,0,0
+4,10,2011. 10. 22,"Oct 22, 2011",1,11/12,1,Málaga CF,48,6,Málaga CF,Málaga CF  (6.),Real Madrid,Real Madrid  (2.),0:4,4,0,0,4,4,0,1,CB,90,1,0
+4,10,2011. 10. 26,"Oct 26, 2011",1,11/12,0,Villarreal CF,89,12,Real Madrid,Real Madrid  (1.),Villarreal CF,Villarreal  (12.),3:0,3,0,0,4,4,0,0,CB,90,0,1
+3,10,2011. 10. 29,"Oct 29, 2011",1,11/12,1,Real Sociedad,64,17,Real Sociedad,Real Sociedad  (17.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,3,4,0,0,CB,90,0,0
+4,11,2011. 11. 2,"Nov 2, 2011",0,11/12,1,Olympique Lyon,54,0,Olympique Lyon,Olympique Lyon,Real Madrid,Real Madrid,0:2,2,0,0,1,3,0,0,CB,90,0,0
+4,11,2011. 11. 6,"Nov 6, 2011",1,11/12,0,CA Osasuna,14,9,Real Madrid,Real Madrid  (1.),CA Osasuna,CA Osasuna  (9.),7:1,7,1,0,2,1,0,0,CB,90,0,0
+13,11,2011. 11. 19,"Nov 19, 2011",1,11/12,1,Valencia CF,87,3,Valencia CF,Valencia  (3.),Real Madrid,Real Madrid  (1.),2:3,3,2,0,7,2,1,0,CB,90,0,0
+3,11,2011. 11. 22,"Nov 22, 2011",0,11/12,0,GNK Dinamo Zagreb,40,0,Real Madrid,Real Madrid,GNK Dinamo Zagreb,Dinamo Zagreb,6:2,6,2,0,3,7,2,1,CB,90,1,0
+4,11,2011. 11. 26,"Nov 26, 2011",1,11/12,0,Atlético Madrid,9,7,Real Madrid,Real Madrid  (1.),Atlético Madrid,Atlético Madrid  (7.),4:1,4,1,0,6,3,2,2,CB,45,0,0
+7,12,2011. 12. 3,"Dec 3, 2011",1,11/12,1,Sporting Gijón,76,18,Sporting Gijón,Sporting Gijón  (18.),Real Madrid,Real Madrid  (1.),0:3,3,0,0,4,6,1,2,CB,90,0,0
+4,12,2011. 12. 7,"Dec 7, 2011",0,11/12,1,Ajax Amsterdam,3,0,Ajax Amsterdam,Ajax,Real Madrid,Real Madrid,0:3,3,0,0,3,4,0,1,not in squad,90,0,0
+3,12,2011. 12. 10,"Dec 10, 2011",1,11/12,0,FC Barcelona,30,2,Real Madrid,Real Madrid  (1.),FC Barcelona,FC Barcelona  (2.),1:3,1,3,2,3,3,0,0,CB,0,0,0
+3,12,2011. 12. 13,"Dec 13, 2011",2,11/12,1,SD Ponferradina,72,21,SD Ponferradina,Ponferradina,Real Madrid,Real Madrid,0:2,2,0,0,1,3,3,0,CB,90,0,0
+4,12,2011. 12. 17,"Dec 17, 2011",1,11/12,1,Sevilla FC,73,5,Sevilla FC,Sevilla FC  (5.),Real Madrid,Real Madrid  (1.),2:6,6,2,0,2,1,0,3,CB,19,0,0
+3,12,2011. 12. 20,"Dec 20, 2011",2,11/12,0,SD Ponferradina,72,21,Real Madrid,Real Madrid,SD Ponferradina,Ponferradina,5:1,5,1,0,6,2,2,0,Torn muscle bundle,90,0,0
+14,1,2012. 1. 3,"Jan 3, 2012",2,11/12,0,Málaga CF,48,21,Real Madrid,Real Madrid,Málaga CF,Málaga CF,3:2,3,2,0,5,6,1,2,Torn muscle bundle,0,0,0
+4,1,2012. 1. 7,"Jan 7, 2012",1,11/12,0,Granada CF,41,14,Real Madrid,Real Madrid  (1.),Granada CF,Granada CF  (14.),5:1,5,1,0,3,5,2,1,CB,0,0,0
+3,1,2012. 1. 10,"Jan 10, 2012",2,11/12,1,Málaga CF,48,21,Málaga CF,Málaga CF,Real Madrid,Real Madrid,0:1,1,0,0,5,3,1,2,CB,90,1,0
+4,1,2012. 1. 14,"Jan 14, 2012",1,11/12,1,RCD Mallorca,61,13,RCD Mallorca,RCD Mallorca  (13.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,1,5,0,1,CB,90,0,0
+4,1,2012. 1. 18,"Jan 18, 2012",2,11/12,0,FC Barcelona,30,21,Real Madrid,Real Madrid,FC Barcelona,FC Barcelona,1:2,1,2,2,2,1,1,0,CB,90,0,0
+4,1,2012. 1. 22,"Jan 22, 2012",1,11/12,0,Athletic Bilbao,8,10,Real Madrid,Real Madrid  (1.),Athletic Bilbao,Athletic  (10.),4:1,4,1,0,1,2,2,1,CB,90,0,0
+3,1,2012. 1. 25,"Jan 25, 2012",2,11/12,1,FC Barcelona,30,21,FC Barcelona,FC Barcelona,Real Madrid,Real Madrid,2:2,2,2,1,4,1,1,2,CB,90,0,0
+3,1,2012. 1. 28,"Jan 28, 2012",1,11/12,0,Real Zaragoza,67,20,Real Madrid,Real Madrid  (1.),Real Zaragoza,Real Zaragoza  (20.),3:1,3,1,0,2,4,2,1,Yellow card suspension,88,0,0
+7,2,2012. 2. 4,"Feb 4, 2012",1,11/12,1,Getafe CF,37,8,Getafe CF,Getafe  (8.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,3,2,1,2,CB,0,0,0
+8,2,2012. 2. 12,"Feb 12, 2012",1,11/12,0,Levante UD,46,4,Real Madrid,Real Madrid  (1.),Levante UD,Levante  (4.),4:2,4,2,0,1,3,0,1,CB,90,1,0
+6,2,2012. 2. 18,"Feb 18, 2012",1,11/12,0,Racing Santander,58,18,Real Madrid,Real Madrid  (1.),Racing Santander,Racing  (18.),4:0,4,0,0,4,1,2,0,RB,90,0,0
+3,2,2012. 2. 21,"Feb 21, 2012",0,11/12,1,CSKA Moscow,24,0,CSKA Moscow,CSKA Moscow,Real Madrid,Real Madrid,1:1,1,1,1,4,4,0,2,CB,90,0,0
+5,2,2012. 2. 26,"Feb 26, 2012",1,11/12,1,Rayo Vallecano,59,9,Rayo Vallecano,Rayo Vallecano  (9.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,1,4,1,0,CB,90,0,0
+7,3,2012. 3. 4,"Mar 4, 2012",1,11/12,0,RCD Espanyol Barcelona,60,10,Real Madrid,Real Madrid  (1.),RCD Espanyol Barcelona,Espanyol  (10.),5:0,5,0,0,1,1,0,1,CB,90,0,0
+6,3,2012. 3. 10,"Mar 10, 2012",1,11/12,1,Real Betis Balompié,62,11,Real Betis Balompié,Real Betis  (11.),Real Madrid,Real Madrid  (1.),2:3,3,2,0,5,1,0,0,CB,90,0,0
+4,3,2012. 3. 14,"Mar 14, 2012",0,11/12,0,CSKA Moscow,24,0,Real Madrid,Real Madrid,CSKA Moscow,CSKA Moscow,4:1,4,1,0,3,5,2,0,CB,90,0,0
+4,3,2012. 3. 18,"Mar 18, 2012",1,11/12,0,Málaga CF,48,4,Real Madrid,Real Madrid  (1.),Málaga CF,Málaga CF  (4.),1:1,1,1,1,4,3,1,2,CB,90,0,1
+3,3,2012. 3. 21,"Mar 21, 2012",1,11/12,1,Villarreal CF,89,17,Villarreal CF,Villarreal  (17.),Real Madrid,Real Madrid  (1.),1:1,1,1,1,1,4,1,1,CB,90,0,0
+3,3,2012. 3. 24,"Mar 24, 2012",1,11/12,0,Real Sociedad,64,15,Real Madrid,Real Madrid  (1.),Real Sociedad,Real Sociedad  (15.),5:1,5,1,0,1,1,1,1,CB,85,0,0
+3,3,2012. 3. 27,"Mar 27, 2012",0,11/12,1,APOEL Nicosia,5,0,APOEL Nicosia,APOEL Nicosia,Real Madrid,Real Madrid,0:3,3,0,0,5,1,1,1,CB,90,0,0
+4,3,2012. 3. 31,"Mar 31, 2012",1,11/12,1,CA Osasuna,14,6,CA Osasuna,CA Osasuna  (6.),Real Madrid,Real Madrid  (1.),1:5,5,1,0,3,5,0,1,CB,90,0,0
+4,4,2012. 4. 4,"Apr 4, 2012",0,11/12,0,APOEL Nicosia,5,0,Real Madrid,Real Madrid,APOEL Nicosia,APOEL Nicosia,5:2,5,2,0,5,3,1,0,RB,90,0,0
+4,4,2012. 4. 8,"Apr 8, 2012",1,11/12,0,Valencia CF,87,3,Real Madrid,Real Madrid  (1.),Valencia CF,Valencia  (3.),0:0,0,0,1,5,5,2,1,Yellow card suspension,90,0,0
+3,4,2012. 4. 11,"Apr 11, 2012",1,11/12,1,Atlético Madrid,9,6,Atlético Madrid,Atlético Madrid  (6.),Real Madrid,Real Madrid  (1.),1:4,4,1,0,0,5,0,2,CB,0,0,0
+3,4,2012. 4. 14,"Apr 14, 2012",1,11/12,0,Sporting Gijón,76,19,Real Madrid,Real Madrid  (1.),Sporting Gijón,Sporting Gijón  (19.),3:1,3,1,0,4,0,1,0,CB,90,0,0
+3,4,2012. 4. 17,"Apr 17, 2012",0,11/12,1,Bayern Munich,11,0,Bayern Munich,Bayern Munich,Real Madrid,Real Madrid,2:1,1,2,2,3,4,1,1,CB,90,0,1
+4,4,2012. 4. 21,"Apr 21, 2012",1,11/12,1,FC Barcelona,30,2,FC Barcelona,FC Barcelona  (2.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,1,3,2,1,CB,90,0,0
+4,4,2012. 4. 25,"Apr 25, 2012",0,11/12,0,Bayern Munich,11,0,Real Madrid,Real Madrid,Bayern Munich,Bayern Munich,3:4 on pens,3,4,2,2,1,1,2,CB,90,0,0
+4,4,2012. 4. 29,"Apr 29, 2012",1,11/12,0,Sevilla FC,73,9,Real Madrid,Real Madrid  (1.),Sevilla FC,Sevilla FC  (9.),3:0,3,0,0,3,2,4,1,CB,120,0,0
+3,5,2012. 5. 2,"May 2, 2012",1,11/12,1,Athletic Bilbao,8,7,Athletic Bilbao,Athletic  (7.),Real Madrid,Real Madrid  (1.),0:3,3,0,0,3,3,0,4,CB,90,0,1
+3,5,2012. 5. 5,"May 5, 2012",1,11/12,1,Granada CF,41,15,Granada CF,Granada CF  (15.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,3,3,0,0,not in squad,90,0,0
+8,5,2012. 5. 13,"May 13, 2012",1,11/12,0,RCD Mallorca,61,7,Real Madrid,Real Madrid  (1.),RCD Mallorca,RCD Mallorca  (7.),4:1,4,1,0,2,3,1,0,CB,0,0,0
+98,8,2012. 8. 19,"Aug 19, 2012",1,12/13,0,Valencia CF,87,5,Real Madrid,Real Madrid  (2.),Valencia CF,Valencia  (5.),1:1,1,1,1,4,2,1,1,CB,90,0,0
+7,8,2012. 8. 26,"Aug 26, 2012",1,12/13,1,Getafe CF,37,14,Getafe CF,Getafe  (14.),Real Madrid,Real Madrid  (10.),2:1,1,2,2,1,4,1,1,CB,90,0,0
+7,9,2012. 9. 2,"Sep 2, 2012",1,12/13,0,Granada CF,41,15,Real Madrid,Real Madrid  (14.),Granada CF,Granada CF  (15.),3:0,3,0,0,1,1,2,1,CB,90,0,0
+13,9,2012. 9. 15,"Sep 15, 2012",1,12/13,1,Sevilla FC,73,8,Sevilla FC,Sevilla FC  (8.),Real Madrid,Real Madrid  (9.),1:0,0,1,2,3,1,0,2,CB,90,0,0
+3,9,2012. 9. 18,"Sep 18, 2012",0,12/13,0,Manchester City,50,0,Real Madrid,Real Madrid,Manchester City,Man City,3:2,3,2,0,0,3,1,0,on the bench,90,0,0
+6,9,2012. 9. 24,"Sep 24, 2012",1,12/13,1,Rayo Vallecano,59,6,Rayo Vallecano,Rayo Vallecano  (6.),Real Madrid,Real Madrid  (12.),0:2,2,0,0,3,0,2,1,CB,0,0,0
+6,9,2012. 9. 30,"Sep 30, 2012",1,12/13,0,Deportivo de La Coruña,26,10,Real Madrid,Real Madrid  (7.),Deportivo de La Coruña,Dep. La Coruña  (10.),5:1,5,1,0,2,3,0,2,RB,90,0,0
+3,10,2012. 10. 3,"Oct 3, 2012",0,12/13,1,Ajax Amsterdam,3,0,Ajax Amsterdam,Ajax,Real Madrid,Real Madrid,1:4,4,1,0,5,2,1,0,CB,90,0,1
+4,10,2012. 10. 7,"Oct 7, 2012",1,12/13,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (6.),2:2,2,2,1,4,5,1,1,CB,90,0,0
+13,10,2012. 10. 20,"Oct 20, 2012",1,12/13,0,Celta de Vigo,20,12,Real Madrid,Real Madrid  (5.),Celta de Vigo,Celta de Vigo  (12.),2:0,2,0,0,2,4,2,1,RB,90,0,0
+4,10,2012. 10. 24,"Oct 24, 2012",0,12/13,1,Borussia Dortmund,12,0,Borussia Dortmund,Bor. Dortmund,Real Madrid,Real Madrid,2:1,1,2,2,2,2,0,2,RB,90,0,0
+4,10,2012. 10. 28,"Oct 28, 2012",1,12/13,1,RCD Mallorca,61,8,RCD Mallorca,RCD Mallorca  (8.),Real Madrid,Real Madrid  (4.),0:5,5,0,0,1,2,2,0,RB,90,0,0
+3,10,2012. 10. 31,"Oct 31, 2012",2,12/13,1,CD Alcoyano,16,21,CD Alcoyano,CD Alcoyano,Real Madrid,Real Madrid,1:4,4,1,0,5,1,0,2,not in squad,90,0,0
+3,11,2012. 11. 3,"Nov 3, 2012",1,12/13,0,Real Zaragoza,67,9,Real Madrid,Real Madrid  (4.),Real Zaragoza,Real Zaragoza  (9.),4:0,4,0,0,4,5,1,0,RB,0,0,0
+3,11,2012. 11. 6,"Nov 6, 2012",0,12/13,0,Borussia Dortmund,12,0,Real Madrid,Real Madrid,Borussia Dortmund,Bor. Dortmund,2:2,2,2,1,4,4,0,1,RB,90,0,0
+5,11,2012. 11. 11,"Nov 11, 2012",1,12/13,1,Levante UD,46,6,Levante UD,Levante  (6.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,2,4,2,0,CB,90,0,0
+6,11,2012. 11. 17,"Nov 17, 2012",1,12/13,0,Athletic Bilbao,8,12,Real Madrid,Real Madrid  (3.),Athletic Bilbao,Athletic  (12.),5:1,5,1,0,2,2,1,2,CB,90,0,0
+4,11,2012. 11. 21,"Nov 21, 2012",0,12/13,1,Manchester City,50,0,Manchester City,Man City,Real Madrid,Real Madrid,1:1,1,1,1,5,2,1,1,CB,90,1,0
+3,11,2012. 11. 24,"Nov 24, 2012",1,12/13,1,Real Betis Balompié,62,6,Real Betis Balompié,Real Betis  (6.),Real Madrid,Real Madrid  (3.),1:0,0,1,2,1,5,1,1,CB,90,0,0
+3,11,2012. 11. 27,"Nov 27, 2012",2,12/13,0,CD Alcoyano,16,21,Real Madrid,Real Madrid,CD Alcoyano,CD Alcoyano,3:0,3,0,0,0,1,1,1,not in squad,90,0,0
+4,12,2012. 12. 1,"Dec 1, 2012",1,12/13,0,Atlético Madrid,9,2,Real Madrid,Real Madrid  (3.),Atlético Madrid,Atlético Madrid  (2.),2:0,2,0,0,3,0,0,1,CB,0,0,0
+3,12,2012. 12. 4,"Dec 4, 2012",0,12/13,0,Ajax Amsterdam,3,0,Real Madrid,Real Madrid,Ajax Amsterdam,Ajax,4:1,4,1,0,2,3,0,0,not in squad,90,0,0
+4,12,2012. 12. 8,"Dec 8, 2012",1,12/13,1,Real Valladolid CF,66,7,Real Valladolid CF,Real Valladolid  (7.),Real Madrid,Real Madrid  (3.),2:3,3,2,0,4,2,1,0,CB,0,0,0
+4,12,2012. 12. 12,"Dec 12, 2012",2,12/13,1,Celta de Vigo,20,21,Celta de Vigo,Celta de Vigo,Real Madrid,Real Madrid,2:1,1,2,2,3,4,2,1,on the bench,90,0,0
+4,12,2012. 12. 16,"Dec 16, 2012",1,12/13,0,RCD Espanyol Barcelona,60,19,Real Madrid,Real Madrid  (3.),RCD Espanyol Barcelona,Espanyol  (19.),2:2,2,2,1,1,3,2,2,CB,0,0,0
+6,12,2012. 12. 22,"Dec 22, 2012",1,12/13,1,Málaga CF,48,4,Málaga CF,Málaga CF  (4.),Real Madrid,Real Madrid  (3.),3:2,2,3,2,2,1,2,2,CB,90,0,0
+15,1,2013. 1. 6,"Jan 6, 2013",1,12/13,0,Real Sociedad,64,7,Real Madrid,Real Madrid  (3.),Real Sociedad,Real Sociedad  (7.),4:3,4,3,0,2,2,3,2,Yellow card suspension,90,0,0
+3,1,2013. 1. 9,"Jan 9, 2013",2,12/13,0,Celta de Vigo,20,21,Real Madrid,Real Madrid,Celta de Vigo,Celta de Vigo,4:0,4,0,0,4,2,3,3,CB,0,0,0
+3,1,2013. 1. 12,"Jan 12, 2013",1,12/13,1,CA Osasuna,14,20,CA Osasuna,CA Osasuna  (20.),Real Madrid,Real Madrid  (3.),0:0,0,0,1,4,4,0,3,Suspension through sports court,72,0,0
+3,1,2013. 1. 15,"Jan 15, 2013",2,12/13,0,Valencia CF,87,21,Real Madrid,Real Madrid,Valencia CF,Valencia,2:0,2,0,0,0,4,0,0,Indirect card suspension,0,0,0
+5,1,2013. 1. 20,"Jan 20, 2013",1,12/13,1,Valencia CF,87,7,Valencia CF,Valencia  (7.),Real Madrid,Real Madrid  (3.),0:5,5,0,0,2,0,0,0,Suspension through sports court,0,0,0
+3,1,2013. 1. 23,"Jan 23, 2013",2,12/13,1,Valencia CF,87,21,Valencia CF,Valencia,Real Madrid,Real Madrid,1:1,1,1,1,5,2,0,0,Suspension through sports court,0,0,0
+4,1,2013. 1. 27,"Jan 27, 2013",1,12/13,0,Getafe CF,37,11,Real Madrid,Real Madrid  (3.),Getafe CF,Getafe  (11.),4:0,4,0,0,1,5,1,0,CB,0,0,0
+3,1,2013. 1. 30,"Jan 30, 2013",2,12/13,0,FC Barcelona,30,21,Real Madrid,Real Madrid,FC Barcelona,FC Barcelona,1:1,1,1,1,4,1,0,1,Suspension through sports court,90,1,0
+3,2,2013. 2. 2,"Feb 2, 2013",1,12/13,1,Granada CF,41,17,Granada CF,Granada CF  (17.),Real Madrid,Real Madrid  (3.),1:0,0,1,2,1,4,1,0,CB,0,0,0
+7,2,2013. 2. 9,"Feb 9, 2013",1,12/13,0,Sevilla FC,73,11,Real Madrid,Real Madrid  (3.),Sevilla FC,Sevilla FC  (11.),4:1,4,1,0,0,1,1,1,CB,90,0,0
+4,2,2013. 2. 13,"Feb 13, 2013",0,12/13,0,Manchester United,51,0,Real Madrid,Real Madrid,Manchester United,Man Utd,1:1,1,1,1,4,0,1,1,CB,90,0,0
+4,2,2013. 2. 17,"Feb 17, 2013",1,12/13,0,Rayo Vallecano,59,6,Real Madrid,Real Madrid  (3.),Rayo Vallecano,Rayo Vallecano  (6.),2:0,2,0,0,1,4,1,1,RB,90,0,0
+6,2,2013. 2. 23,"Feb 23, 2013",1,12/13,1,Deportivo de La Coruña,26,20,Deportivo de La Coruña,Dep. La Coruña  (20.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,2,1,0,1,Indirect card suspension,17,1,0
+3,2,2013. 2. 26,"Feb 26, 2013",2,12/13,1,FC Barcelona,30,21,FC Barcelona,FC Barcelona,Real Madrid,Real Madrid,1:3,3,1,0,2,2,1,0,CB,0,0,0
+4,3,2013. 3. 2,"Mar 2, 2013",1,12/13,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (3.),FC Barcelona,FC Barcelona  (1.),2:1,2,1,0,3,2,1,1,CB,90,0,0
+3,3,2013. 3. 5,"Mar 5, 2013",0,12/13,1,Manchester United,51,0,Manchester United,Man Utd,Real Madrid,Real Madrid,1:2,2,1,0,2,3,1,1,CB,90,1,0
+5,3,2013. 3. 10,"Mar 10, 2013",1,12/13,1,Celta de Vigo,20,18,Celta de Vigo,Celta de Vigo  (18.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,2,2,1,1,not in squad,90,0,1
+6,3,2013. 3. 16,"Mar 16, 2013",1,12/13,0,RCD Mallorca,61,18,Real Madrid,Real Madrid  (2.),RCD Mallorca,RCD Mallorca  (18.),5:2,5,2,0,2,2,1,1,CB,0,0,0
+14,3,2013. 3. 30,"Mar 30, 2013",1,12/13,1,Real Zaragoza,67,17,Real Zaragoza,Real Zaragoza  (17.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,5,2,2,1,CB,90,0,0
+4,4,2013. 4. 3,"Apr 3, 2013",0,12/13,0,Galatasaray SK,36,0,Real Madrid,Real Madrid,Galatasaray SK,Galatasaray,3:0,3,0,0,1,5,1,2,CB,90,0,0
+3,4,2013. 4. 6,"Apr 6, 2013",1,12/13,0,Levante UD,46,10,Real Madrid,Real Madrid  (2.),Levante UD,Levante  (10.),5:1,5,1,0,3,1,0,1,CB,90,0,0
+3,4,2013. 4. 9,"Apr 9, 2013",0,12/13,1,Galatasaray SK,36,0,Galatasaray SK,Galatasaray,Real Madrid,Real Madrid,3:2,2,3,2,5,3,1,0,Yellow card suspension,90,0,0
+5,4,2013. 4. 14,"Apr 14, 2013",1,12/13,1,Athletic Bilbao,8,14,Athletic Bilbao,Athletic  (14.),Real Madrid,Real Madrid  (2.),0:3,3,0,0,2,5,3,1,RB,0,0,0
+6,4,2013. 4. 20,"Apr 20, 2013",1,12/13,0,Real Betis Balompié,62,7,Real Madrid,Real Madrid  (2.),Real Betis Balompié,Real Betis  (7.),3:1,3,1,0,3,2,0,3,not in squad,90,0,0
+4,4,2013. 4. 24,"Apr 24, 2013",0,12/13,1,Borussia Dortmund,12,0,Borussia Dortmund,Bor. Dortmund,Real Madrid,Real Madrid,4:1,1,4,2,3,3,1,0,RB,0,0,0
+3,4,2013. 4. 27,"Apr 27, 2013",1,12/13,1,Atlético Madrid,9,3,Atlético Madrid,Atlético Madrid  (3.),Real Madrid,Real Madrid  (2.),1:2,2,1,0,1,3,4,1,not in squad,90,0,0
+3,4,2013. 4. 30,"Apr 30, 2013",0,12/13,0,Borussia Dortmund,12,0,Real Madrid,Real Madrid,Borussia Dortmund,Bor. Dortmund,2:0,2,0,0,2,1,1,4,CB,0,0,0
+4,5,2013. 5. 4,"May 4, 2013",1,12/13,0,Real Valladolid CF,66,12,Real Madrid,Real Madrid  (2.),Real Valladolid CF,Real Valladolid  (12.),4:3,4,3,0,2,2,0,1,Hamstring Injury,90,1,0
+4,5,2013. 5. 8,"May 8, 2013",1,12/13,0,Málaga CF,48,6,Real Madrid,Real Madrid  (2.),Málaga CF,Málaga CF  (6.),6:2,6,2,0,4,2,3,0,Hamstring Injury,0,0,0
+3,5,2013. 5. 11,"May 11, 2013",1,12/13,1,RCD Espanyol Barcelona,60,11,RCD Espanyol Barcelona,Espanyol  (11.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,6,4,2,3,Hamstring Injury,0,0,0
+6,5,2013. 5. 17,"May 17, 2013",2,12/13,1,Atlético Madrid,9,21,Atlético Madrid,Atlético Madrid,Real Madrid,Real Madrid,2:1 AET,1,2,2,1,6,1,2,CB,0,0,0
+9,5,2013. 5. 26,"May 26, 2013",1,12/13,1,Real Sociedad,64,4,Real Sociedad,Real Sociedad  (4.),Real Madrid,Real Madrid  (2.),3:3,3,3,1,1,1,2,1,Hamstring Injury,120,0,0
+6,6,2013. 6. 1,"Jun 1, 2013",1,12/13,0,CA Osasuna,14,15,Real Madrid,Real Madrid  (2.),CA Osasuna,CA Osasuna  (15.),4:2,4,2,0,3,1,3,2,Hamstring Injury,0,0,0
+78,8,2013. 8. 18,"Aug 18, 2013",1,13/14,0,Real Betis Balompié,62,20,Real Madrid,Real Madrid  (3.),Real Betis Balompié,Real Betis  (20.),2:1,2,1,0,4,3,2,3,CB,0,0,0
+8,8,2013. 8. 26,"Aug 26, 2013",1,13/14,1,Granada CF,41,8,Granada CF,Granada CF  (8.),Real Madrid,Real Madrid  (6.),0:1,1,0,0,2,4,1,2,CB,90,0,0
+6,9,2013. 9. 1,"Sep 1, 2013",1,13/14,0,Athletic Bilbao,8,3,Real Madrid,Real Madrid  (5.),Athletic Bilbao,Athletic  (3.),3:1,3,1,0,1,2,0,1,CB,90,0,0
+13,9,2013. 9. 14,"Sep 14, 2013",1,13/14,1,Villarreal CF,89,3,Villarreal CF,Villarreal  (3.),Real Madrid,Real Madrid  (4.),2:2,2,2,1,3,1,1,0,CB,90,0,0
+3,9,2013. 9. 17,"Sep 17, 2013",0,13/14,1,Galatasaray SK,36,0,Galatasaray SK,Galatasaray,Real Madrid,Real Madrid,1:6,6,1,0,2,3,2,1,CB,90,0,0
+5,9,2013. 9. 22,"Sep 22, 2013",1,13/14,0,Getafe CF,37,14,Real Madrid,Real Madrid  (4.),Getafe CF,Getafe  (14.),4:1,4,1,0,6,2,1,2,on the bench,90,0,1
+3,9,2013. 9. 25,"Sep 25, 2013",1,13/14,1,Elche CF,29,17,Elche CF,Elche CF  (17.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,4,6,1,1,CB,0,0,0
+3,9,2013. 9. 28,"Sep 28, 2013",1,13/14,0,Atlético Madrid,9,2,Real Madrid,Real Madrid  (3.),Atlético Madrid,Atlético Madrid  (2.),0:1,0,1,2,2,4,1,1,CB,90,0,0
+4,10,2013. 10. 2,"Oct 2, 2013",0,13/14,0,FC Copenhagen,32,0,Real Madrid,Real Madrid,FC Copenhagen,FC Copenhagen,4:0,4,0,0,0,2,1,1,on the bench,90,0,0
+3,10,2013. 10. 5,"Oct 5, 2013",1,13/14,1,Levante UD,46,9,Levante UD,Levante  (9.),Real Madrid,Real Madrid  (3.),2:3,3,2,0,4,0,0,1,CB,0,0,0
+14,10,2013. 10. 19,"Oct 19, 2013",1,13/14,0,Málaga CF,48,10,Real Madrid,Real Madrid  (3.),Málaga CF,Málaga CF  (10.),2:0,2,0,0,3,4,2,0,CB,90,1,0
+4,10,2013. 10. 23,"Oct 23, 2013",0,13/14,0,Juventus FC,44,0,Real Madrid,Real Madrid,Juventus FC,Juventus,2:1,2,1,0,2,3,0,2,CB,90,0,0
+3,10,2013. 10. 26,"Oct 26, 2013",1,13/14,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (3.),2:1,1,2,2,2,2,1,0,DM,90,0,1
+4,10,2013. 10. 30,"Oct 30, 2013",1,13/14,0,Sevilla FC,73,10,Real Madrid,Real Madrid  (3.),Sevilla FC,Sevilla FC  (10.),7:3,7,3,0,1,2,2,1,CB,56,0,0
+3,11,2013. 11. 2,"Nov 2, 2013",1,13/14,1,Rayo Vallecano,59,19,Rayo Vallecano,Rayo Vallecano  (19.),Real Madrid,Real Madrid  (3.),2:3,3,2,0,7,1,3,2,CB,90,0,0
+3,11,2013. 11. 5,"Nov 5, 2013",0,13/14,1,Juventus FC,44,0,Juventus FC,Juventus,Real Madrid,Real Madrid,2:2,2,2,1,3,7,2,3,RB,90,0,0
+4,11,2013. 11. 9,"Nov 9, 2013",1,13/14,0,Real Sociedad,64,7,Real Madrid,Real Madrid  (3.),Real Sociedad,Real Sociedad  (7.),5:1,5,1,0,2,3,2,2,Yellow card suspension,90,0,0
+14,11,2013. 11. 23,"Nov 23, 2013",1,13/14,1,UD Almería,82,17,UD Almería,UD Almería  (17.),Real Madrid,Real Madrid  (3.),0:5,5,0,0,5,2,1,2,CB,0,0,0
+4,11,2013. 11. 27,"Nov 27, 2013",0,13/14,0,Galatasaray SK,36,0,Real Madrid,Real Madrid,Galatasaray SK,Galatasaray,4:1,4,1,0,5,5,0,1,CB,90,0,0
+3,11,2013. 11. 30,"Nov 30, 2013",1,13/14,0,Real Valladolid CF,66,17,Real Madrid,Real Madrid  (3.),Real Valladolid CF,Real Valladolid  (17.),4:0,4,0,0,4,5,1,0,CB,26,0,0
+7,12,2013. 12. 7,"Dec 7, 2013",2,13/14,1,Olímpic Xàtiva,52,21,Olímpic Xàtiva,Olímpic Xàtiva,Real Madrid,Real Madrid,0:0,0,0,1,4,4,0,1,CB,90,0,0
+3,12,2013. 12. 10,"Dec 10, 2013",0,13/14,1,FC Copenhagen,32,0,FC Copenhagen,FC Copenhagen,Real Madrid,Real Madrid,0:2,2,0,0,0,4,0,0,Red card suspension,90,0,0
+4,12,2013. 12. 14,"Dec 14, 2013",1,13/14,1,CA Osasuna,14,16,CA Osasuna,CA Osasuna  (16.),Real Madrid,Real Madrid  (3.),2:2,2,2,1,2,0,0,0,CB,0,0,0
+4,12,2013. 12. 18,"Dec 18, 2013",2,13/14,0,Olímpic Xàtiva,52,21,Real Madrid,Real Madrid,Olímpic Xàtiva,Olímpic Xàtiva,2:0,2,0,0,2,2,2,0,Indirect card suspension,44,0,0
+4,12,2013. 12. 22,"Dec 22, 2013",1,13/14,1,Valencia CF,87,9,Valencia CF,Valencia  (9.),Real Madrid,Real Madrid  (3.),2:3,3,2,0,2,2,0,2,CB,0,0,0
+15,1,2014. 1. 6,"Jan 6, 2014",1,13/14,0,Celta de Vigo,20,15,Real Madrid,Real Madrid  (3.),Celta de Vigo,Celta de Vigo  (15.),3:0,3,0,0,3,2,2,0,CB,90,0,0
+3,1,2014. 1. 9,"Jan 9, 2014",2,13/14,0,CA Osasuna,14,21,Real Madrid,Real Madrid,CA Osasuna,CA Osasuna,2:0,2,0,0,3,3,0,2,CB,90,0,0
+3,1,2014. 1. 12,"Jan 12, 2014",1,13/14,1,RCD Espanyol Barcelona,60,10,RCD Espanyol Barcelona,Espanyol  (10.),Real Madrid,Real Madrid  (3.),0:1,1,0,0,2,3,0,0,CB,90,0,0
+3,1,2014. 1. 15,"Jan 15, 2014",2,13/14,1,CA Osasuna,14,21,CA Osasuna,CA Osasuna,Real Madrid,Real Madrid,0:2,2,0,0,1,2,0,0,CB,90,0,0
+3,1,2014. 1. 18,"Jan 18, 2014",1,13/14,1,Real Betis Balompié,62,20,Real Betis Balompié,Real Betis  (20.),Real Madrid,Real Madrid  (3.),0:5,5,0,0,2,1,0,0,CB,90,0,0
+3,1,2014. 1. 21,"Jan 21, 2014",2,13/14,1,RCD Espanyol Barcelona,60,21,RCD Espanyol Barcelona,Espanyol,Real Madrid,Real Madrid,0:1,1,0,0,5,2,0,0,CB,73,0,0
+4,1,2014. 1. 25,"Jan 25, 2014",1,13/14,0,Granada CF,41,10,Real Madrid,Real Madrid  (3.),Granada CF,Granada CF  (10.),2:0,2,0,0,1,5,0,0,CB,90,0,0
+3,1,2014. 1. 28,"Jan 28, 2014",2,13/14,0,RCD Espanyol Barcelona,60,21,Real Madrid,Real Madrid,RCD Espanyol Barcelona,Espanyol,1:0,1,0,0,2,1,0,0,CB,90,0,0
+5,2,2014. 2. 2,"Feb 2, 2014",1,13/14,1,Athletic Bilbao,8,4,Athletic Bilbao,Athletic  (4.),Real Madrid,Real Madrid  (3.),1:1,1,1,1,1,2,0,0,CB,90,0,0
+3,2,2014. 2. 5,"Feb 5, 2014",2,13/14,0,Atlético Madrid,9,21,Real Madrid,Real Madrid,Atlético Madrid,Atlético Madrid,3:0,3,0,0,1,1,1,0,CB,90,0,0
+3,2,2014. 2. 8,"Feb 8, 2014",1,13/14,0,Villarreal CF,89,5,Real Madrid,Real Madrid  (3.),Villarreal CF,Villarreal  (5.),4:2,4,2,0,3,1,0,1,CB,90,0,0
+3,2,2014. 2. 11,"Feb 11, 2014",2,13/14,1,Atlético Madrid,9,21,Atlético Madrid,Atlético Madrid,Real Madrid,Real Madrid,0:2,2,0,0,4,3,2,0,CB,90,0,0
+5,2,2014. 2. 16,"Feb 16, 2014",1,13/14,1,Getafe CF,37,13,Getafe CF,Getafe  (13.),Real Madrid,Real Madrid  (2.),0:3,3,0,0,2,4,0,2,CB,45,0,0
+6,2,2014. 2. 22,"Feb 22, 2014",1,13/14,0,Elche CF,29,13,Real Madrid,Real Madrid  (2.),Elche CF,Elche CF  (13.),3:0,3,0,0,3,2,0,0,on the bench,90,0,0
+4,2,2014. 2. 26,"Feb 26, 2014",0,13/14,1,FC Schalke 04,33,0,FC Schalke 04,FC Schalke 04,Real Madrid,Real Madrid,1:6,6,1,0,3,3,0,0,CB,0,0,0
+4,3,2014. 3. 2,"Mar 2, 2014",1,13/14,1,Atlético Madrid,9,3,Atlético Madrid,Atlético Madrid  (3.),Real Madrid,Real Madrid  (1.),2:2,2,2,1,6,3,1,0,CB,90,0,1
+7,3,2014. 3. 9,"Mar 9, 2014",1,13/14,0,Levante UD,46,8,Real Madrid,Real Madrid  (1.),Levante UD,Levante  (8.),3:0,3,0,0,2,6,2,1,CB,90,0,0
+6,3,2014. 3. 15,"Mar 15, 2014",1,13/14,1,Málaga CF,48,13,Málaga CF,Málaga CF  (13.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,3,2,0,2,Yellow card suspension,90,0,0
+3,3,2014. 3. 18,"Mar 18, 2014",0,13/14,0,FC Schalke 04,33,0,Real Madrid,Real Madrid,FC Schalke 04,FC Schalke 04,3:1,3,1,0,1,3,0,0,CB,0,0,0
+5,3,2014. 3. 23,"Mar 23, 2014",1,13/14,0,FC Barcelona,30,3,Real Madrid,Real Madrid  (1.),FC Barcelona,FC Barcelona  (3.),3:4,3,4,2,3,1,1,0,CB,69,0,0
+3,3,2014. 3. 26,"Mar 26, 2014",1,13/14,1,Sevilla FC,73,5,Sevilla FC,Sevilla FC  (5.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,3,3,4,1,Red card suspension,64,0,0
+3,3,2014. 3. 29,"Mar 29, 2014",1,13/14,0,Rayo Vallecano,59,13,Real Madrid,Real Madrid  (3.),Rayo Vallecano,Rayo Vallecano  (13.),5:0,5,0,0,1,3,2,4,CB,0,0,0
+4,4,2014. 4. 2,"Apr 2, 2014",0,13/14,0,Borussia Dortmund,12,0,Real Madrid,Real Madrid,Borussia Dortmund,Bor. Dortmund,3:0,3,0,0,5,1,0,2,CB,90,0,0
+3,4,2014. 4. 5,"Apr 5, 2014",1,13/14,1,Real Sociedad,64,5,Real Sociedad,Real Sociedad  (5.),Real Madrid,Real Madrid  (3.),0:4,4,0,0,3,5,0,0,CB,90,0,0
+3,4,2014. 4. 8,"Apr 8, 2014",0,13/14,1,Borussia Dortmund,12,0,Borussia Dortmund,Bor. Dortmund,Real Madrid,Real Madrid,2:0,0,2,2,4,3,0,0,CB,90,0,1
+4,4,2014. 4. 12,"Apr 12, 2014",1,13/14,0,UD Almería,82,19,Real Madrid,Real Madrid  (3.),UD Almería,UD Almería  (19.),4:0,4,0,0,0,4,2,0,not in squad,90,0,0
+4,4,2014. 4. 16,"Apr 16, 2014",2,13/14,1,FC Barcelona,30,21,FC Barcelona,FC Barcelona,Real Madrid,Real Madrid,1:2,2,1,0,4,0,0,2,CB,0,0,0
+7,4,2014. 4. 23,"Apr 23, 2014",0,13/14,0,Bayern Munich,11,0,Real Madrid,Real Madrid,Bayern Munich,Bayern Munich,1:0,1,0,0,2,4,1,0,CB,90,0,0
+3,4,2014. 4. 26,"Apr 26, 2014",1,13/14,0,CA Osasuna,14,16,Real Madrid,Real Madrid  (3.),CA Osasuna,CA Osasuna  (16.),4:0,4,0,0,1,2,0,1,CB,90,0,0
+3,4,2014. 4. 29,"Apr 29, 2014",0,13/14,1,Bayern Munich,11,0,Bayern Munich,Bayern Munich,Real Madrid,Real Madrid,0:4,4,0,0,4,1,0,0,CB,90,1,0
+5,5,2014. 5. 4,"May 4, 2014",1,13/14,0,Valencia CF,87,8,Real Madrid,Real Madrid  (3.),Valencia CF,Valencia  (8.),2:2,2,2,1,4,4,0,0,CB,75,2,0
+3,5,2014. 5. 7,"May 7, 2014",1,13/14,1,Real Valladolid CF,66,17,Real Valladolid CF,Real Valladolid  (17.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,2,4,2,0,CB,90,1,0
+4,5,2014. 5. 11,"May 11, 2014",1,13/14,1,Celta de Vigo,20,9,Celta de Vigo,Celta de Vigo  (9.),Real Madrid,Real Madrid  (3.),2:0,0,2,2,1,2,1,2,CB,90,1,0
+6,5,2014. 5. 17,"May 17, 2014",1,13/14,0,RCD Espanyol Barcelona,60,12,Real Madrid,Real Madrid  (3.),RCD Espanyol Barcelona,Espanyol  (12.),3:1,3,1,0,0,1,2,1,CB,90,0,0
+7,5,2014. 5. 24,"May 24, 2014",0,13/14,0,Atlético Madrid,9,0,Real Madrid,Real Madrid,Atlético Madrid,Atlético Madrid,4:1 AET,4,1,0,3,0,1,2,CB,90,0,0
+93,8,2014. 8. 25,"Aug 25, 2014",1,14/15,0,Córdoba CF,23,20,Real Madrid,Real Madrid  (2.),Córdoba CF,Córdoba CF  (20.),2:0,2,0,0,4,3,1,1,CB,120,1,0
+6,8,2014. 8. 31,"Aug 31, 2014",1,14/15,1,Real Sociedad,64,16,Real Sociedad,Real Sociedad  (16.),Real Madrid,Real Madrid  (3.),4:2,2,4,2,2,4,0,1,CB,90,0,0
+13,9,2014. 9. 13,"Sep 13, 2014",1,14/15,0,Atlético Madrid,9,6,Real Madrid,Real Madrid  (10.),Atlético Madrid,Atlético Madrid  (6.),1:2,1,2,2,2,2,4,0,CB,90,1,0
+3,9,2014. 9. 16,"Sep 16, 2014",0,14/15,0,FC Basel 1893,31,0,Real Madrid,Real Madrid,FC Basel 1893,FC Basel,5:1,5,1,0,1,2,2,4,CB,90,0,0
+4,9,2014. 9. 20,"Sep 20, 2014",1,14/15,1,Deportivo de La Coruña,26,9,Deportivo de La Coruña,Dep. La Coruña  (9.),Real Madrid,Real Madrid  (13.),2:8,8,2,0,5,1,1,2,CB,66,0,0
+3,9,2014. 9. 23,"Sep 23, 2014",1,14/15,0,Elche CF,29,13,Real Madrid,Real Madrid  (7.),Elche CF,Elche CF  (13.),5:1,5,1,0,8,5,2,1,CB,90,0,0
+4,9,2014. 9. 27,"Sep 27, 2014",1,14/15,1,Villarreal CF,89,7,Villarreal CF,Villarreal  (7.),Real Madrid,Real Madrid  (5.),0:2,2,0,0,5,8,1,2,CB,82,0,0
+4,10,2014. 10. 1,"Oct 1, 2014",0,14/15,1,PFK Ludogorets Razgrad,57,0,PFK Ludogorets Razgrad,Ludogorets,Real Madrid,Real Madrid,1:2,2,1,0,2,5,0,1,CB,90,0,0
+4,10,2014. 10. 5,"Oct 5, 2014",1,14/15,0,Athletic Bilbao,8,16,Real Madrid,Real Madrid  (5.),Athletic Bilbao,Athletic  (16.),5:0,5,0,0,2,2,1,0,CB,90,0,0
+13,10,2014. 10. 18,"Oct 18, 2014",1,14/15,1,Levante UD,46,17,Levante UD,Levante  (17.),Real Madrid,Real Madrid  (4.),0:5,5,0,0,5,2,0,1,Thigh Problems,45,0,0
+4,10,2014. 10. 22,"Oct 22, 2014",0,14/15,1,Liverpool FC,47,0,Liverpool FC,Liverpool,Real Madrid,Real Madrid,0:3,3,0,0,5,5,0,0,Thigh Problems,0,0,0
+3,10,2014. 10. 25,"Oct 25, 2014",1,14/15,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (3.),FC Barcelona,FC Barcelona  (1.),3:1,3,1,0,3,5,0,0,CB,0,0,0
+4,10,2014. 10. 29,"Oct 29, 2014",2,14/15,1,UE Cornellà,85,21,UE Cornellà,UE Cornellà,Real Madrid,Real Madrid,1:4,4,1,0,3,3,1,0,not in squad,90,0,0
+3,11,2014. 11. 1,"Nov 1, 2014",1,14/15,1,Granada CF,41,14,Granada CF,Granada CF  (14.),Real Madrid,Real Madrid  (3.),0:4,4,0,0,4,3,1,1,CB,0,0,0
+3,11,2014. 11. 4,"Nov 4, 2014",0,14/15,0,Liverpool FC,47,0,Real Madrid,Real Madrid,Liverpool FC,Liverpool,1:0,1,0,0,4,4,0,1,CB,90,0,0
+4,11,2014. 11. 8,"Nov 8, 2014",1,14/15,0,Rayo Vallecano,59,12,Real Madrid,Real Madrid  (1.),Rayo Vallecano,Rayo Vallecano  (12.),5:1,5,1,0,1,4,0,0,CB,90,0,0
+14,11,2014. 11. 22,"Nov 22, 2014",1,14/15,1,SD Eibar,70,10,SD Eibar,SD Eibar  (10.),Real Madrid,Real Madrid  (1.),0:4,4,0,0,5,1,1,0,CB,90,1,0
+4,11,2014. 11. 26,"Nov 26, 2014",0,14/15,1,FC Basel 1893,31,0,FC Basel 1893,FC Basel,Real Madrid,Real Madrid,0:1,1,0,0,4,5,0,1,CB,73,0,0
+3,11,2014. 11. 29,"Nov 29, 2014",1,14/15,1,Málaga CF,48,6,Málaga CF,Málaga CF  (6.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,1,4,0,0,CB,90,0,0
+3,12,2014. 12. 2,"Dec 2, 2014",2,14/15,0,UE Cornellà,85,21,Real Madrid,Real Madrid,UE Cornellà,UE Cornellà,5:0,5,0,0,2,1,1,0,not in squad,90,0,0
+4,12,2014. 12. 6,"Dec 6, 2014",1,14/15,0,Celta de Vigo,20,8,Real Madrid,Real Madrid  (1.),Celta de Vigo,Celta de Vigo  (8.),3:0,3,0,0,5,2,0,1,CB,0,0,0
+3,12,2014. 12. 9,"Dec 9, 2014",0,14/15,0,PFK Ludogorets Razgrad,57,0,Real Madrid,Real Madrid,PFK Ludogorets Razgrad,Ludogorets,4:0,4,0,0,3,5,0,0,Yellow card suspension,90,0,0
+3,12,2014. 12. 12,"Dec 12, 2014",1,14/15,1,UD Almería,82,17,UD Almería,UD Almería  (17.),Real Madrid,Real Madrid  (1.),1:4,4,1,0,4,3,0,0,Yellow card suspension,0,0,0
+23,1,2015. 1. 4,"Jan 4, 2015",1,14/15,1,Valencia CF,87,4,Valencia CF,Valencia  (4.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,4,4,1,0,CB,0,0,0
+3,1,2015. 1. 7,"Jan 7, 2015",2,14/15,1,Atlético Madrid,9,21,Atlético Madrid,Atlético Madrid,Real Madrid,Real Madrid,2:0,0,2,2,1,4,2,1,CB,90,0,0
+3,1,2015. 1. 10,"Jan 10, 2015",1,14/15,0,RCD Espanyol Barcelona,60,10,Real Madrid,Real Madrid  (1.),RCD Espanyol Barcelona,Espanyol  (10.),3:0,3,0,0,0,1,2,2,not in squad,90,0,0
+5,1,2015. 1. 15,"Jan 15, 2015",2,14/15,0,Atlético Madrid,9,21,Real Madrid,Real Madrid,Atlético Madrid,Atlético Madrid,2:2,2,2,1,3,0,0,2,CB,0,0,0
+3,1,2015. 1. 18,"Jan 18, 2015",1,14/15,1,Getafe CF,37,14,Getafe CF,Getafe  (14.),Real Madrid,Real Madrid  (1.),0:3,3,0,0,2,3,2,0,CB,90,1,0
+6,1,2015. 1. 24,"Jan 24, 2015",1,14/15,1,Córdoba CF,23,14,Córdoba CF,Córdoba CF  (14.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,3,2,0,2,CB,90,0,0
+7,1,2015. 1. 31,"Jan 31, 2015",1,14/15,0,Real Sociedad,64,11,Real Madrid,Real Madrid  (1.),Real Sociedad,Real Sociedad  (11.),4:1,4,1,0,2,3,1,0,CB,90,0,0
+4,2,2015. 2. 4,"Feb 4, 2015",1,14/15,0,Sevilla FC,73,4,Real Madrid,Real Madrid  (1.),Sevilla FC,Sevilla FC  (4.),2:1,2,1,0,4,2,1,1,CB,90,1,0
+3,2,2015. 2. 7,"Feb 7, 2015",1,14/15,1,Atlético Madrid,9,3,Atlético Madrid,Atlético Madrid  (3.),Real Madrid,Real Madrid  (1.),4:0,0,4,2,2,4,1,1,Torn muscle bundle,9,0,0
+7,2,2015. 2. 14,"Feb 14, 2015",1,14/15,0,Deportivo de La Coruña,26,11,Real Madrid,Real Madrid  (1.),Deportivo de La Coruña,Dep. La Coruña  (11.),2:0,2,0,0,0,2,4,1,Torn muscle bundle,0,0,0
+4,2,2015. 2. 18,"Feb 18, 2015",0,14/15,1,FC Schalke 04,33,0,FC Schalke 04,FC Schalke 04,Real Madrid,Real Madrid,0:2,2,0,0,2,0,0,4,Torn muscle bundle,0,0,0
+4,2,2015. 2. 22,"Feb 22, 2015",1,14/15,1,Elche CF,29,17,Elche CF,Elche CF  (17.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,2,2,0,0,Torn muscle bundle,0,0,0
+7,3,2015. 3. 1,"Mar 1, 2015",1,14/15,0,Villarreal CF,89,6,Real Madrid,Real Madrid  (1.),Villarreal CF,Villarreal  (6.),1:1,1,1,1,2,2,0,0,Torn muscle bundle,0,0,0
+6,3,2015. 3. 7,"Mar 7, 2015",1,14/15,1,Athletic Bilbao,8,10,Athletic Bilbao,Athletic  (10.),Real Madrid,Real Madrid  (1.),1:0,0,1,2,1,2,1,0,Torn muscle bundle,0,0,0
+3,3,2015. 3. 10,"Mar 10, 2015",0,14/15,0,FC Schalke 04,33,0,Real Madrid,Real Madrid,FC Schalke 04,FC Schalke 04,3:4,3,4,2,0,1,1,1,Torn muscle bundle,0,0,0
+5,3,2015. 3. 15,"Mar 15, 2015",1,14/15,0,Levante UD,46,17,Real Madrid,Real Madrid  (2.),Levante UD,Levante  (17.),2:0,2,0,0,3,0,4,1,CB,0,0,0
+7,3,2015. 3. 22,"Mar 22, 2015",1,14/15,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (2.),2:1,1,2,2,2,3,0,4,CB,90,0,0
+14,4,2015. 4. 5,"Apr 5, 2015",1,14/15,0,Granada CF,41,19,Real Madrid,Real Madrid  (2.),Granada CF,Granada CF  (19.),9:1,9,1,0,1,2,2,0,CB,90,0,0
+3,4,2015. 4. 8,"Apr 8, 2015",1,14/15,1,Rayo Vallecano,59,9,Rayo Vallecano,Rayo Vallecano  (9.),Real Madrid,Real Madrid  (2.),0:2,2,0,0,9,1,1,2,CB,90,0,0
+3,4,2015. 4. 11,"Apr 11, 2015",1,14/15,0,SD Eibar,70,14,Real Madrid,Real Madrid  (2.),SD Eibar,SD Eibar  (14.),3:0,3,0,0,2,9,0,1,CB,90,0,0
+3,4,2015. 4. 14,"Apr 14, 2015",0,14/15,1,Atlético Madrid,9,0,Atlético Madrid,Atlético Madrid,Real Madrid,Real Madrid,0:0,0,0,1,3,2,0,0,CB,64,0,0
+4,4,2015. 4. 18,"Apr 18, 2015",1,14/15,0,Málaga CF,48,7,Real Madrid,Real Madrid  (2.),Málaga CF,Málaga CF  (7.),3:1,3,1,0,0,3,0,0,CB,90,0,0
+4,4,2015. 4. 22,"Apr 22, 2015",0,14/15,0,Atlético Madrid,9,0,Real Madrid,Real Madrid,Atlético Madrid,Atlético Madrid,1:0,1,0,0,3,0,1,0,DM,90,1,0
+4,4,2015. 4. 26,"Apr 26, 2015",1,14/15,1,Celta de Vigo,20,9,Celta de Vigo,Celta de Vigo  (9.),Real Madrid,Real Madrid  (2.),2:4,4,2,0,1,3,0,1,CB,90,0,0
+3,4,2015. 4. 29,"Apr 29, 2015",1,14/15,0,UD Almería,82,17,Real Madrid,Real Madrid  (2.),UD Almería,UD Almería  (17.),3:0,3,0,0,4,1,2,0,Yellow card suspension,90,0,1
+3,5,2015. 5. 2,"May 2, 2015",1,14/15,1,Sevilla FC,73,5,Sevilla FC,Sevilla FC  (5.),Real Madrid,Real Madrid  (2.),2:3,3,2,0,3,4,0,2,DM,0,0,0
+3,5,2015. 5. 5,"May 5, 2015",0,14/15,1,Juventus FC,44,0,Juventus FC,Juventus,Real Madrid,Real Madrid,2:1,1,2,2,3,3,2,0,CM,90,0,0
+4,5,2015. 5. 9,"May 9, 2015",1,14/15,0,Valencia CF,87,4,Real Madrid,Real Madrid  (2.),Valencia CF,Valencia  (4.),2:2,2,2,1,1,3,2,2,CB,90,0,0
+4,5,2015. 5. 13,"May 13, 2015",0,14/15,0,Juventus FC,44,0,Real Madrid,Real Madrid,Juventus FC,Juventus,1:1,1,1,1,2,1,2,2,CB,90,0,0
+4,5,2015. 5. 17,"May 17, 2015",1,14/15,1,RCD Espanyol Barcelona,60,8,RCD Espanyol Barcelona,Espanyol  (8.),Real Madrid,Real Madrid  (2.),1:4,4,1,0,1,2,1,2,not in squad,90,0,0
+6,5,2015. 5. 23,"May 23, 2015",1,14/15,0,Getafe CF,37,14,Real Madrid,Real Madrid  (2.),Getafe CF,Getafe  (14.),7:3,7,3,0,4,1,1,1,not in squad,0,0,0
+92,8,2015. 8. 23,"Aug 23, 2015",1,15/16,1,Sporting Gijón,76,16,Sporting Gijón,Sporting Gijón  (16.),Real Madrid,Real Madrid  (2.),0:0,0,0,1,7,4,3,1,CB,0,0,0
+6,8,2015. 8. 29,"Aug 29, 2015",1,15/16,0,Real Betis Balompié,62,6,Real Madrid,Real Madrid  (10.),Real Betis Balompié,Real Betis  (6.),5:0,5,0,0,0,7,0,3,CB,90,0,0
+14,9,2015. 9. 12,"Sep 12, 2015",1,15/16,1,RCD Espanyol Barcelona,60,8,RCD Espanyol Barcelona,Espanyol  (8.),Real Madrid,Real Madrid  (5.),0:6,6,0,0,5,0,0,0,CB,90,0,0
+3,9,2015. 9. 15,"Sep 15, 2015",0,15/16,0,Shakhtar Donetsk,74,0,Real Madrid,Real Madrid,Shakhtar Donetsk,Shakhtar D.,4:0,4,0,0,6,5,0,0,CB,74,0,0
+4,9,2015. 9. 19,"Sep 19, 2015",1,15/16,0,Granada CF,41,11,Real Madrid,Real Madrid  (2.),Granada CF,Granada CF  (11.),1:0,1,0,0,4,6,0,0,Shoulder Injury,59,0,0
+4,9,2015. 9. 23,"Sep 23, 2015",1,15/16,1,Athletic Bilbao,8,13,Athletic Bilbao,Athletic  (13.),Real Madrid,Real Madrid  (2.),1:2,2,1,0,1,4,0,0,Shoulder Injury,0,0,0
+3,9,2015. 9. 26,"Sep 26, 2015",1,15/16,0,Málaga CF,48,19,Real Madrid,Real Madrid  (1.),Málaga CF,Málaga CF  (19.),0:0,0,0,1,2,1,1,0,Shoulder Injury,0,0,0
+4,9,2015. 9. 30,"Sep 30, 2015",0,15/16,1,Malmö FF,49,0,Malmö FF,Malmö FF,Real Madrid,Real Madrid,0:2,2,0,0,0,2,0,1,Shoulder Injury,0,0,0
+4,10,2015. 10. 4,"Oct 4, 2015",1,15/16,1,Atlético Madrid,9,5,Atlético Madrid,Atlético Madrid  (5.),Real Madrid,Real Madrid  (3.),1:1,1,1,1,2,0,0,0,CB,0,0,0
+13,10,2015. 10. 17,"Oct 17, 2015",1,15/16,0,Levante UD,46,18,Real Madrid,Real Madrid  (2.),Levante UD,Levante  (18.),3:0,3,0,0,1,2,1,0,Shoulder Injury,90,0,0
+4,10,2015. 10. 21,"Oct 21, 2015",0,15/16,1,Paris Saint-Germain,56,0,Paris Saint-Germain,Paris SG,Real Madrid,Real Madrid,0:0,0,0,1,3,1,0,1,CB,0,0,0
+3,10,2015. 10. 24,"Oct 24, 2015",1,15/16,1,Celta de Vigo,20,2,Celta de Vigo,Celta de Vigo  (2.),Real Madrid,Real Madrid  (1.),1:3,3,1,0,0,3,0,0,CB,90,0,0
+7,10,2015. 10. 31,"Oct 31, 2015",1,15/16,0,UD Las Palmas,83,18,Real Madrid,Real Madrid  (1.),UD Las Palmas,UD Las Palmas  (18.),3:1,3,1,0,3,0,1,0,not in squad,90,0,0
+3,11,2015. 11. 3,"Nov 3, 2015",0,15/16,0,Paris Saint-Germain,56,0,Real Madrid,Real Madrid,Paris Saint-Germain,Paris SG,1:0,1,0,0,3,3,1,1,CB,0,0,0
+5,11,2015. 11. 8,"Nov 8, 2015",1,15/16,1,Sevilla FC,73,11,Sevilla FC,Sevilla FC  (11.),Real Madrid,Real Madrid  (1.),3:2,2,3,2,1,3,0,1,CB,90,0,0
+13,11,2015. 11. 21,"Nov 21, 2015",1,15/16,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (2.),FC Barcelona,FC Barcelona  (1.),0:4,0,4,2,2,1,3,0,CB,31,1,0
+4,11,2015. 11. 25,"Nov 25, 2015",0,15/16,1,Shakhtar Donetsk,74,0,Shakhtar Donetsk,Shakhtar D.,Real Madrid,Real Madrid,3:4,4,3,0,0,2,4,3,Knock,90,0,0
+4,11,2015. 11. 29,"Nov 29, 2015",1,15/16,1,SD Eibar,70,6,SD Eibar,SD Eibar  (6.),Real Madrid,Real Madrid  (3.),0:2,2,0,0,4,0,3,4,Knock,0,0,0
+3,12,2015. 12. 2,"Dec 2, 2015",2,15/16,1,Cádiz CF,15,21,Cádiz CF,Cádiz CF,Real Madrid,Real Madrid,1:3,3,1,0,2,4,0,3,Knock,0,0,0
+3,12,2015. 12. 5,"Dec 5, 2015",1,15/16,0,Getafe CF,37,13,Real Madrid,Real Madrid  (3.),Getafe CF,Getafe  (13.),4:1,4,1,0,3,2,1,0,Knock,0,0,0
+3,12,2015. 12. 8,"Dec 8, 2015",0,15/16,0,Malmö FF,49,0,Real Madrid,Real Madrid,Malmö FF,Malmö FF,8:0,8,0,0,4,3,1,1,Knock,0,0,0
+5,12,2015. 12. 13,"Dec 13, 2015",1,15/16,1,Villarreal CF,89,5,Villarreal CF,Villarreal  (5.),Real Madrid,Real Madrid  (3.),1:0,0,1,2,8,4,0,1,CB,0,0,0
+7,12,2015. 12. 20,"Dec 20, 2015",1,15/16,0,Rayo Vallecano,59,18,Real Madrid,Real Madrid  (3.),Rayo Vallecano,Rayo Vallecano  (18.),10:2,1,2,2,0,8,1,0,CB,90,0,0
+10,12,2015. 12. 30,"Dec 30, 2015",1,15/16,0,Real Sociedad,64,14,Real Madrid,Real Madrid  (3.),Real Sociedad,Real Sociedad  (14.),3:1,3,1,0,1,0,2,1,Foot Injury,90,0,1
+4,1,2016. 1. 3,"Jan 3, 2016",1,15/16,1,Valencia CF,87,10,Valencia CF,Valencia  (10.),Real Madrid,Real Madrid  (3.),2:2,2,2,1,3,1,1,2,CB,0,0,0
+6,1,2016. 1. 9,"Jan 9, 2016",1,15/16,0,Deportivo de La Coruña,26,7,Real Madrid,Real Madrid  (3.),Deportivo de La Coruña,Dep. La Coruña  (7.),5:0,5,0,0,2,3,2,1,CB,90,0,0
+8,1,2016. 1. 17,"Jan 17, 2016",1,15/16,0,Sporting Gijón,76,18,Real Madrid,Real Madrid  (3.),Sporting Gijón,Sporting Gijón  (18.),5:1,5,1,0,5,2,0,2,not in squad,45,0,1
+7,1,2016. 1. 24,"Jan 24, 2016",1,15/16,1,Real Betis Balompié,62,15,Real Betis Balompié,Real Betis  (15.),Real Madrid,Real Madrid  (3.),1:1,1,1,1,5,5,1,0,not in squad,0,0,0
+7,1,2016. 1. 31,"Jan 31, 2016",1,15/16,0,RCD Espanyol Barcelona,60,13,Real Madrid,Real Madrid  (3.),RCD Espanyol Barcelona,Espanyol  (13.),6:0,6,0,0,1,5,1,1,CB,0,0,0
+7,2,2016. 2. 7,"Feb 7, 2016",1,15/16,1,Granada CF,41,19,Granada CF,Granada CF  (19.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,6,1,0,1,CB,90,0,0
+6,2,2016. 2. 13,"Feb 13, 2016",1,15/16,0,Athletic Bilbao,8,6,Real Madrid,Real Madrid  (3.),Athletic Bilbao,Athletic  (6.),4:2,4,2,0,2,6,1,0,CB,90,0,0
+4,2,2016. 2. 17,"Feb 17, 2016",0,15/16,1,AS Roma,7,0,AS Roma,AS Roma,Real Madrid,Real Madrid,0:2,2,0,0,4,2,2,1,CB,90,0,0
+4,2,2016. 2. 21,"Feb 21, 2016",1,15/16,1,Málaga CF,48,11,Málaga CF,Málaga CF  (11.),Real Madrid,Real Madrid  (3.),1:1,1,1,1,2,4,0,2,CB,90,0,0
+6,2,2016. 2. 27,"Feb 27, 2016",1,15/16,0,Atlético Madrid,9,2,Real Madrid,Real Madrid  (3.),Atlético Madrid,Atlético Madrid  (2.),0:1,0,1,2,1,2,1,0,CB,90,0,0
+4,3,2016. 3. 2,"Mar 2, 2016",1,15/16,1,Levante UD,46,20,Levante UD,Levante  (20.),Real Madrid,Real Madrid  (3.),1:3,3,1,0,0,1,1,1,Yellow card suspension,90,0,0
+3,3,2016. 3. 5,"Mar 5, 2016",1,15/16,0,Celta de Vigo,20,6,Real Madrid,Real Madrid  (3.),Celta de Vigo,Celta de Vigo  (6.),7:1,7,1,0,3,0,1,1,CB,0,0,0
+3,3,2016. 3. 8,"Mar 8, 2016",0,15/16,0,AS Roma,7,0,Real Madrid,Real Madrid,AS Roma,AS Roma,2:0,2,0,0,7,3,1,1,CB,90,0,1
+5,3,2016. 3. 13,"Mar 13, 2016",1,15/16,1,UD Las Palmas,83,15,UD Las Palmas,UD Las Palmas  (15.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,2,7,0,1,CB,90,0,0
+7,3,2016. 3. 20,"Mar 20, 2016",1,15/16,0,Sevilla FC,73,5,Real Madrid,Real Madrid  (3.),Sevilla FC,Sevilla FC  (5.),4:0,4,0,0,2,2,1,0,Indirect card suspension,90,1,0
+13,4,2016. 4. 2,"Apr 2, 2016",1,15/16,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,4,2,0,1,CB,0,0,0
+4,4,2016. 4. 6,"Apr 6, 2016",0,15/16,1,VfL Wolfsburg,88,0,VfL Wolfsburg,VfL Wolfsburg,Real Madrid,Real Madrid,2:0,0,2,2,2,4,1,0,CB,83,0,0
+3,4,2016. 4. 9,"Apr 9, 2016",1,15/16,0,SD Eibar,70,9,Real Madrid,Real Madrid  (3.),SD Eibar,SD Eibar  (9.),4:0,4,0,0,0,2,2,1,Indirect card suspension,90,0,0
+3,4,2016. 4. 12,"Apr 12, 2016",0,15/16,0,VfL Wolfsburg,88,0,Real Madrid,Real Madrid,VfL Wolfsburg,VfL Wolfsburg,3:0,3,0,0,4,0,0,2,CB,0,0,0
+4,4,2016. 4. 16,"Apr 16, 2016",1,15/16,1,Getafe CF,37,19,Getafe CF,Getafe  (19.),Real Madrid,Real Madrid  (3.),1:5,5,1,0,3,4,0,0,not in squad,90,0,0
+4,4,2016. 4. 20,"Apr 20, 2016",1,15/16,0,Villarreal CF,89,4,Real Madrid,Real Madrid  (3.),Villarreal CF,Villarreal  (4.),3:0,3,0,0,5,3,1,0,CB,0,0,0
+3,4,2016. 4. 23,"Apr 23, 2016",1,15/16,1,Rayo Vallecano,59,16,Rayo Vallecano,Rayo Vallecano  (16.),Real Madrid,Real Madrid  (3.),2:3,3,2,0,3,5,0,1,on the bench,90,0,0
+3,4,2016. 4. 26,"Apr 26, 2016",0,15/16,1,Manchester City,50,0,Manchester City,Man City,Real Madrid,Real Madrid,0:0,0,0,1,3,3,2,0,CB,0,0,0
+4,4,2016. 4. 30,"Apr 30, 2016",1,15/16,1,Real Sociedad,64,11,Real Sociedad,Real Sociedad  (11.),Real Madrid,Real Madrid  (3.),0:1,1,0,0,0,3,0,2,CB,90,0,0
+4,5,2016. 5. 4,"May 4, 2016",0,15/16,0,Manchester City,50,0,Real Madrid,Real Madrid,Manchester City,Man City,1:0,1,0,0,1,0,0,0,CB,90,0,0
+4,5,2016. 5. 8,"May 8, 2016",1,15/16,0,Valencia CF,87,9,Real Madrid,Real Madrid  (3.),Valencia CF,Valencia  (9.),3:2,3,2,0,1,1,0,0,CB,90,0,0
+6,5,2016. 5. 14,"May 14, 2016",1,15/16,1,Deportivo de La Coruña,26,13,Deportivo de La Coruña,Dep. La Coruña  (13.),Real Madrid,Real Madrid  (2.),0:2,2,0,0,3,1,2,0,CB,90,0,0
+14,5,2016. 5. 28,"May 28, 2016",0,15/16,0,Atlético Madrid,9,0,Real Madrid,Real Madrid,Atlético Madrid,Atlético Madrid,6:4 on pens,6,4,0,2,3,0,2,CB,90,0,0
+85,8,2016. 8. 21,"Aug 21, 2016",1,16/17,1,Real Sociedad,64,6,Real Sociedad,Real Sociedad  (6.),Real Madrid,Real Madrid  (1.),0:3,3,0,0,6,2,4,0,CB,120,1,0
+6,8,2016. 8. 27,"Aug 27, 2016",1,16/17,0,Celta de Vigo,20,16,Real Madrid,Real Madrid  (2.),Celta de Vigo,Celta de Vigo  (16.),2:1,2,1,0,3,6,0,4,CB,90,0,0
+14,9,2016. 9. 10,"Sep 10, 2016",1,16/17,0,CA Osasuna,14,15,Real Madrid,Real Madrid  (3.),CA Osasuna,CA Osasuna  (15.),5:2,5,2,0,2,3,1,0,CB,90,0,0
+4,9,2016. 9. 14,"Sep 14, 2016",0,16/17,0,Sporting CP,75,0,Real Madrid,Real Madrid,Sporting CP,Sporting CP,2:1,2,1,0,5,2,2,1,CB,90,1,0
+4,9,2016. 9. 18,"Sep 18, 2016",1,16/17,1,RCD Espanyol Barcelona,60,15,RCD Espanyol Barcelona,Espanyol  (15.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,2,5,1,2,CB,90,0,0
+3,9,2016. 9. 21,"Sep 21, 2016",1,16/17,0,Villarreal CF,89,6,Real Madrid,Real Madrid  (1.),Villarreal CF,Villarreal  (6.),1:1,1,1,1,2,2,0,1,CB,90,0,0
+3,9,2016. 9. 24,"Sep 24, 2016",1,16/17,1,UD Las Palmas,83,5,UD Las Palmas,UD Las Palmas  (5.),Real Madrid,Real Madrid  (1.),2:2,2,2,1,1,2,1,0,CB,90,1,0
+3,9,2016. 9. 27,"Sep 27, 2016",0,16/17,1,Borussia Dortmund,12,0,Borussia Dortmund,Bor. Dortmund,Real Madrid,Real Madrid,2:2,2,2,1,2,1,2,1,CB,90,0,0
+5,10,2016. 10. 2,"Oct 2, 2016",1,16/17,0,SD Eibar,70,8,Real Madrid,Real Madrid  (1.),SD Eibar,SD Eibar  (8.),1:1,1,1,1,2,2,2,2,not in squad,90,0,0
+13,10,2016. 10. 15,"Oct 15, 2016",1,16/17,1,Real Betis Balompié,62,15,Real Betis Balompié,Real Betis  (15.),Real Madrid,Real Madrid  (2.),1:6,6,1,0,1,2,1,2,Knee Injury,0,0,0
+3,10,2016. 10. 18,"Oct 18, 2016",0,16/17,0,Legia Warszawa,45,0,Real Madrid,Real Madrid,Legia Warszawa,Legia Warszawa,5:1,5,1,0,6,1,1,1,Knee Injury,0,0,0
+5,10,2016. 10. 23,"Oct 23, 2016",1,16/17,0,Athletic Bilbao,8,6,Real Madrid,Real Madrid  (2.),Athletic Bilbao,Athletic  (6.),2:1,2,1,0,5,6,1,1,Knee Injury,0,0,0
+3,10,2016. 10. 26,"Oct 26, 2016",2,16/17,1,Cultural Leonesa,25,21,Cultural Leonesa,CyD Leonesa,Real Madrid,Real Madrid,1:7,7,1,0,2,5,1,1,Knee Injury,0,0,0
+3,10,2016. 10. 29,"Oct 29, 2016",1,16/17,1,Deportivo Alavés,25,13,Deportivo Alavés,Alavés  (13.),Real Madrid,Real Madrid  (1.),1:4,4,1,0,7,2,1,1,Knee Injury,0,0,0
+4,11,2016. 11. 2,"Nov 2, 2016",0,16/17,1,Legia Warszawa,45,0,Legia Warszawa,Legia Warszawa,Real Madrid,Real Madrid,3:3,3,3,1,4,7,1,1,Knee Injury,0,0,0
+4,11,2016. 11. 6,"Nov 6, 2016",1,16/17,0,CD Leganés,17,16,Real Madrid,Real Madrid  (1.),CD Leganés,CD Leganés  (16.),3:0,3,0,0,3,4,3,1,Knee Injury,0,0,0
+13,11,2016. 11. 19,"Nov 19, 2016",1,16/17,1,Atlético Madrid,9,4,Atlético Madrid,Atlético Madrid  (4.),Real Madrid,Real Madrid  (1.),0:3,3,0,0,3,3,0,3,on the bench,0,0,0
+3,11,2016. 11. 22,"Nov 22, 2016",0,16/17,1,Sporting CP,75,0,Sporting CP,Sporting CP,Real Madrid,Real Madrid,1:2,2,1,0,3,3,0,0,CB,0,0,0
+4,11,2016. 11. 26,"Nov 26, 2016",1,16/17,0,Sporting Gijón,76,18,Real Madrid,Real Madrid  (1.),Sporting Gijón,Sporting Gijón  (18.),2:1,2,1,0,2,3,1,0,CB,90,0,1
+4,11,2016. 11. 30,"Nov 30, 2016",2,16/17,0,Cultural Leonesa,25,21,Real Madrid,Real Madrid,Cultural Leonesa,CyD Leonesa,6:1,6,1,0,2,2,1,1,not in squad,72,0,0
+3,12,2016. 12. 3,"Dec 3, 2016",1,16/17,1,FC Barcelona,30,2,FC Barcelona,FC Barcelona  (2.),Real Madrid,Real Madrid  (1.),1:1,1,1,1,6,2,1,1,CB,0,0,0
+4,12,2016. 12. 7,"Dec 7, 2016",0,16/17,0,Borussia Dortmund,12,0,Real Madrid,Real Madrid,Borussia Dortmund,Bor. Dortmund,2:2,2,2,1,1,6,1,1,CB,90,1,0
+3,12,2016. 12. 10,"Dec 10, 2016",1,16/17,0,Deportivo de La Coruña,26,16,Real Madrid,Real Madrid  (1.),Deportivo de La Coruña,Dep. La Coruña  (16.),3:2,3,2,0,2,1,2,1,CB,90,0,0
+25,1,2017. 1. 4,"Jan 4, 2017",2,16/17,0,Sevilla FC,73,21,Real Madrid,Real Madrid,Sevilla FC,Sevilla FC,3:0,3,0,0,3,2,2,2,Muscular problems,90,1,0
+3,1,2017. 1. 7,"Jan 7, 2017",1,16/17,0,Granada CF,41,19,Real Madrid,Real Madrid  (1.),Granada CF,Granada CF  (19.),5:0,5,0,0,3,3,0,2,Yellow card suspension,0,0,0
+5,1,2017. 1. 12,"Jan 12, 2017",2,16/17,1,Sevilla FC,73,21,Sevilla FC,Sevilla FC,Real Madrid,Real Madrid,3:3,3,3,1,5,3,0,0,CB,0,0,0
+3,1,2017. 1. 15,"Jan 15, 2017",1,16/17,1,Sevilla FC,73,2,Sevilla FC,Sevilla FC  (2.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,3,5,3,0,CB,90,1,0
+3,1,2017. 1. 18,"Jan 18, 2017",2,16/17,0,Celta de Vigo,20,21,Real Madrid,Real Madrid,Celta de Vigo,Celta de Vigo,1:2,1,2,2,1,3,2,3,CB,90,0,0
+3,1,2017. 1. 21,"Jan 21, 2017",1,16/17,0,Málaga CF,48,13,Real Madrid,Real Madrid  (1.),Málaga CF,Málaga CF  (13.),2:1,2,1,0,1,1,2,2,CB,90,0,0
+4,1,2017. 1. 25,"Jan 25, 2017",2,16/17,1,Celta de Vigo,20,21,Celta de Vigo,Celta de Vigo,Real Madrid,Real Madrid,2:2,2,2,1,2,1,1,2,CB,90,2,0
+4,1,2017. 1. 29,"Jan 29, 2017",1,16/17,0,Real Sociedad,64,5,Real Madrid,Real Madrid  (1.),Real Sociedad,Real Sociedad  (5.),3:0,3,0,0,2,2,2,1,CB,90,0,0
+13,2,2017. 2. 11,"Feb 11, 2017",1,16/17,1,CA Osasuna,14,20,CA Osasuna,CA Osasuna  (20.),Real Madrid,Real Madrid  (1.),1:3,3,1,0,3,2,0,2,CB,90,0,0
+4,2,2017. 2. 15,"Feb 15, 2017",0,16/17,0,SSC Napoli,78,0,Real Madrid,Real Madrid,SSC Napoli,SSC Napoli,3:1,3,1,0,3,3,1,0,CB,90,0,0
+3,2,2017. 2. 18,"Feb 18, 2017",1,16/17,0,RCD Espanyol Barcelona,60,9,Real Madrid,Real Madrid  (1.),RCD Espanyol Barcelona,Espanyol  (9.),2:0,2,0,0,3,3,1,1,Back trouble,71,0,0
+4,2,2017. 2. 22,"Feb 22, 2017",1,16/17,1,Valencia CF,87,17,Valencia CF,Valencia  (17.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,2,3,0,1,CB,0,0,0
+4,2,2017. 2. 26,"Feb 26, 2017",1,16/17,1,Villarreal CF,89,6,Villarreal CF,Villarreal  (6.),Real Madrid,Real Madrid  (1.),2:3,3,2,0,1,2,2,0,CB,90,0,0
+3,3,2017. 3. 1,"Mar 1, 2017",1,16/17,0,UD Las Palmas,83,12,Real Madrid,Real Madrid  (1.),UD Las Palmas,UD Las Palmas  (12.),3:3,3,3,1,3,1,2,2,CB,90,0,0
+3,3,2017. 3. 4,"Mar 4, 2017",1,16/17,1,SD Eibar,70,7,SD Eibar,SD Eibar  (7.),Real Madrid,Real Madrid  (1.),1:4,4,1,0,3,3,3,2,CB,90,0,0
+3,3,2017. 3. 7,"Mar 7, 2017",0,16/17,1,SSC Napoli,78,0,SSC Napoli,SSC Napoli,Real Madrid,Real Madrid,1:3,3,1,0,4,3,1,3,CB,90,0,0
+5,3,2017. 3. 12,"Mar 12, 2017",1,16/17,0,Real Betis Balompié,62,14,Real Madrid,Real Madrid  (1.),Real Betis Balompié,Real Betis  (14.),2:1,2,1,0,3,4,1,1,CB,90,1,0
+6,3,2017. 3. 18,"Mar 18, 2017",1,16/17,1,Athletic Bilbao,8,7,Athletic Bilbao,Athletic  (7.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,2,3,1,1,CB,90,1,0
+15,4,2017. 4. 2,"Apr 2, 2017",1,16/17,0,Deportivo Alavés,25,10,Real Madrid,Real Madrid  (1.),Deportivo Alavés,Alavés  (10.),3:0,3,0,0,2,2,1,1,not in squad,90,0,0
+3,4,2017. 4. 5,"Apr 5, 2017",1,16/17,1,CD Leganés,17,17,CD Leganés,CD Leganés  (17.),Real Madrid,Real Madrid  (1.),2:4,4,2,0,3,2,0,1,CB,0,0,0
+3,4,2017. 4. 8,"Apr 8, 2017",1,16/17,0,Atlético Madrid,9,3,Real Madrid,Real Madrid  (1.),Atlético Madrid,Atlético Madrid  (3.),1:1,1,1,1,4,3,2,0,CB,90,0,0
+4,4,2017. 4. 12,"Apr 12, 2017",0,16/17,1,Bayern Munich,11,0,Bayern Munich,Bayern Munich,Real Madrid,Real Madrid,1:2,2,1,0,1,4,1,2,CB,90,0,0
+3,4,2017. 4. 15,"Apr 15, 2017",1,16/17,1,Sporting Gijón,76,18,Sporting Gijón,Sporting Gijón  (18.),Real Madrid,Real Madrid  (1.),2:3,3,2,0,2,1,1,1,CB,90,0,0
+3,4,2017. 4. 18,"Apr 18, 2017",0,16/17,0,Bayern Munich,11,0,Real Madrid,Real Madrid,Bayern Munich,Bayern Munich,4:2 AET,4,2,0,3,2,2,1,CB,90,0,0
+5,4,2017. 4. 23,"Apr 23, 2017",1,16/17,0,FC Barcelona,30,2,Real Madrid,Real Madrid  (1.),FC Barcelona,FC Barcelona  (2.),2:3,2,3,2,4,3,2,2,CB,120,0,1
+3,4,2017. 4. 26,"Apr 26, 2017",1,16/17,1,Deportivo de La Coruña,26,16,Deportivo de La Coruña,Dep. La Coruña  (16.),Real Madrid,Real Madrid  (1.),2:6,6,2,0,2,4,3,2,Red card suspension,77,0,0
+3,4,2017. 4. 29,"Apr 29, 2017",1,16/17,0,Valencia CF,87,12,Real Madrid,Real Madrid  (1.),Valencia CF,Valencia  (12.),2:1,2,1,0,6,2,2,3,CB,0,0,0
+3,5,2017. 5. 2,"May 2, 2017",0,16/17,0,Atlético Madrid,9,0,Real Madrid,Real Madrid,Atlético Madrid,Atlético Madrid,3:0,3,0,0,2,6,1,2,CB,90,0,0
+4,5,2017. 5. 6,"May 6, 2017",1,16/17,1,Granada CF,41,19,Granada CF,Granada CF  (19.),Real Madrid,Real Madrid  (1.),0:4,4,0,0,3,2,0,1,CB,90,0,0
+4,5,2017. 5. 10,"May 10, 2017",0,16/17,1,Atlético Madrid,9,0,Atlético Madrid,Atlético Madrid,Real Madrid,Real Madrid,2:1,1,2,2,4,3,0,0,CB,90,0,0
+4,5,2017. 5. 14,"May 14, 2017",1,16/17,0,Sevilla FC,73,4,Real Madrid,Real Madrid  (1.),Sevilla FC,Sevilla FC  (4.),4:1,4,1,0,1,4,2,0,CB,90,0,0
+3,5,2017. 5. 17,"May 17, 2017",1,16/17,1,Celta de Vigo,20,8,Celta de Vigo,Celta de Vigo  (8.),Real Madrid,Real Madrid  (1.),1:4,4,1,0,4,1,1,2,CB,90,0,0
+4,5,2017. 5. 21,"May 21, 2017",1,16/17,1,Málaga CF,48,11,Málaga CF,Málaga CF  (11.),Real Madrid,Real Madrid  (1.),0:2,2,0,0,4,4,1,1,CB,90,0,0
+13,6,2017. 6. 3,"Jun 3, 2017",0,16/17,1,Juventus FC,44,0,Juventus FC,Juventus,Real Madrid,Real Madrid,1:4,4,1,0,2,4,0,1,CB,90,0,0
+78,8,2017. 8. 20,"Aug 20, 2017",1,17/18,1,Deportivo de La Coruña,26,18,Deportivo de La Coruña,Dep. La Coruña  (18.),Real Madrid,Real Madrid  (3.),0:3,3,0,0,4,2,1,0,CB,90,0,0
+7,8,2017. 8. 27,"Aug 27, 2017",1,17/18,0,Valencia CF,87,4,Real Madrid,Real Madrid  (1.),Valencia CF,Valencia  (4.),2:2,2,2,1,3,4,0,1,Indirect card suspension,90,0,0
+13,9,2017. 9. 9,"Sep 9, 2017",1,17/18,0,Levante UD,46,7,Real Madrid,Real Madrid  (5.),Levante UD,Levante  (7.),1:1,1,1,1,2,3,2,0,CB,0,0,0
+4,9,2017. 9. 13,"Sep 13, 2017",0,17/18,0,APOEL Nicosia,5,0,Real Madrid,Real Madrid,APOEL Nicosia,APOEL Nicosia,3:0,3,0,0,1,2,1,2,CB,90,0,0
+4,9,2017. 9. 17,"Sep 17, 2017",1,17/18,1,Real Sociedad,64,2,Real Sociedad,Real Sociedad  (2.),Real Madrid,Real Madrid  (7.),1:3,3,1,0,3,1,0,1,CB,90,1,0
+3,9,2017. 9. 20,"Sep 20, 2017",1,17/18,0,Real Betis Balompié,62,11,Real Madrid,Real Madrid  (4.),Real Betis Balompié,Real Betis  (11.),0:1,0,1,2,3,3,1,0,CB,90,0,1
+3,9,2017. 9. 23,"Sep 23, 2017",1,17/18,1,Deportivo Alavés,25,19,Deportivo Alavés,Alavés  (19.),Real Madrid,Real Madrid  (8.),1:2,2,1,0,0,3,1,1,CB,90,0,0
+3,9,2017. 9. 26,"Sep 26, 2017",0,17/18,1,Borussia Dortmund,12,0,Borussia Dortmund,Bor. Dortmund,Real Madrid,Real Madrid,1:3,3,1,0,2,0,1,1,CB,90,0,0
+5,10,2017. 10. 1,"Oct 1, 2017",1,17/18,0,RCD Espanyol Barcelona,60,12,Real Madrid,Real Madrid  (6.),RCD Espanyol Barcelona,Espanyol  (12.),2:0,2,0,0,3,2,1,1,CB,90,0,0
+13,10,2017. 10. 14,"Oct 14, 2017",1,17/18,1,Getafe CF,37,12,Getafe CF,Getafe  (12.),Real Madrid,Real Madrid  (5.),1:2,2,1,0,2,3,0,1,CB,90,0,0
+3,10,2017. 10. 17,"Oct 17, 2017",0,17/18,0,Tottenham Hotspur,81,0,Real Madrid,Real Madrid,Tottenham Hotspur,Spurs,1:1,1,1,1,2,2,1,0,CB,90,0,0
+5,10,2017. 10. 22,"Oct 22, 2017",1,17/18,0,SD Eibar,70,16,Real Madrid,Real Madrid  (3.),SD Eibar,SD Eibar  (16.),3:0,3,0,0,1,2,1,1,CB,90,0,0
+4,10,2017. 10. 26,"Oct 26, 2017",2,17/18,1,CF Fuenlabrada,21,21,CF Fuenlabrada,CF Fuenlabrada,Real Madrid,Real Madrid,0:2,2,0,0,3,1,0,1,not in squad,90,0,0
+3,10,2017. 10. 29,"Oct 29, 2017",1,17/18,1,Girona FC,39,15,Girona FC,Girona  (15.),Real Madrid,Real Madrid  (3.),2:1,1,2,2,2,3,0,0,CB,0,0,0
+3,11,2017. 11. 1,"Nov 1, 2017",0,17/18,1,Tottenham Hotspur,81,0,Tottenham Hotspur,Spurs,Real Madrid,Real Madrid,3:1,1,3,2,1,2,2,0,CB,90,0,0
+4,11,2017. 11. 5,"Nov 5, 2017",1,17/18,0,UD Las Palmas,83,18,Real Madrid,Real Madrid  (3.),UD Las Palmas,UD Las Palmas  (18.),3:0,3,0,0,1,1,3,2,CB,90,0,0
+13,11,2017. 11. 18,"Nov 18, 2017",1,17/18,1,Atlético Madrid,9,4,Atlético Madrid,Atlético Madrid  (4.),Real Madrid,Real Madrid  (3.),0:0,0,0,1,3,1,0,3,CB,90,0,0
+3,11,2017. 11. 21,"Nov 21, 2017",0,17/18,1,APOEL Nicosia,5,0,APOEL Nicosia,APOEL Nicosia,Real Madrid,Real Madrid,0:6,6,0,0,0,3,0,0,Nasal Bone Fracture,45,0,0
+4,11,2017. 11. 25,"Nov 25, 2017",1,17/18,0,Málaga CF,48,18,Real Madrid,Real Madrid  (3.),Málaga CF,Málaga CF  (18.),3:2,3,2,0,6,0,0,0,Nasal Bone Fracture,0,0,0
+3,11,2017. 11. 28,"Nov 28, 2017",2,17/18,0,CF Fuenlabrada,21,21,Real Madrid,Real Madrid,CF Fuenlabrada,CF Fuenlabrada,2:2,2,2,1,3,6,2,0,Nasal Bone Fracture,0,0,0
+4,12,2017. 12. 2,"Dec 2, 2017",1,17/18,1,Athletic Bilbao,8,16,Athletic Bilbao,Athletic  (16.),Real Madrid,Real Madrid  (4.),0:0,0,0,1,2,3,2,2,CB,0,0,0
+4,12,2017. 12. 6,"Dec 6, 2017",0,17/18,0,Borussia Dortmund,12,0,Real Madrid,Real Madrid,Borussia Dortmund,Bor. Dortmund,3:2,3,2,0,0,2,0,2,CB,86,0,0
+3,12,2017. 12. 9,"Dec 9, 2017",1,17/18,0,Sevilla FC,73,5,Real Madrid,Real Madrid  (4.),Sevilla FC,Sevilla FC  (5.),5:0,5,0,0,3,0,2,0,Indirect card suspension,90,0,0
+14,12,2017. 12. 23,"Dec 23, 2017",1,17/18,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (3.),FC Barcelona,FC Barcelona  (1.),0:3,0,3,2,5,3,0,2,CB,0,0,0
+12,1,2018. 1. 4,"Jan 4, 2018",2,17/18,1,CD Numancia,18,21,CD Numancia,CD Numancia,Real Madrid,Real Madrid,0:3,3,0,0,0,5,3,0,not in squad,90,0,0
+3,1,2018. 1. 7,"Jan 7, 2018",1,17/18,1,Celta de Vigo,20,11,Celta de Vigo,Celta de Vigo  (11.),Real Madrid,Real Madrid  (4.),2:2,2,2,1,3,0,0,3,Muscle Injury,0,0,0
+3,1,2018. 1. 10,"Jan 10, 2018",2,17/18,0,CD Numancia,18,21,Real Madrid,Real Madrid,CD Numancia,CD Numancia,2:2,2,2,1,2,3,2,0,Muscle Injury,0,0,0
+3,1,2018. 1. 13,"Jan 13, 2018",1,17/18,0,Villarreal CF,89,6,Real Madrid,Real Madrid  (4.),Villarreal CF,Villarreal  (6.),0:1,0,1,2,2,2,2,2,Muscle Injury,0,0,0
+5,1,2018. 1. 18,"Jan 18, 2018",2,17/18,1,CD Leganés,17,21,CD Leganés,CD Leganés,Real Madrid,Real Madrid,0:1,1,0,0,0,2,1,2,Muscle Injury,0,0,0
+3,1,2018. 1. 21,"Jan 21, 2018",1,17/18,0,Deportivo de La Coruña,26,18,Real Madrid,Real Madrid  (4.),Deportivo de La Coruña,Dep. La Coruña  (18.),7:1,7,1,0,1,0,0,1,Muscle Injury,0,0,0
+3,1,2018. 1. 24,"Jan 24, 2018",2,17/18,0,CD Leganés,17,21,Real Madrid,Real Madrid,CD Leganés,CD Leganés,1:2,1,2,2,7,1,1,0,CB,0,0,0
+3,1,2018. 1. 27,"Jan 27, 2018",1,17/18,1,Valencia CF,87,3,Valencia CF,Valencia  (3.),Real Madrid,Real Madrid  (4.),1:4,4,1,0,1,7,2,1,Calf Problems,90,0,0
+7,2,2018. 2. 3,"Feb 3, 2018",1,17/18,1,Levante UD,46,16,Levante UD,Levante  (16.),Real Madrid,Real Madrid  (3.),2:2,2,2,1,4,1,1,2,CB,0,0,0
+7,2,2018. 2. 10,"Feb 10, 2018",1,17/18,0,Real Sociedad,64,14,Real Madrid,Real Madrid  (3.),Real Sociedad,Real Sociedad  (14.),5:2,5,2,0,2,4,2,1,CB,90,1,0
+4,2,2018. 2. 14,"Feb 14, 2018",0,17/18,0,Paris Saint-Germain,56,0,Real Madrid,Real Madrid,Paris Saint-Germain,Paris SG,3:1,3,1,0,5,2,2,2,CB,90,0,0
+4,2,2018. 2. 18,"Feb 18, 2018",1,17/18,1,Real Betis Balompié,62,8,Real Betis Balompié,Real Betis  (8.),Real Madrid,Real Madrid  (3.),3:5,5,3,0,3,5,1,2,CB,90,0,0
+3,2,2018. 2. 21,"Feb 21, 2018",1,17/18,1,CD Leganés,17,8,CD Leganés,CD Leganés  (8.),Real Madrid,Real Madrid  (4.),1:3,3,1,0,5,3,3,1,CB,90,1,0
+3,2,2018. 2. 24,"Feb 24, 2018",1,17/18,0,Deportivo Alavés,25,15,Real Madrid,Real Madrid  (3.),Deportivo Alavés,Alavés  (15.),4:0,4,0,0,3,5,1,3,Yellow card suspension,90,1,0
+3,2,2018. 2. 27,"Feb 27, 2018",1,17/18,1,RCD Espanyol Barcelona,60,15,RCD Espanyol Barcelona,Espanyol  (15.),Real Madrid,Real Madrid  (3.),1:0,0,1,2,4,3,0,1,CB,0,0,0
+4,3,2018. 3. 3,"Mar 3, 2018",1,17/18,0,Getafe CF,37,10,Real Madrid,Real Madrid  (3.),Getafe CF,Getafe  (10.),3:1,3,1,0,0,4,1,0,CB,90,0,0
+3,3,2018. 3. 6,"Mar 6, 2018",0,17/18,1,Paris Saint-Germain,56,0,Paris Saint-Germain,Paris SG,Real Madrid,Real Madrid,1:2,2,1,0,3,0,1,1,CB,90,0,0
+4,3,2018. 3. 10,"Mar 10, 2018",1,17/18,1,SD Eibar,70,8,SD Eibar,SD Eibar  (8.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,2,3,1,1,CB,90,0,0
+8,3,2018. 3. 18,"Mar 18, 2018",1,17/18,0,Girona FC,39,7,Real Madrid,Real Madrid  (3.),Girona FC,Girona  (7.),6:3,6,3,0,2,2,1,1,not in squad,90,0,0
+13,3,2018. 3. 31,"Mar 31, 2018",1,17/18,1,UD Las Palmas,83,18,UD Las Palmas,UD Las Palmas  (18.),Real Madrid,Real Madrid  (3.),0:3,3,0,0,6,2,3,1,not in squad,0,0,0
+3,4,2018. 4. 3,"Apr 3, 2018",0,17/18,1,Juventus FC,44,0,Juventus FC,Juventus,Real Madrid,Real Madrid,0:3,3,0,0,3,6,0,3,CB,0,0,0
+5,4,2018. 4. 8,"Apr 8, 2018",1,17/18,0,Atlético Madrid,9,2,Real Madrid,Real Madrid  (3.),Atlético Madrid,Atlético Madrid  (2.),1:1,1,1,1,3,3,0,0,CB,90,0,0
+3,4,2018. 4. 11,"Apr 11, 2018",0,17/18,0,Juventus FC,44,0,Real Madrid,Real Madrid,Juventus FC,Juventus,1:3,1,3,2,1,3,1,0,Yellow card suspension,90,0,0
+4,4,2018. 4. 15,"Apr 15, 2018",1,17/18,1,Málaga CF,48,20,Málaga CF,Málaga CF  (20.),Real Madrid,Real Madrid  (4.),1:2,2,1,0,1,1,3,1,CB,0,0,0
+3,4,2018. 4. 18,"Apr 18, 2018",1,17/18,0,Athletic Bilbao,8,13,Real Madrid,Real Madrid  (3.),Athletic Bilbao,Athletic  (13.),1:1,1,1,1,2,1,1,3,CB,90,0,0
+7,4,2018. 4. 25,"Apr 25, 2018",0,17/18,1,Bayern Munich,11,0,Bayern Munich,Bayern Munich,Real Madrid,Real Madrid,1:2,2,1,0,1,2,1,1,CB,90,0,0
+3,4,2018. 4. 28,"Apr 28, 2018",1,17/18,0,CD Leganés,17,15,Real Madrid,Real Madrid  (3.),CD Leganés,CD Leganés  (15.),2:1,2,1,0,2,1,1,1,not in squad,90,0,0
+3,5,2018. 5. 1,"May 1, 2018",0,17/18,0,Bayern Munich,11,0,Real Madrid,Real Madrid,Bayern Munich,Bayern Munich,2:2,2,2,1,2,2,1,1,CB,0,0,0
+5,5,2018. 5. 6,"May 6, 2018",1,17/18,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (3.),2:2,2,2,1,2,2,2,1,CB,90,0,0
+3,5,2018. 5. 9,"May 9, 2018",1,17/18,1,Sevilla FC,73,7,Sevilla FC,Sevilla FC  (7.),Real Madrid,Real Madrid  (3.),3:2,2,3,2,2,2,2,2,CB,90,0,0
+3,5,2018. 5. 12,"May 12, 2018",1,17/18,0,Celta de Vigo,20,12,Real Madrid,Real Madrid  (3.),Celta de Vigo,Celta de Vigo  (12.),6:0,6,0,0,2,2,3,2,not in squad,90,1,0
+7,5,2018. 5. 19,"May 19, 2018",1,17/18,1,Villarreal CF,89,5,Villarreal CF,Villarreal  (5.),Real Madrid,Real Madrid  (3.),2:2,2,2,1,6,2,0,3,CB,0,0,0
+7,5,2018. 5. 26,"May 26, 2018",0,17/18,0,Liverpool FC,47,0,Real Madrid,Real Madrid,Liverpool FC,Liverpool,3:1,3,1,0,2,6,2,0,CB,90,0,0
+85,8,2018. 8. 19,"Aug 19, 2018",1,18/19,0,Getafe CF,37,5,Real Madrid,Real Madrid  (3.),Getafe CF,Getafe  (5.),2:0,2,0,0,3,2,1,2,CB,90,0,0
+7,8,2018. 8. 26,"Aug 26, 2018",1,18/19,1,Girona FC,39,12,Girona FC,Girona  (12.),Real Madrid,Real Madrid  (4.),1:4,4,1,0,2,3,0,1,CB,90,0,0
+6,9,2018. 9. 1,"Sep 1, 2018",1,18/19,0,CD Leganés,17,12,Real Madrid,Real Madrid  (1.),CD Leganés,CD Leganés  (12.),4:1,4,1,0,4,2,1,0,CB,90,1,0
+14,9,2018. 9. 15,"Sep 15, 2018",1,18/19,1,Athletic Bilbao,8,4,Athletic Bilbao,Athletic  (4.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,4,4,1,1,CB,90,1,0
+4,9,2018. 9. 19,"Sep 19, 2018",0,18/19,0,AS Roma,7,0,Real Madrid,Real Madrid,AS Roma,AS Roma,3:0,3,0,0,1,4,1,1,CB,90,0,0
+3,9,2018. 9. 22,"Sep 22, 2018",1,18/19,0,RCD Espanyol Barcelona,60,4,Real Madrid,Real Madrid  (2.),RCD Espanyol Barcelona,Espanyol  (4.),1:0,1,0,0,3,1,0,1,CB,90,0,0
+4,9,2018. 9. 26,"Sep 26, 2018",1,18/19,1,Sevilla FC,73,12,Sevilla FC,Sevilla FC  (12.),Real Madrid,Real Madrid  (2.),3:0,0,3,2,1,3,0,0,CB,90,0,0
+3,9,2018. 9. 29,"Sep 29, 2018",1,18/19,0,Atlético Madrid,9,3,Real Madrid,Real Madrid  (2.),Atlético Madrid,Atlético Madrid  (3.),0:0,0,0,1,0,1,3,0,CB,90,0,0
+3,10,2018. 10. 2,"Oct 2, 2018",0,18/19,1,CSKA Moscow,24,0,CSKA Moscow,CSKA Moscow,Real Madrid,Real Madrid,1:0,0,1,2,0,0,0,3,not in squad,90,0,0
+4,10,2018. 10. 6,"Oct 6, 2018",1,18/19,1,Deportivo Alavés,25,6,Deportivo Alavés,Alavés  (6.),Real Madrid,Real Madrid  (2.),1:0,0,1,2,0,0,1,0,CB,0,0,0
+14,10,2018. 10. 20,"Oct 20, 2018",1,18/19,0,Levante UD,46,12,Real Madrid,Real Madrid  (5.),Levante UD,Levante  (12.),1:2,1,2,2,0,0,1,1,CB,90,0,0
+3,10,2018. 10. 23,"Oct 23, 2018",0,18/19,0,FC Viktoria Plzen,34,0,Real Madrid,Real Madrid,FC Viktoria Plzen,Viktoria Plzen,2:1,2,1,0,1,0,2,1,CB,90,0,0
+5,10,2018. 10. 28,"Oct 28, 2018",1,18/19,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (7.),5:1,1,5,2,2,1,1,2,CB,90,0,0
+3,10,2018. 10. 31,"Oct 31, 2018",2,18/19,1,UD Melilla,84,21,UD Melilla,UD Melilla,Real Madrid,Real Madrid,0:4,4,0,0,1,2,5,1,CB,90,0,0
+3,11,2018. 11. 3,"Nov 3, 2018",1,18/19,0,Real Valladolid CF,66,6,Real Madrid,Real Madrid  (9.),Real Valladolid CF,Real Valladolid  (6.),2:0,2,0,0,4,1,0,5,CB,45,0,0
+4,11,2018. 11. 7,"Nov 7, 2018",0,18/19,1,FC Viktoria Plzen,34,0,FC Viktoria Plzen,Viktoria Plzen,Real Madrid,Real Madrid,0:5,5,0,0,2,4,0,0,CB,90,1,0
+4,11,2018. 11. 11,"Nov 11, 2018",1,18/19,1,Celta de Vigo,20,11,Celta de Vigo,Celta de Vigo  (11.),Real Madrid,Real Madrid  (7.),2:4,4,2,0,5,2,0,0,CB,59,0,0
+13,11,2018. 11. 24,"Nov 24, 2018",1,18/19,1,SD Eibar,70,13,SD Eibar,SD Eibar  (13.),Real Madrid,Real Madrid  (6.),3:0,0,3,2,4,5,2,0,CB,90,1,1
+3,11,2018. 11. 27,"Nov 27, 2018",0,18/19,1,AS Roma,7,0,AS Roma,AS Roma,Real Madrid,Real Madrid,0:2,2,0,0,0,4,3,2,CB,90,0,0
+4,12,2018. 12. 1,"Dec 1, 2018",1,18/19,0,Valencia CF,87,11,Real Madrid,Real Madrid  (6.),Valencia CF,Valencia  (11.),2:0,2,0,0,2,0,0,3,CB,90,0,0
+5,12,2018. 12. 6,"Dec 6, 2018",2,18/19,0,UD Melilla,84,21,Real Madrid,Real Madrid,UD Melilla,UD Melilla,6:1,6,1,0,2,2,0,0,not in squad,90,0,0
+3,12,2018. 12. 9,"Dec 9, 2018",1,18/19,1,SD Huesca,71,20,SD Huesca,SD Huesca  (20.),Real Madrid,Real Madrid  (5.),0:1,1,0,0,6,2,1,0,CB,0,0,0
+3,12,2018. 12. 12,"Dec 12, 2018",0,18/19,0,CSKA Moscow,24,0,Real Madrid,Real Madrid,CSKA Moscow,CSKA Moscow,0:3,0,3,2,1,6,0,1,not in squad,90,0,0
+3,12,2018. 12. 15,"Dec 15, 2018",1,18/19,0,Rayo Vallecano,59,19,Real Madrid,Real Madrid  (4.),Rayo Vallecano,Rayo Vallecano  (19.),1:0,1,0,0,0,1,3,0,CB,0,0,0
+19,1,2019. 1. 3,"Jan 3, 2019",1,18/19,1,Villarreal CF,89,17,Villarreal CF,Villarreal  (17.),Real Madrid,Real Madrid  (4.),2:2,2,2,1,1,0,0,3,CB,90,0,0
+3,1,2019. 1. 6,"Jan 6, 2019",1,18/19,0,Real Sociedad,64,15,Real Madrid,Real Madrid  (4.),Real Sociedad,Real Sociedad  (15.),0:2,0,2,2,2,1,2,0,CB,90,0,0
+3,1,2019. 1. 9,"Jan 9, 2019",2,18/19,0,CD Leganés,17,21,Real Madrid,Real Madrid,CD Leganés,CD Leganés,3:0,3,0,0,0,2,2,2,CB,90,0,0
+4,1,2019. 1. 13,"Jan 13, 2019",1,18/19,1,Real Betis Balompié,62,6,Real Betis Balompié,Real Betis  (6.),Real Madrid,Real Madrid  (5.),1:2,2,1,0,3,0,0,2,CB,90,1,0
+3,1,2019. 1. 16,"Jan 16, 2019",2,18/19,1,CD Leganés,17,21,CD Leganés,CD Leganés,Real Madrid,Real Madrid,1:0,0,1,2,2,3,1,0,not in squad,90,0,0
+3,1,2019. 1. 19,"Jan 19, 2019",1,18/19,0,Sevilla FC,73,3,Real Madrid,Real Madrid  (4.),Sevilla FC,Sevilla FC  (3.),2:0,2,0,0,0,2,1,1,CB,0,0,0
+5,1,2019. 1. 24,"Jan 24, 2019",2,18/19,0,Girona FC,39,21,Real Madrid,Real Madrid,Girona FC,Girona,4:2,4,2,0,2,0,0,1,CB,90,0,0
+3,1,2019. 1. 27,"Jan 27, 2019",1,18/19,1,RCD Espanyol Barcelona,60,13,RCD Espanyol Barcelona,Espanyol  (13.),Real Madrid,Real Madrid  (3.),2:4,4,2,0,4,2,2,0,CB,90,2,0
+4,1,2019. 1. 31,"Jan 31, 2019",2,18/19,1,Girona FC,39,21,Girona FC,Girona,Real Madrid,Real Madrid,1:3,3,1,0,4,4,2,2,CB,45,1,0
+3,2,2019. 2. 3,"Feb 3, 2019",1,18/19,0,Deportivo Alavés,25,5,Real Madrid,Real Madrid  (3.),Deportivo Alavés,Alavés  (5.),3:0,3,0,0,3,4,1,2,CB,63,0,0
+3,2,2019. 2. 6,"Feb 6, 2019",2,18/19,1,FC Barcelona,30,21,FC Barcelona,FC Barcelona,Real Madrid,Real Madrid,1:1,1,1,1,3,3,0,1,CB,90,0,0
+3,2,2019. 2. 9,"Feb 9, 2019",1,18/19,1,Atlético Madrid,9,2,Atlético Madrid,Atlético Madrid  (2.),Real Madrid,Real Madrid  (3.),1:3,3,1,0,1,3,1,0,CB,90,0,0
+4,2,2019. 2. 13,"Feb 13, 2019",0,18/19,1,Ajax Amsterdam,3,0,Ajax Amsterdam,Ajax,Real Madrid,Real Madrid,1:2,2,1,0,3,1,1,1,CB,90,1,1
+4,2,2019. 2. 17,"Feb 17, 2019",1,18/19,0,Girona FC,39,16,Real Madrid,Real Madrid  (2.),Girona FC,Girona  (16.),1:2,1,2,2,2,3,1,1,CB,90,0,0
+7,2,2019. 2. 24,"Feb 24, 2019",1,18/19,1,Levante UD,46,11,Levante UD,Levante  (11.),Real Madrid,Real Madrid  (3.),1:2,2,1,0,1,2,2,1,Indirect card suspension,90,0,0
+3,2,2019. 2. 27,"Feb 27, 2019",2,18/19,0,FC Barcelona,30,21,Real Madrid,Real Madrid,FC Barcelona,FC Barcelona,0:3,0,3,2,2,1,1,2,CB,0,0,0
+3,3,2019. 3. 2,"Mar 2, 2019",1,18/19,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (3.),FC Barcelona,FC Barcelona  (1.),0:1,0,1,2,0,2,3,1,CB,90,0,0
+3,3,2019. 3. 5,"Mar 5, 2019",0,18/19,0,Ajax Amsterdam,3,0,Real Madrid,Real Madrid,Ajax Amsterdam,Ajax,1:4,1,4,2,0,0,1,3,Yellow card suspension,90,0,0
+5,3,2019. 3. 10,"Mar 10, 2019",1,18/19,1,Real Valladolid CF,66,16,Real Valladolid CF,Real Valladolid  (16.),Real Madrid,Real Madrid  (3.),1:4,4,1,0,1,0,4,1,Yellow card suspension,0,0,0
+6,3,2019. 3. 16,"Mar 16, 2019",1,18/19,0,Celta de Vigo,20,18,Real Madrid,Real Madrid  (3.),Celta de Vigo,Celta de Vigo  (18.),2:0,2,0,0,4,1,1,4,CB,0,0,0
+15,3,2019. 3. 31,"Mar 31, 2019",1,18/19,0,SD Huesca,71,20,Real Madrid,Real Madrid  (3.),SD Huesca,SD Huesca  (20.),3:2,3,2,0,2,4,0,1,CB,90,0,0
+3,4,2019. 4. 3,"Apr 3, 2019",1,18/19,1,Valencia CF,87,6,Valencia CF,Valencia  (6.),Real Madrid,Real Madrid  (3.),2:1,1,2,2,3,2,2,0,CB,90,0,0
+3,4,2019. 4. 6,"Apr 6, 2019",1,18/19,0,SD Eibar,70,11,Real Madrid,Real Madrid  (3.),SD Eibar,SD Eibar  (11.),2:1,2,1,0,1,3,2,2,not in squad,90,0,0
+9,4,2019. 4. 15,"Apr 15, 2019",1,18/19,1,CD Leganés,17,11,CD Leganés,CD Leganés  (11.),Real Madrid,Real Madrid  (3.),1:1,1,1,1,2,1,1,2,Hamstring Injury,0,0,0
+6,4,2019. 4. 21,"Apr 21, 2019",1,18/19,0,Athletic Bilbao,8,7,Real Madrid,Real Madrid  (3.),Athletic Bilbao,Athletic  (7.),3:0,3,0,0,1,2,1,1,Hamstring Injury,0,0,0
+4,4,2019. 4. 25,"Apr 25, 2019",1,18/19,1,Getafe CF,37,4,Getafe CF,Getafe  (4.),Real Madrid,Real Madrid  (3.),0:0,0,0,1,3,1,0,1,Hamstring Injury,0,0,0
+3,4,2019. 4. 28,"Apr 28, 2019",1,18/19,1,Rayo Vallecano,59,20,Rayo Vallecano,Rayo Vallecano  (20.),Real Madrid,Real Madrid  (3.),1:0,0,1,2,0,3,0,0,Hamstring Injury,0,0,0
+7,5,2019. 5. 5,"May 5, 2019",1,18/19,0,Villarreal CF,89,14,Real Madrid,Real Madrid  (3.),Villarreal CF,Villarreal  (14.),3:2,3,2,0,0,0,1,0,Hamstring Injury,0,0,0
+7,5,2019. 5. 12,"May 12, 2019",1,18/19,1,Real Sociedad,64,8,Real Sociedad,Real Sociedad  (8.),Real Madrid,Real Madrid  (3.),3:1,1,3,2,3,0,2,1,Hamstring Injury,0,0,0
+7,5,2019. 5. 19,"May 19, 2019",1,18/19,0,Real Betis Balompié,62,11,Real Madrid,Real Madrid  (3.),Real Betis Balompié,Real Betis  (11.),0:2,0,2,2,1,3,3,2,Hamstring Injury,0,0,0
+90,8,2019. 8. 17,"Aug 17, 2019",1,19/20,1,Celta de Vigo,20,17,Celta de Vigo,Celta de Vigo  (17.),Real Madrid,Real Madrid  (1.),1:3,3,1,0,0,1,2,3,CB,0,0,0
+7,8,2019. 8. 24,"Aug 24, 2019",1,19/20,0,Real Valladolid CF,66,3,Real Madrid,Real Madrid  (1.),Real Valladolid CF,Real Valladolid  (3.),1:1,1,1,1,3,0,1,2,CB,90,0,0
+8,9,2019. 9. 1,"Sep 1, 2019",1,19/20,1,Villarreal CF,89,18,Villarreal CF,Villarreal  (18.),Real Madrid,Real Madrid  (8.),2:2,2,2,1,1,3,1,1,CB,90,0,0
+13,9,2019. 9. 14,"Sep 14, 2019",1,19/20,0,Levante UD,46,4,Real Madrid,Real Madrid  (5.),Levante UD,Levante  (4.),3:2,3,2,0,2,1,2,1,CB,90,0,0
+4,9,2019. 9. 18,"Sep 18, 2019",0,19/20,1,Paris Saint-Germain,56,0,Paris Saint-Germain,Paris SG,Real Madrid,Real Madrid,3:0,0,3,2,3,2,2,2,Suspension through sports court,60,0,0
+4,9,2019. 9. 22,"Sep 22, 2019",1,19/20,1,Sevilla FC,73,1,Sevilla FC,Sevilla FC  (1.),Real Madrid,Real Madrid  (3.),0:1,1,0,0,0,3,3,2,CB,0,0,0
+3,9,2019. 9. 25,"Sep 25, 2019",1,19/20,0,CA Osasuna,14,10,Real Madrid,Real Madrid  (2.),CA Osasuna,CA Osasuna  (10.),2:0,2,0,0,1,0,0,3,CB,90,0,0
+3,9,2019. 9. 28,"Sep 28, 2019",1,19/20,1,Atlético Madrid,9,3,Atlético Madrid,Atlético Madrid  (3.),Real Madrid,Real Madrid  (1.),0:0,0,0,1,2,1,0,0,CB,90,0,0
+3,10,2019. 10. 1,"Oct 1, 2019",0,19/20,0,Club Brugge KV,22,0,Real Madrid,Real Madrid,Club Brugge KV,Club Brugge,2:2,2,2,1,0,2,0,0,CB,90,0,0
+4,10,2019. 10. 5,"Oct 5, 2019",1,19/20,0,Granada CF,41,2,Real Madrid,Real Madrid  (1.),Granada CF,Granada CF  (2.),4:2,4,2,0,2,0,2,0,CB,90,1,0
+14,10,2019. 10. 19,"Oct 19, 2019",1,19/20,1,RCD Mallorca,61,18,RCD Mallorca,RCD Mallorca  (18.),Real Madrid,Real Madrid  (1.),1:0,0,1,2,4,2,2,2,CB,90,0,0
+3,10,2019. 10. 22,"Oct 22, 2019",0,19/20,1,Galatasaray SK,36,0,Galatasaray SK,Galatasaray,Real Madrid,Real Madrid,0:1,1,0,0,0,4,1,2,CB,90,0,0
+8,10,2019. 10. 30,"Oct 30, 2019",1,19/20,0,CD Leganés,17,20,Real Madrid,Real Madrid  (3.),CD Leganés,CD Leganés  (20.),5:0,5,0,0,1,0,0,1,CB,90,0,0
+3,11,2019. 11. 2,"Nov 2, 2019",1,19/20,0,Real Betis Balompié,62,16,Real Madrid,Real Madrid  (2.),Real Betis Balompié,Real Betis  (16.),0:0,0,0,1,5,1,0,0,CB,90,1,0
+4,11,2019. 11. 6,"Nov 6, 2019",0,19/20,0,Galatasaray SK,36,0,Real Madrid,Real Madrid,Galatasaray SK,Galatasaray,6:0,6,0,0,0,5,0,0,CB,90,0,0
+3,11,2019. 11. 9,"Nov 9, 2019",1,19/20,1,SD Eibar,70,14,SD Eibar,SD Eibar  (14.),Real Madrid,Real Madrid  (2.),0:4,4,0,0,6,0,0,0,CB,90,1,0
+14,11,2019. 11. 23,"Nov 23, 2019",1,19/20,0,Real Sociedad,64,5,Real Madrid,Real Madrid  (2.),Real Sociedad,Real Sociedad  (5.),3:1,3,1,0,4,6,0,0,CB,90,1,0
+3,11,2019. 11. 26,"Nov 26, 2019",0,19/20,0,Paris Saint-Germain,56,0,Real Madrid,Real Madrid,Paris Saint-Germain,Paris SG,2:2,2,2,1,3,4,1,0,CB,90,0,0
+4,11,2019. 11. 30,"Nov 30, 2019",1,19/20,1,Deportivo Alavés,25,13,Deportivo Alavés,Alavés  (13.),Real Madrid,Real Madrid  (2.),1:2,2,1,0,2,3,2,1,CB,90,0,0
+7,12,2019. 12. 7,"Dec 7, 2019",1,19/20,0,RCD Espanyol Barcelona,60,19,Real Madrid,Real Madrid  (2.),RCD Espanyol Barcelona,Espanyol  (19.),2:0,2,0,0,2,2,1,2,CB,90,1,0
+4,12,2019. 12. 11,"Dec 11, 2019",0,19/20,1,Club Brugge KV,22,0,Club Brugge KV,Club Brugge,Real Madrid,Real Madrid,1:3,3,1,0,2,2,0,1,not in squad,90,0,0
+4,12,2019. 12. 15,"Dec 15, 2019",1,19/20,1,Valencia CF,87,7,Valencia CF,Valencia  (7.),Real Madrid,Real Madrid  (2.),1:1,1,1,1,3,2,1,0,CB,0,0,0
+3,12,2019. 12. 18,"Dec 18, 2019",1,19/20,1,FC Barcelona,30,1,FC Barcelona,FC Barcelona  (1.),Real Madrid,Real Madrid  (2.),0:0,0,0,1,1,3,1,1,CB,90,0,0
+4,12,2019. 12. 22,"Dec 22, 2019",1,19/20,0,Athletic Bilbao,8,8,Real Madrid,Real Madrid  (2.),Athletic Bilbao,Athletic  (8.),0:0,0,0,1,0,1,0,1,CB,90,0,0
+13,1,2020. 1. 4,"Jan 4, 2020",1,19/20,1,Getafe CF,37,6,Getafe CF,Getafe  (6.),Real Madrid,Real Madrid  (2.),0:3,3,0,0,0,0,0,0,Yellow card suspension,90,0,0
+14,1,2020. 1. 18,"Jan 18, 2020",1,19/20,0,Sevilla FC,73,4,Real Madrid,Real Madrid  (2.),Sevilla FC,Sevilla FC  (4.),2:1,2,1,0,3,0,0,0,Sprained Ankle,0,0,0
+4,1,2020. 1. 22,"Jan 22, 2020",2,19/20,1,Unionistas CF,86,21,Unionistas CF,Unionistas CF,Real Madrid,Real Madrid,1:3,3,1,0,2,3,1,0,Sprained Ankle,0,0,0
+4,1,2020. 1. 26,"Jan 26, 2020",1,19/20,1,Real Valladolid CF,66,15,Real Valladolid CF,Real Valladolid  (15.),Real Madrid,Real Madrid  (2.),0:1,1,0,0,3,2,1,1,CB,0,0,0
+3,1,2020. 1. 29,"Jan 29, 2020",2,19/20,1,Real Zaragoza,67,21,Real Zaragoza,Real Zaragoza,Real Madrid,Real Madrid,0:4,4,0,0,1,3,0,1,CB,90,0,0
+3,2,2020. 2. 1,"Feb 1, 2020",1,19/20,0,Atlético Madrid,9,4,Real Madrid,Real Madrid  (1.),Atlético Madrid,Atlético Madrid  (4.),1:0,1,0,0,4,1,0,0,CB,67,0,0
+5,2,2020. 2. 6,"Feb 6, 2020",2,19/20,0,Real Sociedad,64,21,Real Madrid,Real Madrid,Real Sociedad,Real Sociedad,3:4,3,4,2,1,4,0,0,CB,90,0,0
+3,2,2020. 2. 9,"Feb 9, 2020",1,19/20,1,CA Osasuna,14,11,CA Osasuna,CA Osasuna  (11.),Real Madrid,Real Madrid  (1.),1:4,4,1,0,3,1,4,0,CB,90,0,0
+7,2,2020. 2. 16,"Feb 16, 2020",1,19/20,0,Celta de Vigo,20,17,Real Madrid,Real Madrid  (1.),Celta de Vigo,Celta de Vigo  (17.),2:2,2,2,1,4,3,1,4,CB,90,1,0
+6,2,2020. 2. 22,"Feb 22, 2020",1,19/20,1,Levante UD,46,13,Levante UD,Levante  (13.),Real Madrid,Real Madrid  (1.),1:0,0,1,2,2,4,2,1,CB,90,1,0
+4,2,2020. 2. 26,"Feb 26, 2020",0,19/20,0,Manchester City,50,0,Real Madrid,Real Madrid,Manchester City,Man City,1:2,1,2,2,0,2,1,2,CB,90,0,0
+4,3,2020. 3. 1,"Mar 1, 2020",1,19/20,0,FC Barcelona,30,1,Real Madrid,Real Madrid  (2.),FC Barcelona,FC Barcelona  (1.),2:0,2,0,0,1,0,2,1,CB,86,0,0
+7,3,2020. 3. 8,"Mar 8, 2020",1,19/20,1,Real Betis Balompié,62,14,Real Betis Balompié,Real Betis  (14.),Real Madrid,Real Madrid  (1.),2:1,1,2,2,2,1,0,2,CB,90,0,0
+98,6,2020. 6. 14,"Jun 14, 2020",1,19/20,0,SD Eibar,70,16,Real Madrid,Real Madrid  (2.),SD Eibar,SD Eibar  (16.),3:1,3,1,0,1,2,2,0,CB,90,0,0
+4,6,2020. 6. 18,"Jun 18, 2020",1,19/20,0,Valencia CF,87,7,Real Madrid,Real Madrid  (2.),Valencia CF,Valencia  (7.),3:0,3,0,0,3,1,1,2,CB,60,1,0
+3,6,2020. 6. 21,"Jun 21, 2020",1,19/20,1,Real Sociedad,64,6,Real Sociedad,Real Sociedad  (6.),Real Madrid,Real Madrid  (2.),1:2,2,1,0,3,3,0,1,CB,90,0,0
+3,6,2020. 6. 24,"Jun 24, 2020",1,19/20,0,RCD Mallorca,61,18,Real Madrid,Real Madrid  (1.),RCD Mallorca,RCD Mallorca  (18.),2:0,2,0,0,2,3,1,0,CB,60,1,0
+4,6,2020. 6. 28,"Jun 28, 2020",1,19/20,1,RCD Espanyol Barcelona,60,20,RCD Espanyol Barcelona,Espanyol  (20.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,2,2,0,1,CB,90,1,0
+4,7,2020. 7. 2,"Jul 2, 2020",1,19/20,0,Getafe CF,37,5,Real Madrid,Real Madrid  (1.),Getafe CF,Getafe  (5.),1:0,1,0,0,1,2,0,0,CB,90,0,0
+3,7,2020. 7. 5,"Jul 5, 2020",1,19/20,1,Athletic Bilbao,8,8,Athletic Bilbao,Athletic  (8.),Real Madrid,Real Madrid  (1.),0:1,1,0,0,1,1,0,0,CB,90,1,0
+5,7,2020. 7. 10,"Jul 10, 2020",1,19/20,0,Deportivo Alavés,25,15,Real Madrid,Real Madrid  (1.),Deportivo Alavés,Alavés  (15.),2:0,2,0,0,1,1,0,0,Yellow card suspension,90,1,0
+3,7,2020. 7. 13,"Jul 13, 2020",1,19/20,1,Granada CF,41,9,Granada CF,Granada CF  (9.),Real Madrid,Real Madrid  (1.),1:2,2,1,0,2,1,0,0,CB,0,0,0
+3,7,2020. 7. 16,"Jul 16, 2020",1,19/20,0,Villarreal CF,89,5,Real Madrid,Real Madrid  (1.),Villarreal CF,Villarreal  (5.),2:1,2,1,0,2,2,1,0,CB,90,0,0
+3,7,2020. 7. 19,"Jul 19, 2020",1,19/20,1,CD Leganés,17,18,CD Leganés,CD Leganés  (18.),Real Madrid,Real Madrid  (1.),2:2,2,2,1,2,2,1,1,CB,90,0,1
+19,8,2020. 8. 7,"Aug 7, 2020",0,19/20,1,Manchester City,50,0,Manchester City,Man City,Real Madrid,Real Madrid,2:1,1,2,2,2,2,2,1,Red card suspension,45,1,0
+44,9,2020. 9. 20,"Sep 20, 2020",1,20/21,1,Real Sociedad,64,6,Real Sociedad,Real Sociedad  (6.),Real Madrid,Real Madrid  (11.),0:0,0,0,1,1,2,2,2,CB,0,0,0
+6,9,2020. 9. 26,"Sep 26, 2020",1,20/21,1,Real Betis Balompié,62,2,Real Betis Balompié,Real Betis  (2.),Real Madrid,Real Madrid  (10.),2:3,3,2,0,0,1,0,2,CB,90,0,0
+4,9,2020. 9. 30,"Sep 30, 2020",1,20/21,0,Real Valladolid CF,66,16,Real Madrid,Real Madrid  (6.),Real Valladolid CF,Real Valladolid  (16.),1:0,1,0,0,3,0,2,0,CB,90,1,0
+4,10,2020. 10. 4,"Oct 4, 2020",1,20/21,1,Levante UD,46,13,Levante UD,Levante  (13.),Real Madrid,Real Madrid  (3.),0:2,2,0,0,1,3,0,2,CB,90,0,0
+13,10,2020. 10. 17,"Oct 17, 2020",1,20/21,0,Cádiz CF,15,9,Real Madrid,Real Madrid  (1.),Cádiz CF,Cádiz CF  (9.),0:1,0,1,2,2,1,0,0,CB,90,0,0
+4,10,2020. 10. 21,"Oct 21, 2020",0,20/21,0,Shakhtar Donetsk,74,0,Real Madrid,Real Madrid,Shakhtar Donetsk,Shakhtar D.,2:3,2,3,2,0,2,1,0,Knee Problems,45,0,0
+3,10,2020. 10. 24,"Oct 24, 2020",1,20/21,1,FC Barcelona,30,9,FC Barcelona,FC Barcelona  (9.),Real Madrid,Real Madrid  (3.),1:3,3,1,0,2,0,3,1,CB,0,0,0
+3,10,2020. 10. 27,"Oct 27, 2020",0,20/21,1,Borussia Mönchengladbach,13,0,Borussia Mönchengladbach,Bor. Mgladbach,Real Madrid,Real Madrid,2:2,2,2,1,3,2,1,3,CB,90,1,0
+4,10,2020. 10. 31,"Oct 31, 2020",1,20/21,0,SD Huesca,71,18,Real Madrid,Real Madrid  (2.),SD Huesca,SD Huesca  (18.),4:1,4,1,0,2,3,2,1,CB,90,0,1
+3,11,2020. 11. 3,"Nov 3, 2020",0,20/21,0,Inter Milan,43,0,Real Madrid,Real Madrid,Inter Milan,Inter,3:2,3,2,0,4,2,1,2,CB,90,0,0
+5,11,2020. 11. 8,"Nov 8, 2020",1,20/21,1,Valencia CF,87,13,Valencia CF,Valencia  (13.),Real Madrid,Real Madrid  (2.),4:1,1,4,2,3,4,2,1,CB,90,1,0
+13,11,2020. 11.21,,1,,1,Villarreal CF,89,2,,,,,,,,,1,3,4,2,,90,0,0
